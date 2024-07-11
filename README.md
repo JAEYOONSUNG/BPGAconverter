@@ -53,7 +53,6 @@ The basic file for genomic analysis, known as a GenBank file, requires both sequ
 
 ## Anaylsis flow
 
-![Fig S1  DNMB pipeline](https://github.com/JAEYOONSUNG/DNMB/assets/42233037/33e7f91f-9d6c-4e26-9982-6da79ee35999)
 
 ```r
 setwd([GenBank directory])
