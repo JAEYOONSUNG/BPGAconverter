@@ -1,2 +1,130 @@
 # BPGA_downstream
 Downstream process of BPGA output file
+
+# Welcome to the BPGA downstream, a combined scripts-based pipeline for comparative genomics analysis.
+
+
+## Project Introduction
+
+Welcome to our GitHub repository, where we're excited to share a series of workflows designed to streamline processes in systems biology. This repository is composed of various scripts, each tailored to specific tasks within our broader research framework. Additionally, we're providing access to a curated database to enhance your research capabilities.
+- Principal investigator: Dong-Woo Lee
+- Project lead: Jae-Yoon Sung
+- Maintainers: Jae-Yoon Sung
+- Contributors: Jae-Yoon Sung
+
+## Key Features
+Diverse Scripts: Our collection includes a range of scripts, each developed to address unique challenges in systems biology research.
+
+Curated Database: Access to a comprehensive database, meticulously compiled to support and enhance your research projects. 
+                  We provide a package to facilitate tabulating data from various databases including [REBASE](http://rebase.neb.com), [MEROPS](https://www.ebi.ac.uk/merops/download_list.shtml), and [CAZy_dbCAN3](). The tables, which can be easily converted into                   FASTA format, allow for seamless integration with various sequence analysis tools, 
+                  providing flexibility and ease of use for researchers. enabling users to extract desired information using various sequence analysis tools, including BLAST.
+
+User-Friendly Documentation: Detailed documentation is available to guide you through the installation, setup, and utilization of both the scripts and the database.
+
+### Algorithms for analysis
+
+
+### Getting Started:
+To begin using our resources, please follow the steps outlined in our documentation. 
+Whether you're looking to integrate our scripts into your existing projects or explore our database for new insights, we've provided all the necessary instructions to get you started.
+
+### Requirements
+
+The DNMB is supported for macOS, Linux and Windows machines, which can provide an environment for using R.
+It requires R version >=4.2.1 for release, and R version >=4.3 for devel.
+
+One of the third-party functionalities is not available for Windows and MacOS machines (InterProScan).
+
+The [EggNOG-mapper webserver](http://eggnog-mapper.embl.de), allows users to input sequences in FASTA format based on locus_tag identifiers and receive results in either XLSX or CSV format. Additionally, the standalone version available on GitHub is compatible with DNMB.
+
+InterProScan requires a Linux operating system. Without access to Linux, you can proceed with the analysis up to Eggnog-mapper in the annotation stage, but you won't be able to obtain information about motif analysis.
+
+
+To download and install R, see the [R-project website](https://www.r-project.org/).
+
+To download and install InterProScan, see the [InterProScan github](https://github.com/ebi-pf-team/interproscan).
+
+To download and install EggNOG-mapper, see the [EggNOG-mapper github](https://github.com/eggnogdb/eggnog-mapper).
+
+#### Warning
+The basic file for genomic analysis, known as a GenBank file, requires both sequence and annotation in full-format files such as gbff, gb, or gbk. Additionally, GenBank prefers a format based on the GeneMarkS2+ pipeline, and using a different annotation pipeline to obtain GenBank files may lead to errors.
+
+
+
+## Anaylsis flow
+
+![Fig S1  DNMB pipeline](https://github.com/JAEYOONSUNG/DNMB/assets/42233037/33e7f91f-9d6c-4e26-9982-6da79ee35999)
+
+```r
+setwd([GenBank directory])
+if (!requireNamespace("devtools", quietly = TRUE))
+    install.packages("devtools")
+    
+devtools::install_github("JAEYOONSUNG/DNMB")
+```
+   - **Note:** ............
+
+**EggNOG-mapper**
+
+```python
+emapper.py --cpu 20 --mp_start_method forkserver --data_dir [eggnog_data directory] -o out --output_dir [eggnog_output] --temp_dir [eggnog_output] --override -m diamond --dmnd_ignore_warnings --dmnd_algo ctg -i [fasta] --evalue 0.001 --score 60 --pident 40 --query_cover 20 --subject_cover 20 --itype proteins --tax_scope auto --target_orthologs all --go_evidence non-electronic --pfam_realign none --report_orthologs --decorate_gff yes --excel
+
+```
+
+- **Note:** xlsx output
+
+**InterProScan**
+
+```python
+./interproscan.sh -i [input_file] -f tsv -iprlookup -etra -goterms -pa -cpu 20
+```
+
+- **Note:** tsv output
+
+
+**Promotech**
+
+```python
+python promotech.py -pg -m RF-HOT -f examples/genome/[my_fasta].fna -g -o results 
+```
+- **Note:** fasta must have only capital letters
+
+## Docker images
+We are providing ready-to-use Docker images that can be downloaded from the [Docker hub](https://hub.docker.com/).
+See our [Docker page](https://github.com/DNMB/Docker) for more information. 
+
+
+## Contributing
+We welcome contributions from the community! If you have suggestions for improvements, additional scripts, or updates to the database, please see our contributing guidelines for more information on how to get involved.
+
+
+
+## License
+This project is released under MIT licence, which allows for both personal and commercial use, modification, and distribution of our work, provided that proper credit is given.
+
+We hope our resources will prove invaluable to your research in systems biology. For any questions or feedback, please don't hesitate to reach out through our GitHub issues or contact section.
+
+## Citation
+If you use this piepline, please cite:
+```
+[DNMB] DNMB: Accelerating the Domestication of Non-model Thermophilic Microorganisms Geobacillus stearothermohpilus as a Thermophilic Platform Cell.
+             Jae-Yoon Sung, Hyungbin Kim, Seong Do Kim, Sang Jae Lee, Seong Bo Kim, and Dong-Woo Lee. 2024.
+             XXX, XXX, https://doi.org/XXX
+```
+Please, cite also the underlying algorithm if it was used for the search step of DNMB:
+```
+[BGPA]  v2: functional annotation, orthology assignments, and domain 
+                   prediction at the metagenomic scale. Carlos P. Cantalapiedra, 
+                   Ana Hernandez-Plaza, Ivica Letunic, Peer Bork, Jaime Huerta-Cepas. 2021.
+                   Molecular Biology and Evolution, msab293, https://doi.org/10.1093/molbev/msab293
+
+[eggNOG-mapper v2] eggNOG-mapper v2: functional annotation, orthology assignments, and domain 
+                   prediction at the metagenomic scale. Carlos P. Cantalapiedra, 
+                   Ana Hernandez-Plaza, Ivica Letunic, Peer Bork, Jaime Huerta-Cepas. 2021.
+                   Molecular Biology and Evolution, msab293, https://doi.org/10.1093/molbev/msab293
+
+[InterProScan] InterProScan 5: genome-scale protein function classification Philip Jones, David Binns, Hsin-Yu Chang, Matthew Fraser, Weizhong Li, Craig                         McAnulla, Hamish McWilliam, John Maslen, Alex Mitchell, Gift Nuka, Sebastien Pesseat, Antony F. Quinn, Amaia Sangrador-Vegas, Maxim Scheremetjew,                 Siew-Yit Yong, Rodrigo Lopez, Sarah Hunter Bioinformatics (2014), PMID: 24451626
+
+[Promotech] Promotech: A general tool for bacterial promoter recognition. Ruben Chevez-Guardado and Lourdes Peña-Castillo. Genome Biol 22(1):318 (2021). PMID:                34789306. [DOI: 10.1186/s13059-021-02514-9 ] (https://doi.org/10.1186/s13059-021-02514-9)
+
+```
