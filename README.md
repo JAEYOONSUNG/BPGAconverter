@@ -1,5 +1,5 @@
 # BPGA_downstream
-Downstream process of BPGA output file
+Downstream process for BPGA output file. To make user-friendly xlsx file
 
 # Welcome to the BPGA downstream, a combined scripts-based pipeline for comparative genomics analysis.
 
@@ -7,7 +7,6 @@ Downstream process of BPGA output file
 ## Project Introduction
 
 Welcome to our GitHub repository, where we're excited to share a series of workflows designed to streamline processes in systems biology. This repository is composed of various scripts, each tailored to specific tasks within our broader research framework. Additionally, we're providing access to a curated database to enhance your research capabilities.
-- Principal investigator: Dong-Woo Lee
 - Project lead: Jae-Yoon Sung
 - Maintainers: Jae-Yoon Sung
 - Contributors: Jae-Yoon Sung
