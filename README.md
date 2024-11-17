@@ -67,7 +67,6 @@ emapper.py --cpu 20 --mp_start_method forkserver --data_dir [eggnog_data directo
 We welcome contributions from the community! If you have suggestions for improvements, additional scripts, or updates to the database, please see our contributing guidelines for more information on how to get involved.
 
 
-
 ## License
 This project is released under MIT licence, which allows for both personal and commercial use, modification, and distribution of our work, provided that proper credit is given.
 
@@ -82,10 +81,9 @@ If you use this piepline, please cite:
 ```
 Please, cite also the underlying algorithm if it was used for the search step of DNMB:
 ```
-[BGPA]  v2: functional annotation, orthology assignments, and domain 
-                   prediction at the metagenomic scale. Carlos P. Cantalapiedra, 
-                   Ana Hernandez-Plaza, Ivica Letunic, Peer Bork, Jaime Huerta-Cepas. 2021.
-                   Molecular Biology and Evolution, msab293, https://doi.org/10.1093/molbev/msab293
+[BGPA] : BPGA- an ultra-fast pan-genome analysis pipeline
+         Narendrakumar M. Chaudhari, Vinod Kumar Gupta & Chitra Dutta
+         Scientific Reports 6, 24373 (2016). https://doi.org/10.1038/srep24373
 
 [eggNOG-mapper v2] eggNOG-mapper v2: functional annotation, orthology assignments, and domain 
                    prediction at the metagenomic scale. Carlos P. Cantalapiedra, 
