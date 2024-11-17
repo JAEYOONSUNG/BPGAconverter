@@ -9,9 +9,11 @@ Welcome to our GitHub repository, where we're excited to share a series of workf
 - Contributors: Jae-Yoon Sung
 
 ## Key Features
-The BPGA pipeline encounters challenges when retrieving coding sequences (CDS) using protein_id, making it difficult to map back to the original sequence. To address this, all CDS entries are extracted and matched using strain-specific locus_tag. Subsequently, the number of strains analyzed and their CDS are reassigned.
-This approach of pooling and redistributing allows for restructuring the results obtained through BPGA's usearch based on desired columns. By default, the table is organized with a combination of locus_tag, product (annotation), and sequence identity (%) columns.
-Additionally, BPGAconvert enhances analytical convenience by allowing the matching of various types of information beyond just the product of the original CDS.
+- The BPGA pipeline encounters challenges when retrieving coding sequences (CDS) using protein_id, making it difficult to map back to the original sequence.
+- To address this, all CDS entries are extracted and matched using strain-specific locus_tag. Subsequently, the number of strains analyzed and their CDS are reassigned.
+- This approach of pooling and redistributing allows for restructuring the results obtained through BPGA's usearch based on desired columns of comprehensive datasets. 
+- By default, the table is organized with a combination of locus_tag, product (annotation), and sequence identity (%) columns.
+- Additionally, BPGAconvert enhances analytical convenience by allowing the matching of various types of information beyond just the product of the original CDS.
 
 Curated Database: 
 User-Friendly Documentation: Detailed documentation is available to guide you through the installation, setup, and utilization of both the scripts and the database.
