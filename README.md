@@ -47,7 +47,7 @@ devtools::install_github("JAEYOONSUNG/BPGAconvert")
 - More than 50 strains can be occuring errors depending on your computer power and R data capacity.
 
 ### BPGA
-** Caution: **
+**Caution:**
 - BPGA result folder have to located in with genbank files in working directory
 - BPGA program extract genome name from ORGANISM line rightdown SOURCE line of the genbank file (when it open to text format). If you don't want to confusing for matching each column with same name due to empty strain name, you'd better to add strain name at ORGANISM
 - 
