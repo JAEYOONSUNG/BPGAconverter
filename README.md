@@ -26,7 +26,7 @@ Whether you're looking to integrate our scripts into your existing projects or e
 The BPGAconvert is supported for macOS, Linux and Windows machines, which can provide an environment for using R.
 It requires R version >=4.2.1 for release, and R version >=4.3 for devel.
 
-To download and install BPGA, see the [BPGA website]([https://iicb.res.in/bpga/]).
+To download and install a Bacterial Pan-Genome Analysis pipeline (BPGA), see the [BPGA website]([https://iicb.res.in/bpga/]).
 - note: BPGA is supported for only Windows machine 
 
 To download and install R, see the [R-project website](https://www.r-project.org/).
@@ -38,7 +38,6 @@ The basic file for genomic analysis, known as a GenBank file, requires both sequ
 
 
 ## Anaylsis flow
-
 
 ```r
 setwd([GenBank directory])
