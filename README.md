@@ -54,7 +54,7 @@ devtools::install_github("JAEYOONSUNG/BPGAconvert")
 **Caution:**
 - The BPGA result folder must be located in the same working directory as the GenBank files.
 - The BPGA program extracts genome names from the ORGANISM line, located directly below the SOURCE line in the GenBank file (when viewed in text format). To avoid confusion when matching columns with the same name due to missing strain names, it is recommended to add strain names to the ORGANISM line before running BPGA.
-- BPGA supports multiple aligners, including Usearch, CD-HIT, and OrthoMCL. However, <mark>BPGAconvert is currently designed to process results obtained specifically through Usearch analysis</mark>. Support for CD-HIT and OrthoMCL will be added in future updates.
+- BPGA supports multiple aligners, including Usearch, CD-HIT, and OrthoMCL. However, **<mark>BPGAconvert is currently designed to process results obtained specifically through Usearch analysis</mark>**. Support for CD-HIT and OrthoMCL will be added in future updates.
 
 
 ### EggNOG [Optional]
