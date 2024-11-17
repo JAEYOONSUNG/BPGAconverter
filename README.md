@@ -14,10 +14,8 @@ Diverse Scripts: Our collection includes a range of scripts, each developed to a
 Curated Database: 
 User-Friendly Documentation: Detailed documentation is available to guide you through the installation, setup, and utilization of both the scripts and the database.
 
-### Algorithms for analysis
 
-
-### Getting Started:
+## Getting Started:
 To begin using our resources, please follow the steps outlined in our documentation. 
 Whether you're looking to integrate our scripts into your existing projects or explore our database for new insights, we've provided all the necessary instructions to get you started.
 
@@ -31,14 +29,7 @@ To download and install a Bacterial Pan-Genome Analysis pipeline (BPGA), see the
 
 To download and install R, see the [R-project website](https://www.r-project.org/).
 
-
-#### Warning
-The basic file for genomic analysis, known as a GenBank file, requires both sequence and annotation in full-format files such as gbff, gb, or gbk. Additionally, GenBank prefers a format based on the GeneMarkS2+ pipeline, and using a different annotation pipeline to obtain GenBank files may lead to errors.
-
-
-
-## Anaylsis flow
-
+### Installation
 ```r
 setwd([GenBank directory])
 if (!requireNamespace("devtools", quietly = TRUE))
@@ -46,10 +37,17 @@ if (!requireNamespace("devtools", quietly = TRUE))
     
 devtools::install_github("JAEYOONSUNG/BPGAconvert")
 ```
-- **Note:** More than 50 strains can be occuring errors depending on your computer power and R data capacity.
+
+
+
+## Anaylsis flow
+
+#### Warning
+- The basic file for genomic analysis, known as a GenBank file, requires both sequence and annotation in full-format files such as gbff, gb, or gbk. Additionally, GenBank prefers a format based on the GeneMarkS2+ pipeline, and using a different annotation pipeline to obtain GenBank files may lead to errors.
+- More than 50 strains can be occuring errors depending on your computer power and R data capacity.
 
 ### BPGA
-**Caution:**
+** Caution: **
 - BPGA result folder have to located in with genbank files in working directory
 - BPGA program extract genome name from ORGANISM line rightdown SOURCE line of the genbank file (when it open to text format). If you don't want to confusing for matching each column with same name due to empty strain name, you'd better to add strain name at ORGANISM
 - 
