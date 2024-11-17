@@ -45,7 +45,7 @@ setwd([GenBank directory])
 if (!requireNamespace("devtools", quietly = TRUE))
     install.packages("devtools")
     
-devtools::install_github("JAEYOONSUNG/BPGA_downstream")
+devtools::install_github("JAEYOONSUNG/BPGAconvert")
 ```
    - **Note:** ............
 
@@ -56,7 +56,8 @@ emapper.py --cpu 20 --mp_start_method forkserver --data_dir [eggnog_data directo
 
 ```
 
-- **Note:** BPGA result
+- **Note:** BPGA result folder have to located in with genbank files in working directory
+- BPGA program extract genome name from LOCUS line of the genbank file (when it open to text format)
 
 
 ## Contributing
