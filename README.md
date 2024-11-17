@@ -1,5 +1,5 @@
 # Welcome to the BPGAconvert, a combined scripts-based pipeline for comparative genomics analysis.
-Downstream process for BPGA output file. To make user-friendly xlsx file
+Downstream processing of BPGA output files to generate user-friendly XLSX files and publication-ready figures.
 
 ## Project Introduction
 
@@ -9,7 +9,9 @@ Welcome to our GitHub repository, where we're excited to share a series of workf
 - Contributors: Jae-Yoon Sung
 
 ## Key Features
-Diverse Scripts: Our collection includes a range of scripts, each developed to address unique challenges in systems biology research.
+The BPGA pipeline encounters challenges when retrieving coding sequences (CDS) using protein_id, making it difficult to map back to the original sequence. To address this, all CDS entries are extracted and matched using strain-specific locus_tag. Subsequently, the number of strains analyzed and their CDS are reassigned.
+This approach of pooling and redistributing allows for restructuring the results obtained through BPGA's usearch based on desired columns. By default, the table is organized with a combination of locus_tag, product (annotation), and sequence identity (%) columns.
+Additionally, BPGAconvert enhances analytical convenience by allowing the matching of various types of information beyond just the product of the original CDS.
 
 Curated Database: 
 User-Friendly Documentation: Detailed documentation is available to guide you through the installation, setup, and utilization of both the scripts and the database.
@@ -44,13 +46,13 @@ devtools::install_github("JAEYOONSUNG/BPGAconvert")
 
 #### Warning
 - The basic file for genomic analysis, known as a GenBank file, requires both sequence and annotation in full-format files such as gbff, gb, or gbk. Additionally, GenBank prefers a format based on the GeneMarkS2+ pipeline, and using a different annotation pipeline to obtain GenBank files may lead to errors.
-- More than 50 strains can be occuring errors depending on your computer power and R data capacity.
+- Processing more than 50 strains may cause errors depending on your computer’s processing power and R’s data capacity.
 
 ### BPGA
 **Caution:**
-- BPGA result folder have to located in with genbank files in working directory
-- BPGA program extract genome name from ORGANISM line rightdown SOURCE line of the genbank file (when it open to text format). If you don't want to confusing for matching each column with same name due to empty strain name, you'd better to add strain name at ORGANISM
-- 
+- The BPGA result folder must be located in the same working directory as the GenBank files.
+- The BPGA program extracts genome names from the ORGANISM line, located directly below the SOURCE line in the GenBank file (when viewed in text format). To avoid confusion when matching columns with the same name due to missing strain names, it is recommended to add strain names to the ORGANISM line before running BPGA.
+-  
 
 
 ### EggNOG [Optional]
