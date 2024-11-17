@@ -1,8 +1,5 @@
-# BPGA_downstream
+# Welcome to the BPGAconvert, a combined scripts-based pipeline for comparative genomics analysis.
 Downstream process for BPGA output file. To make user-friendly xlsx file
-
-# Welcome to the BPGA downstream, a combined scripts-based pipeline for comparative genomics analysis.
-
 
 ## Project Introduction
 
@@ -26,10 +23,11 @@ Whether you're looking to integrate our scripts into your existing projects or e
 
 ### Requirements
 
-The BPGA downstream is supported for macOS, Linux and Windows machines, which can provide an environment for using R.
+The BPGAconvert is supported for macOS, Linux and Windows machines, which can provide an environment for using R.
 It requires R version >=4.2.1 for release, and R version >=4.3 for devel.
 
 To download and install BPGA, see the [BPGA website]([https://iicb.res.in/bpga/]).
+- note: BPGA is supported for only Windows machine 
 
 To download and install R, see the [R-project website](https://www.r-project.org/).
 
