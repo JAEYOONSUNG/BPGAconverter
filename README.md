@@ -47,18 +47,20 @@ if (!requireNamespace("devtools", quietly = TRUE))
     
 devtools::install_github("JAEYOONSUNG/BPGAconvert")
 ```
-   - **Note:** ............
+- **Note:** More than 50 strains can be occuring errors depending on your computer power and R data capacity.
 
 **BPGA**
+- **Caution:**
+- BPGA result folder have to located in with genbank files in working directory
+- BPGA program extract genome name from ORGANISM line rightdown SOURCE line of the genbank file (when it open to text format). If you don't want to confusing for matching each column with same name due to empty strain name, you'd better to add strain name at ORGANISM
+- 
 
+
+**EggNOG [Optional]**
 ```python
 emapper.py --cpu 20 --mp_start_method forkserver --data_dir [eggnog_data directory] -o out --output_dir [eggnog_output] --temp_dir [eggnog_output] --override -m diamond --dmnd_ignore_warnings --dmnd_algo ctg -i [fasta] --evalue 0.001 --score 60 --pident 40 --query_cover 20 --subject_cover 20 --itype proteins --tax_scope auto --target_orthologs all --go_evidence non-electronic --pfam_realign none --report_orthologs --decorate_gff yes --excel
 
 ```
-
-- **Note:** BPGA result folder have to located in with genbank files in working directory
-- BPGA program extract genome name from LOCUS line of the genbank file (when it open to text format)
-
 
 ## Contributing
 We welcome contributions from the community! If you have suggestions for improvements, additional scripts, or updates to the database, please see our contributing guidelines for more information on how to get involved.
