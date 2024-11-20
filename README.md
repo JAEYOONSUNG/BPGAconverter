@@ -50,6 +50,14 @@ devtools::install_github("JAEYOONSUNG/BPGAconvert")
 - The basic file for genomic analysis, known as a GenBank file, requires both sequence and annotation in full-format files such as gbff, gb, or gbk. Additionally, GenBank prefers a format based on the GeneMarkS2+ pipeline, and using a different annotation pipeline to obtain GenBank files may lead to errors.
 - Processing more than 50 strains may cause errors depending on your computer’s processing power and R’s data capacity.
 
+# Quick start
+## Run DNMB analysis
+```r
+setwd([Analysis directory]) # Set the working directory to the directory containing folders named GenBank, BPGA Supporting_files, and Results. The GenBank folder must include files with extensions such as .gbff, .gb, or .gbk.
+library(BPGAconvert)
+run_BPGAconvert()
+```
+
 ### BPGA
 **Caution:**
 - The BPGA result folder must be located in the same working directory as the GenBank files.
@@ -62,7 +70,8 @@ devtools::install_github("JAEYOONSUNG/BPGAconvert")
 emapper.py --cpu 20 --mp_start_method forkserver --data_dir [eggnog_data directory] -o out --output_dir [eggnog_output] --temp_dir [eggnog_output] --override -m diamond --dmnd_ignore_warnings --dmnd_algo ctg -i [fasta] --evalue 0.001 --score 60 --pident 40 --query_cover 20 --subject_cover 20 --itype proteins --tax_scope auto --target_orthologs all --go_evidence non-electronic --pfam_realign none --report_orthologs --decorate_gff yes --excel
 
 ```
-
+- **Note:** [Strain of interest].emapper.annotations.xlsx or [Strain of interest]emapper.annotations.csv output are used for merging data.
+  
 ## Contributing
 We welcome contributions from the community! If you have suggestions for improvements, additional scripts, or updates to the database, please see our contributing guidelines for more information on how to get involved.
 
