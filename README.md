@@ -1,6 +1,10 @@
 # Welcome to the BPGAconvert, a combined scripts-based pipeline for comparative genomics analysis.
 Downstream processing of BPGA output files to generate user-friendly XLSX files and publication-ready figures.
 
+<img width="1356" alt="table" src="https://github.com/user-attachments/assets/c69f0733-dcbf-46be-867c-6fd7502ef9c7">
+<img width="1155" alt="plot" src="https://github.com/user-attachments/assets/a7e04b45-60c3-4d8b-9baa-0fd795580e54">
+
+
 ## Project Introduction
 
 Welcome to our GitHub repository, where we're excited to share a series of workflows designed to streamline processes in systems biology. This repository is composed of various scripts, each tailored to specific tasks within our broader research framework. Additionally, we're providing access to a curated database to enhance your research capabilities.
