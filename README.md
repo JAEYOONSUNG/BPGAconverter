@@ -1,4 +1,4 @@
-# Welcome to the BPGAconvert, a combined scripts-based pipeline for comparative genomics analysis.
+# Welcome to the BPGAconverter, a combined scripts-based pipeline for comparative genomics analysis.
 Downstream processing of BPGA output files to generate user-friendly XLSX files and publication-ready figures.
 
 <img width="1356" alt="table" src="https://github.com/user-attachments/assets/c69f0733-dcbf-46be-867c-6fd7502ef9c7">
@@ -17,7 +17,7 @@ Welcome to our GitHub repository, where we're excited to share a series of workf
 - To address this, all CDS entries are extracted and matched using strain-specific locus_tag. Subsequently, the number of strains analyzed and their CDS are reassigned.
 - This approach of pooling and redistributing allows for restructuring the results obtained through BPGA's usearch based on desired columns of comprehensive datasets. 
 - By default, the table is organized with a combination of locus_tag, product (annotation), and sequence identity (%) columns.
-- Additionally, BPGAconvert enhances analytical convenience by allowing the matching of various types of information beyond just the product of the original CDS.
+- Additionally, BPGAconverter enhances analytical convenience by allowing the matching of various types of information beyond just the product of the original CDS.
 
 Curated Database: 
 User-Friendly Documentation: Detailed documentation is available to guide you through the installation, setup, and utilization of both the scripts and the database.
@@ -29,7 +29,7 @@ Whether you're looking to integrate our scripts into your existing projects or e
 
 ### Requirements
 
-The BPGAconvert is supported for macOS, Linux and Windows machines, which can provide an environment for using R.
+The BPGAconverter is supported for macOS, Linux and Windows machines, which can provide an environment for using R.
 It requires R version >=4.2.1 for release, and R version >=4.3 for devel.
 
 To download and install a Bacterial Pan-Genome Analysis pipeline (BPGA), see the [BPGA website]([https://iicb.res.in/bpga/]).
@@ -43,7 +43,7 @@ setwd([GenBank directory])
 if (!requireNamespace("devtools", quietly = TRUE))
     install.packages("devtools")
     
-devtools::install_github("JAEYOONSUNG/BPGAconvert")
+devtools::install_github("JAEYOONSUNG/BPGAconverter")
 ```
 
 
@@ -58,8 +58,8 @@ devtools::install_github("JAEYOONSUNG/BPGAconvert")
 ## Run BPGA downstream analysis
 ```r
 setwd([Analysis directory]) # Set the working directory to the directory containing folders named GenBank, BPGA Supporting_files, and Results. The GenBank folder must include files with extensions such as .gbff, .gb, or .gbk.
-library(BPGAconvert)
-run_BPGAconvert() # for generating reconstructed table
+library(BPGAconverter)
+run_BPGAconverter() # for generating reconstructed table
 run_BPGAplot() # for generating figure
 ```
 
@@ -67,7 +67,7 @@ run_BPGAplot() # for generating figure
 **Caution:**
 - The BPGA result folder must be located in the same working directory as the GenBank files.
 - The BPGA program extracts genome names from the ORGANISM line, located directly below the SOURCE line in the GenBank file (when viewed in text format). To avoid confusion when matching columns with the same name due to missing strain names, it is recommended to add strain names to the ORGANISM line before running BPGA.
-- BPGA supports multiple aligners, including Usearch, CD-HIT, and OrthoMCL. However, **<mark>BPGAconvert is currently designed to process results obtained specifically through Usearch analysis</mark>**. Support for CD-HIT and OrthoMCL will be added in future updates.
+- BPGA supports multiple aligners, including Usearch, CD-HIT, and OrthoMCL. However, **<mark>BPGAconverter is currently designed to process results obtained specifically through Usearch analysis</mark>**. Support for CD-HIT and OrthoMCL will be added in future updates.
 
 
 ### EggNOG [Optional]
