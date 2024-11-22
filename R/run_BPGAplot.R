@@ -19,7 +19,7 @@
 #' # Save the combined plot to a specific directory
 #' combined_plot(directory = "path/to/output", combined_filename = "custom_combined_plot.pdf")
 
-combined_plot <- function(directory = NULL, save_combined = TRUE, combined_filename = "combined_plot.pdf") {
+run_BPGAplot <- function(directory = NULL, save_combined = TRUE, combined_filename = "combined_plot.pdf") {
   # Step 1: Set default directory
   if (is.null(directory)) {
     directory <- getwd()
