@@ -55,11 +55,12 @@ devtools::install_github("JAEYOONSUNG/BPGAconvert")
 - Processing more than 50 strains may cause errors depending on your computer’s processing power and R’s data capacity.
 
 # Quick start
-## Run DNMB analysis
+## Run BPGA downstream analysis
 ```r
 setwd([Analysis directory]) # Set the working directory to the directory containing folders named GenBank, BPGA Supporting_files, and Results. The GenBank folder must include files with extensions such as .gbff, .gb, or .gbk.
 library(BPGAconvert)
-run_BPGAconvert()
+run_BPGAconvert() # for generating reconstructed table
+run_BPGAplot() # for generating figure
 ```
 
 ### BPGA
