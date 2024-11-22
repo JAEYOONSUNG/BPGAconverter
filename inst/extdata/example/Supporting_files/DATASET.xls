@@ -1,0 +1,11 @@
+Genome_no.	Organism_name	Filename	Number_of_proteins	Genomic_G+C_%
+1	Geobacillus_sp._12AMOR1	Geobacillus sp. 12AMOR1.gbff	3110	52.6
+2	Geobacillus_sp._LC300	Geobacillus sp. LC300.gbff	2912	52.5
+3	Geobacillus_stearothermophilus_ATCC_12980	Geobacillus stearothermophilus ATCC 12980.gbff	2755	53.0
+4	Geobacillus_stearothermophilus_EF60045	Geobacillus stearothermophilus EF60045.gb	3459	52.2
+5	Geobacillus_stearothermophilus_EF60063	Geobacillus stearothermophilus EF60063.gb	3353	52.2
+6	Geobacillus_subterraneus_CPW16	Geobacillus subterraneus strain CPW16.gbff	3375	52.3
+7	Geobacillus_thermocatenulatus_KCTC_3921	Geobacillus thermocatenulatus strain KCTC 3921.gbff	3464	52.2
+8	Geobacillus_thermodenitrificans_ID_1	Geobacillus thermodenitrificans strain ID-1.gbff	3570	49.2
+9	Geobacillus_thermodenitrificans_KCTC_3902	Geobacillus thermodenitrificans strain KCTC 3902.gbff	3373	49.4
+10	Geobacillus_thermoleovorans_KCTC_3570	Geobacillus thermoleovorans KCTC 3570.gbff	3298	52.5

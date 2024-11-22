@@ -1,0 +1,387 @@
+MAJOR_KEGG_CATEGORY	KEGG SUB-CATEGORY	KEGG PATHWAY	CORE	ACCESSORY	UNIQUE
+Cellular_Processes	Cell_growth_and_death	04110 Cell cycle [PATH:ko04110]	0	0	1
+		04111 Cell cycle - yeast [PATH:ko04111]	0	0	1
+		04112 Cell cycle - Caulobacter [PATH:ko04112]	10	3	3
+		04113 Meiosis - yeast [PATH:ko04113]	0	0	1
+		04114 Oocyte meiosis [PATH:ko04114]	0	0	1
+		04115 p53 signaling pathway [PATH:ko04115]	0	0	0
+		04210 Apoptosis [PATH:ko04210]	0	0	0
+	Cell_motility	02030 Bacterial chemotaxis [PATH:ko02030]	15	13	4
+		02040 Flagellar assembly [PATH:ko02040]	21	14	10
+		04810 Regulation of actin cytoskeleton [PATH:ko04810]	0	0	0
+	Cellular_commiunity	04510 Focal adhesion [PATH:ko04510]	0	0	0
+		04520 Adherens junction [PATH:ko04520]	0	0	0
+		04530 Tight junction [PATH:ko04530]	0	0	1
+		04540 Gap junction [PATH:ko04540]	0	0	0
+		04550 Signaling pathways regulating pluripotency of stem cells [PATH:ko04550]	0	0	0
+	Transport_and_catabolism	04140 Regulation of autophagy [PATH:ko04140]	0	0	0
+		04142 Lysosome [PATH:ko04142]	0	0	1
+		04144 Endocytosis [PATH:ko04144]	0	0	0
+		04145 Phagosome [PATH:ko04145]	0	0	0
+		04146 Peroxisome [PATH:ko04146]	4	11	2
+Environmental_Information_Processing	Membrane_transport	02010 ABC transporters [PATH:ko02010]	43	133	59
+		02060 Phosphotransferase system (PTS) [PATH:ko02060]	3	20	9
+		03070 Bacterial secretion system [PATH:ko03070]	11	9	2
+	Signal_transduction	02020 Two-component system [PATH:ko02020]	39	70	28
+		04010 MAPK signaling pathway [PATH:ko04010]	0	0	0
+		04011 MAPK signaling pathway - yeast [PATH:ko04011]	0	1	0
+		04012 ErbB signaling pathway [PATH:ko04012]	0	0	0
+		04013 MAPK signaling pathway - fly [PATH:ko04013]	0	0	0
+		04014 Ras signaling pathway [PATH:ko04014]	0	0	1
+		04015 Rap1 signaling pathway [PATH:ko04015]	0	0	0
+		04020 Calcium signaling pathway [PATH:ko04020]	0	0	0
+		04022 cGMP - PKG signaling pathway [PATH:ko04022]	0	0	0
+		04024 cAMP signaling pathway [PATH:ko04024]	0	0	0
+		04064 NF-kappa B signaling pathway [PATH:ko04064]	0	0	0
+		04066 HIF-1 signaling pathway [PATH:ko04066]	3	5	4
+		04068 FoxO signaling pathway [PATH:ko04068]	1	2	0
+		04070 Phosphatidylinositol signaling system [PATH:ko04070]	2	1	0
+		04071 Sphingolipid signaling pathway [PATH:ko04071]	0	0	0
+		04075 Plant hormone signal transduction [PATH:ko04075]	0	0	0
+		04150 mTOR signaling pathway [PATH:ko04150]	0	0	0
+		04151 PI3K-Akt signaling pathway [PATH:ko04151]	0	0	0
+		04152 AMPK signaling pathway [PATH:ko04152]	1	0	0
+		04310 Wnt signaling pathway [PATH:ko04310]	0	0	0
+		04330 Notch signaling pathway [PATH:ko04330]	0	0	0
+		04340 Hedgehog signaling pathway [PATH:ko04340]	0	0	0
+		04350 TGF-beta signaling pathway [PATH:ko04350]	0	0	0
+		04370 VEGF signaling pathway [PATH:ko04370]	0	0	0
+		04390 Hippo signaling pathway [PATH:ko04390]	0	0	0
+		04391 Hippo signaling pathway -fly [PATH:ko04391]	0	0	0
+		04630 Jak-STAT signaling pathway [PATH:ko04630]	0	0	0
+		04668 TNF signaling pathway [PATH:ko04668]	0	0	0
+	Signaling_molecules_and_interaction	04060 Cytokine-cytokine receptor interaction [PATH:ko04060]	0	0	0
+		04080 Neuroactive ligand-receptor interaction [PATH:ko04080]	0	0	0
+		04512 ECM-receptor interaction [PATH:ko04512]	0	0	0
+		04514 Cell adhesion molecules (CAMs) [PATH:ko04514]	0	0	0
+Genetic_Information_Processing	Folding,_sorting_and_degradation	03018 RNA degradation [PATH:ko03018]	13	0	2
+		03050 Proteasome [PATH:ko03050]	0	0	0
+		03060 Protein export [PATH:ko03060]	13	6	1
+		04120 Ubiquitin mediated proteolysis [PATH:ko04120]	0	0	0
+		04122 Sulfur relay system [PATH:ko04122]	9	3	1
+		04130 SNARE interactions in vesicular transport [PATH:ko04130]	0	0	0
+		04141 Protein processing in endoplasmic reticulum [PATH:ko04141]	1	0	0
+	Replication_and_repair	03030 DNA replication [PATH:ko03030]	14	4	5
+		03410 Base excision repair [PATH:ko03410]	8	1	1
+		03420 Nucleotide excision repair [PATH:ko03420]	7	0	6
+		03430 Mismatch repair [PATH:ko03430]	14	4	11
+		03440 Homologous recombination [PATH:ko03440]	14	6	4
+		03450 Non-homologous end-joining [PATH:ko03450]	0	0	0
+		03460 Fanconi anemia pathway [PATH:ko03460]	0	0	0
+	Transcription	03020 RNA polymerase [PATH:ko03020]	5	0	0
+		03022 Basal transcription factors [PATH:ko03022]	0	0	0
+		03040 Spliceosome [PATH:ko03040]	0	0	0
+	Translation	00970 Aminoacyl-tRNA biosynthesis [PATH:ko00970]	21	5	1
+		03008 Ribosome biogenesis in eukaryotes [PATH:ko03008]	1	0	0
+		03010 Ribosome [PATH:ko03010]	52	3	0
+		03013 RNA transport [PATH:ko03013]	1	1	0
+		03015 mRNA surveillance pathway [PATH:ko03015]	0	0	0
+Human_Diseases	Cancers	05200 Pathways in cancer [PATH:ko05200]	1	0	0
+		05202 Transcriptional misregulation in cancers [PATH:ko05202]	0	0	0
+		05203 Viral carcinogenesis [PATH:ko05203]	1	1	0
+		05204 Chemical carcinogenesis [PATH:ko05204]	0	2	0
+		05205 Proteoglycans in cancer [PATH:ko05205]	1	0	0
+		05206 MicroRNAs in cancer [PATH:ko05206]	0	1	4
+		05210 Colorectal cancer [PATH:ko05210]	0	0	0
+		05211 Renal cell carcinoma [PATH:ko05211]	1	0	0
+		05212 Pancreatic cancer [PATH:ko05212]	0	0	0
+		05213 Endometrial cancer [PATH:ko05213]	0	0	0
+		05214 Glioma [PATH:ko05214]	0	0	0
+		05215 Prostate cancer [PATH:ko05215]	0	0	0
+		05216 Thyroid cancer [PATH:ko05216]	0	0	0
+		05217 Basal cell carcinoma [PATH:ko05217]	0	0	0
+		05218 Melanoma [PATH:ko05218]	0	0	0
+		05219 Bladder cancer [PATH:ko05219]	0	0	0
+		05220 Chronic myeloid leukemia [PATH:ko05220]	0	0	0
+		05221 Acute myeloid leukemia [PATH:ko05221]	0	0	0
+		05222 Small cell lung cancer [PATH:ko05222]	0	0	0
+		05223 Non-small cell lung cancer [PATH:ko05223]	0	0	0
+		05230 Central carbon metabolism in cancer [PATH:ko05230]	4	8	5
+		05231 Choline metabolism in cancer [PATH:ko05231]	1	0	0
+	Cardiovascular_diseases	05410 Hypertrophic cardiomyopathy (HCM) [PATH:ko05410]	0	0	0
+		05412 Arrhythmogenic right ventricular cardiomyopathy (ARVC) [PATH:ko05412]	0	0	0
+		05414 Dilated cardiomyopathy (DCM) [PATH:ko05414]	0	0	0
+		05416 Viral myocarditis [PATH:ko05416]	0	0	0
+	Drug_resistance	01501 beta-Lactam resistance [PATH:ko01501]	4	10	3
+		01502 Vancomycin resistance [PATH:ko01502]	5	1	0
+		01503 Cationic antimicrobial peptide (CAMP) resistance [PATH:ko01503]	1	8	1
+	Endocrine_and_metabolic_diseases	04930 Type II diabetes mellitus [PATH:ko04930]	1	1	0
+		04932 Non-alcoholic fatty liver disease (NAFLD) [PATH:ko04932]	0	2	0
+		04940 Type I diabetes mellitus [PATH:ko04940]	1	0	0
+		04950 Maturity onset diabetes of the young [PATH:ko04950]	0	0	0
+	Immune_diseases	05310 Asthma [PATH:ko05310]	0	0	0
+		05320 Autoimmune thyroid disease [PATH:ko05320]	0	0	0
+		05321 Inflammatiory bowel disease (IBD) [PATH:ko05321]	0	0	0
+		05322 Systemic lupus erythematosus [PATH:ko05322]	0	0	0
+		05323 Rheumatoid arthritis [PATH:ko05323]	0	0	0
+		05330 Allograft rejection [PATH:ko05330]	0	0	0
+		05332 Graft-versus-host disease [PATH:ko05332]	0	0	0
+		05340 Primary immunodeficiency [PATH:ko05340]	1	0	0
+	Infectious_diseases	05100 Bacterial invasion of epithelial cells [PATH:ko05100]	0	0	0
+		05110 Vibrio cholerae infection [PATH:ko05110]	0	0	0
+		05111 Vibrio cholerae pathogenic cycle [PATH:ko05111]	3	0	1
+		05120 Epithelial cell signaling in Helicobacter pylori infection [PATH:ko05120]	1	3	0
+		05130 Pathogenic Escherichia coli infection [PATH:ko05130]	0	0	0
+		05131 Shigellosis [PATH:ko05131]	0	0	0
+		05132 Salmonella infection [PATH:ko05132]	0	4	8
+		05133 Pertussis [PATH:ko05133]	0	0	1
+		05134 Legionellosis [PATH:ko05134]	3	2	8
+		05140 Leishmaniasis [PATH:ko05140]	0	0	0
+		05142 Chagas disease (American trypanosomiasis) [PATH:ko05142]	0	0	0
+		05143 African trypanosomiasis [PATH:ko05143]	0	0	0
+		05144 Malaria [PATH:ko05144]	0	0	0
+		05145 Toxoplasmosis [PATH:ko05145]	0	0	0
+		05146 Amoebiasis [PATH:ko05146]	1	0	0
+		05150 Staphylococcus aureus infection [PATH:ko05150]	0	0	0
+		05152 Tuberculosis [PATH:ko05152]	2	2	2
+		05160 Hepatitis C [PATH:ko05160]	0	0	0
+		05161 Hepatitis B [PATH:ko05161]	0	0	0
+		05162 Measles [PATH:ko05162]	0	0	0
+		05164 Influenza A [PATH:ko05164]	0	0	0
+		05166 HTLV-I infection [PATH:ko05166]	0	0	0
+		05168 Herpes simplex infection [PATH:ko05168]	0	0	0
+		05169 Epstein-Barr virus infection [PATH:ko05169]	0	0	0
+	Neurodegenerative_diseases	05010 Alzheimer's disease [PATH:ko05010]	1	2	0
+		05012 Parkinson's disease [PATH:ko05012]	0	2	0
+		05014 Amyotrophic lateral sclerosis (ALS) [PATH:ko05014]	1	0	0
+		05016 Huntington's disease [PATH:ko05016]	2	4	0
+		05020 Prion diseases [PATH:ko05020]	1	0	0
+	Substance_dependence	05030 Cocaine addiction [PATH:ko05030]	0	0	0
+		05031 Amphetamine addiction [PATH:ko05031]	0	0	0
+		05032 Morphine addiction [PATH:ko05032]	0	0	0
+		05033 Nicotine addiction [PATH:ko05033]	0	0	0
+		05034 Alcoholism [PATH:ko05034]	0	0	0
+Metabolism	Amino_acid_metabolism	00250 Alanine, aspartate and glutamate metabolism [PATH:ko00250]	18	11	4
+		00260 Glycine, serine and threonine metabolism [PATH:ko00260]	24	12	11
+		00270 Cysteine and methionine metabolism [PATH:ko00270]	28	10	9
+		00280 Valine, leucine and isoleucine degradation [PATH:ko00280]	9	27	8
+		00290 Valine, leucine and isoleucine biosynthesis [PATH:ko00290]	11	5	3
+		00300 Lysine biosynthesis [PATH:ko00300]	10	10	1
+		00310 Lysine degradation [PATH:ko00310]	3	13	5
+		00330 Arginine and proline metabolism [PATH:ko00330]	19	23	10
+		00340 Histidine metabolism [PATH:ko00340]	10	10	3
+		00350 Tyrosine metabolism [PATH:ko00350]	1	11	4
+		00360 Phenylalanine metabolism [PATH:ko00360]	3	16	3
+		00380 Tryptophan metabolism [PATH:ko00380]	2	17	4
+		00400 Phenylalanine, tyrosine and tryptophan biosynthesis [PATH:ko00400]	14	6	0
+	Biosynthesis_of_other_secondary_metabolites	00231 Puromycin biosynthesis [PATH:ko00231]	0	0	0
+		00232 Caffeine metabolism [PATH:ko00232]	0	0	1
+		00254 Aflatoxin biosynthesis [PATH:ko00254]	0	0	0
+		00261 Monobactam biosynthesis [PATH:ko00261]	5	3	1
+		00311 Penicillin and cephalosporin biosynthesis [PATH:ko00311]	0	0	0
+		00331 Clavulanic acid biosynthesis [PATH:ko00331]	0	0	0
+		00332 Carbapenem biosynthesis [PATH:ko00332]	2	0	0
+		00401 Novobiocin biosynthesis [PATH:ko00401]	2	1	0
+		00402 Benzoxazinoid biosynthesis [PATH:ko00402]	0	0	0
+		00403 Indole diterpene alkaloid biosynthesis [PATH:ko00403]	0	0	0
+		00521 Streptomycin biosynthesis [PATH:ko00521]	3	7	3
+		00524 Butirosin and neomycin biosynthesis [PATH:ko00524]	1	0	0
+		00901 Indole alkaloid biosynthesis [PATH:ko00901]	0	0	0
+		00940 Phenylpropanoid biosynthesis [PATH:ko00940]	0	1	1
+		00941 Flavonoid biosynthesis [PATH:ko00941]	0	0	0
+		00942 Anthocyanin biosynthesis [PATH:ko00942]	0	0	0
+		00943 Isoflavonoid biosynthesis [PATH:ko00943]	0	0	0
+		00944 Flavone and flavonol biosynthesis [PATH:ko00944]	0	0	1
+		00945 Stilbenoid, diarylheptanoid and gingerol biosynthesis [PATH:ko00945]	0	0	0
+		00950 Isoquinoline alkaloid biosynthesis [PATH:ko00950]	1	0	0
+		00960 Tropane, piperidine and pyridine alkaloid biosynthesis [PATH:ko00960]	1	2	0
+		00965 Betalain biosynthesis [PATH:ko00965]	0	0	0
+		00966 Glucosinolate biosynthesis [PATH:ko00966]	0	0	0
+		01058 Acridone alkaloid biosynthesis [PATH:ko01058]	0	0	0
+	Carbohydrate_metabolism	00010 Glycolysis / Gluconeogenesis [PATH:ko00010]	18	37	15
+		00020 Citrate cycle (TCA cycle) [PATH:ko00020]	20	10	6
+		00030 Pentose phosphate pathway [PATH:ko00030]	14	17	9
+		00040 Pentose and glucuronate interconversions [PATH:ko00040]	2	18	8
+		00051 Fructose and mannose metabolism [PATH:ko00051]	11	6	2
+		00052 Galactose metabolism [PATH:ko00052]	7	12	6
+		00053 Ascorbate and aldarate metabolism [PATH:ko00053]	0	10	10
+		00500 Starch and sucrose metabolism [PATH:ko00500]	7	23	8
+		00520 Amino sugar and nucleotide sugar metabolism [PATH:ko00520]	17	27	8
+		00562 Inositol phosphate metabolism [PATH:ko00562]	2	11	2
+		00620 Pyruvate metabolism [PATH:ko00620]	20	31	15
+		00630 Glyoxylate and dicarboxylate metabolism [PATH:ko00630]	14	30	8
+		00640 Propanoate metabolism [PATH:ko00640]	10	27	6
+		00650 Butanoate metabolism [PATH:ko00650]	9	26	12
+		00660 C5-Branched dibasic acid metabolism [PATH:ko00660]	7	3	2
+	Energy_metabolism	00190 Oxidative phosphorylation [PATH:ko00190]	25	24	3
+		00195 Photosynthesis [PATH:ko00195]	8	0	0
+		00196 Photosynthesis - antenna proteins [PATH:ko00196]	0	0	0
+		00680 Methane metabolism [PATH:ko00680]	12	15	8
+		00710 Carbon fixation in photosynthetic organisms [PATH:ko00710]	10	0	2
+		00720 Carbon fixation pathways in prokaryotes [PATH:ko00720]	18	18	6
+		00910 Nitrogen metabolism [PATH:ko00910]	5	18	2
+		00920 Sulfur metabolism [PATH:ko00920]	10	11	7
+	Glycan_biosynthesis_and_metabolism	00510 N-Glycan biosynthesis [PATH:ko00510]	0	1	0
+		00511 Other glycan degradation [PATH:ko00511]	0	1	1
+		00512 Mucin type O-glycan biosynthesis [PATH:ko00512]	0	0	0
+		00513 Various types of N-glycan biosynthesis [PATH:ko00513]	0	0	0
+		00514 Other types of O-glycan biosynthesis [PATH:ko00514]	0	0	0
+		00531 Glycosaminoglycan degradation [PATH:ko00531]	0	2	1
+		00532 Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate [PATH:ko00532]	0	0	0
+		00533 Glycosaminoglycan biosynthesis - keratan sulfate [PATH:ko00533]	0	0	0
+		00534 Glycosaminoglycan biosynthesis - heparan sulfate / heparin [PATH:ko00534]	0	0	0
+		00540 Lipopolysaccharide biosynthesis [PATH:ko00540]	0	1	0
+		00550 Peptidoglycan biosynthesis [PATH:ko00550]	14	5	2
+		00563 Glycosylphosphatidylinositol(GPI)-anchor biosynthesis [PATH:ko00563]	0	0	0
+		00601 Glycosphingolipid biosynthesis - lacto and neolacto series [PATH:ko00601]	0	0	0
+		00603 Glycosphingolipid biosynthesis - globo series [PATH:ko00603]	0	1	1
+		00604 Glycosphingolipid biosynthesis - ganglio series [PATH:ko00604]	0	0	0
+	Lipid_metabolism	00061 Fatty acid biosynthesis [PATH:ko00061]	15	12	5
+		00062 Fatty acid elongation [PATH:ko00062]	0	0	0
+		00071 Fatty acid degradation [PATH:ko00071]	4	26	8
+		00072 Synthesis and degradation of ketone bodies [PATH:ko00072]	0	8	4
+		00073 Cutin, suberine and wax biosynthesis [PATH:ko00073]	0	0	0
+		00100 Steroid biosynthesis [PATH:ko00100]	0	0	0
+		00120 Primary bile acid biosynthesis [PATH:ko00120]	0	1	0
+		00121 Secondary bile acid biosynthesis [PATH:ko00121]	0	0	0
+		00140 Steroid hormone biosynthesis [PATH:ko00140]	0	0	0
+		00561 Glycerolipid metabolism [PATH:ko00561]	7	8	7
+		00564 Glycerophospholipid metabolism [PATH:ko00564]	12	6	3
+		00565 Ether lipid metabolism [PATH:ko00565]	0	0	1
+		00590 Arachidonic acid metabolism [PATH:ko00590]	0	1	2
+		00591 Linoleic acid metabolism [PATH:ko00591]	1	1	1
+		00592 alpha-Linolenic acid metabolism [PATH:ko00592]	0	1	1
+		00600 Sphingolipid metabolism [PATH:ko00600]	0	1	1
+		01040 Biosynthesis of unsaturated fatty acids [PATH:ko01040]	3	4	3
+	Metabolism_of_cofactors_and_vitamins	00130 Ubiquinone and other terpenoid-quinone biosynthesis [PATH:ko00130]	6	5	1
+		00670 One carbon pool by folate [PATH:ko00670]	8	3	1
+		00730 Thiamine metabolism [PATH:ko00730]	9	6	2
+		00740 Riboflavin metabolism [PATH:ko00740]	4	4	1
+		00750 Vitamin B6 metabolism [PATH:ko00750]	5	3	1
+		00760 Nicotinate and nicotinamide metabolism [PATH:ko00760]	9	3	1
+		00770 Pantothenate and CoA biosynthesis [PATH:ko00770]	12	10	1
+		00780 Biotin metabolism [PATH:ko00780]	8	6	4
+		00785 Lipoic acid metabolism [PATH:ko00785]	1	1	0
+		00790 Folate biosynthesis [PATH:ko00790]	14	4	2
+		00830 Retinol metabolism [PATH:ko00830]	0	3	1
+		00860 Porphyrin and chlorophyll metabolism [PATH:ko00860]	21	14	1
+	Metabolism_of_other_amino_acids	00410 beta-Alanine metabolism [PATH:ko00410]	5	15	4
+		00430 Taurine and hypotaurine metabolism [PATH:ko00430]	4	1	0
+		00440 Phosphonate and phosphinate metabolism [PATH:ko00440]	1	1	0
+		00450 Selenocompound metabolism [PATH:ko00450]	9	1	4
+		00460 Cyanoamino acid metabolism [PATH:ko00460]	2	2	1
+		00471 D-Glutamine and D-glutamate metabolism [PATH:ko00471]	3	1	1
+		00472 D-Arginine and D-ornithine metabolism [PATH:ko00472]	0	1	0
+		00473 D-Alanine metabolism [PATH:ko00473]	2	1	0
+		00480 Glutathione metabolism [PATH:ko00480]	4	6	1
+	Metabolism_of_terpenoids_and_polyketides	00253 Tetracycline biosynthesis [PATH:ko00253]	4	1	0
+		00281 Geraniol degradation [PATH:ko00281]	1	9	1
+		00522 Biosynthesis of 12-, 14- and 16-membered macrolides [PATH:ko00522]	0	0	0
+		00523 Polyketide sugar unit biosynthesis [PATH:ko00523]	0	4	1
+		00900 Terpenoid backbone biosynthesis [PATH:ko00900]	11	4	2
+		00902 Monoterpenoid biosynthesis [PATH:ko00902]	0	0	0
+		00903 Limonene and pinene degradation [PATH:ko00903]	1	8	2
+		00904 Diterpenoid biosynthesis [PATH:ko00904]	0	0	0
+		00905 Brassinosteroid biosynthesis [PATH:ko00905]	0	0	0
+		00906 Carotenoid biosynthesis [PATH:ko00906]	0	1	0
+		00908 Zeatin biosynthesis [PATH:ko00908]	1	0	0
+		00909 Sesquiterpenoid and triterpenoid biosynthesis [PATH:ko00909]	0	0	0
+		00981 Insect hormone biosynthesis [PATH:ko00981]	0	0	0
+		01051 Biosynthesis of ansamycins [PATH:ko01051]	1	0	2
+		01052 Type I polyketide structures [PATH:ko01052]	0	0	0
+		01053 Biosynthesis of siderophore group nonribosomal peptides [PATH:ko01053]	0	6	0
+		01054 Nonribosomal peptide structures [PATH:ko01054]	0	0	0
+		01055 Biosynthesis of vancomycin group antibiotics [PATH:ko01055]	0	1	0
+		01056 Biosynthesis of type II polyketide backbone [PATH:ko01056]	0	0	0
+		01057 Biosynthesis of type II polyketide products [PATH:ko01057]	0	0	0
+	Nucleotide_metabolism	00230 Purine metabolism [PATH:ko00230]	49	18	13
+		00240 Pyrimidine metabolism [PATH:ko00240]	39	15	5
+	Overview	01200 Carbon metabolism [PATH:ko01200]	56	54	27
+		01210 2-Oxocarboxylic acid metabolism [PATH:ko01210]	15	10	3
+		01212 Fatty acid metabolism [PATH:ko01212]	17	22	8
+		01220 Degradation of aromatic compounds [PATH:ko01220]	1	11	5
+		01230 Biosynthesis of amino acids [PATH:ko01230]	90	37	19
+	Xenobiotics_biodegradation_and_metabolism	00351 1,1,1-Trichloro-2,2-bis(4-chlorophenyl)ethane (DDT) degradation [PATH:ko00351]	0	0	0
+		00361 Chlorocyclohexane and chlorobenzene degradation [PATH:ko00361]	0	1	2
+		00362 Benzoate degradation [PATH:ko00362]	2	11	6
+		00363 Bisphenol degradation [PATH:ko00363]	1	1	0
+		00364 Fluorobenzoate degradation [PATH:ko00364]	0	0	0
+		00365 Furfural degradation [PATH:ko00365]	0	0	0
+		00621 Dioxin degradation [PATH:ko00621]	1	0	0
+		00622 Xylene degradation [PATH:ko00622]	1	1	2
+		00623 Toluene degradation [PATH:ko00623]	0	0	0
+		00624 Polycyclic aromatic hydrocarbon degradation [PATH:ko00624]	0	0	0
+		00625 Chloroalkane and chloroalkene degradation [PATH:ko00625]	1	12	4
+		00626 Naphthalene degradation [PATH:ko00626]	0	5	2
+		00627 Aminobenzoate degradation [PATH:ko00627]	3	3	1
+		00633 Nitrotoluene degradation [PATH:ko00633]	0	2	0
+		00642 Ethylbenzene degradation [PATH:ko00642]	0	1	0
+		00643 Styrene degradation [PATH:ko00643]	0	1	2
+		00791 Atrazine degradation [PATH:ko00791]	0	3	2
+		00930 Caprolactam degradation [PATH:ko00930]	1	3	0
+		00980 Metabolism of xenobiotics by cytochrome P450 [PATH:ko00980]	0	3	0
+		00982 Drug metabolism - cytochrome P450 [PATH:ko00982]	0	3	0
+		00983 Drug metabolism - other enzymes [PATH:ko00983]	7	2	1
+		00984 Steroid degradation [PATH:ko00984]	0	0	0
+Organismal_Systems	Circulatory_system	04260 Cardiac muscle contraction [PATH:ko04260]	0	1	0
+		04261 Adrenergic signaling in cardiomyocytes [PATH:ko04261]	0	0	0
+		04270 Vascular smooth muscle contraction [PATH:ko04270]	0	0	1
+	Development	04320 Dorso-ventral axis formation [PATH:ko04320]	0	0	0
+		04360 Axon guidance [PATH:ko04360]	0	0	0
+		04380 Osteoclast differentiation [PATH:ko04380]	0	0	0
+	Digestive_system	04970 Salivary secretion [PATH:ko04970]	0	0	0
+		04971 Gastric acid secretion [PATH:ko04971]	0	0	0
+		04972 Pancreatic secretion [PATH:ko04972]	0	0	1
+		04973 Carbohydrate digestion and absorption [PATH:ko04973]	0	1	1
+		04974 Protein digestion and absorption [PATH:ko04974]	0	0	0
+		04975 Fat digestion and absorption [PATH:ko04975]	0	2	1
+		04976 Bile secretion [PATH:ko04976]	0	0	0
+		04977 Vitamin digestion and absorption [PATH:ko04977]	0	2	1
+		04978 Mineral absorption [PATH:ko04978]	1	0	0
+	Endocrine_system	03320 PPAR signaling pathway [PATH:ko03320]	3	7	3
+		04614 Renin-angiotensin system [PATH:ko04614]	0	0	0
+		04910 Insulin signaling pathway [PATH:ko04910]	1	1	0
+		04911 Insulin secretion [PATH:ko04911]	0	0	0
+		04912 GnRH signaling pathway [PATH:ko04912]	0	0	0
+		04913 Ovarian Steroidogenesis [PATH:ko04913]	0	0	0
+		04914 Progesterone-mediated oocyte maturation [PATH:ko04914]	0	0	0
+		04915 Estrogen signaling pathway [PATH:ko04915]	0	0	0
+		04916 Melanogenesis [PATH:ko04916]	0	0	0
+		04917 Prolactin signaling pathway [PATH:ko04917]	1	0	0
+		04918 Thyroid hormone synthesis [PATH:ko04918]	0	1	1
+		04919 Thyroid hormone signaling pathway [PATH:ko04919]	0	1	0
+		04920 Adipocytokine signaling pathway [PATH:ko04920]	2	5	1
+		04921 Oxytocin signaling pathway [PATH:ko04921]	0	0	0
+		04922 Glucagon signaling pathway [PATH:ko04922]	2	8	5
+	Environmental_adaptation	04626 Plant-pathogen interaction [PATH:ko04626]	1	2	9
+		04710 Circadian rhythm [PATH:ko04710]	0	0	0
+		04711 Circadian rhythm - fly [PATH:ko04711]	0	0	0
+		04712 Circadian rhythm - plant [PATH:ko04712]	0	0	0
+		04713 Circadian entrainment [PATH:ko04713]	0	0	0
+	Excretory_system	04960 Aldosterone-regulated sodium reabsorption [PATH:ko04960]	0	0	0
+		04961 Endocrine and other factor-regulated calcium reabsorption [PATH:ko04961]	0	0	0
+		04962 Vasopressin-regulated water reabsorption [PATH:ko04962]	0	0	0
+		04964 Proximal tubule bicarbonate reclamation [PATH:ko04964]	0	1	0
+		04966 Collecting duct acid secretion [PATH:ko04966]	0	0	0
+	Immune_system	04062 Chemokine signaling pathway [PATH:ko04062]	0	0	0
+		04610 Complement and coagulation cascades [PATH:ko04610]	0	0	0
+		04611 Platelet activation [PATH:ko04611]	0	0	0
+		04612 Antigen processing and presentation [PATH:ko04612]	0	0	0
+		04620 Toll-like receptor signaling pathway [PATH:ko04620]	0	0	0
+		04621 NOD-like receptor signaling pathway [PATH:ko04621]	0	0	0
+		04622 RIG-I-like receptor signaling pathway [PATH:ko04622]	0	0	0
+		04623 Cytosolic DNA-sensing pathway [PATH:ko04623]	0	0	0
+		04640 Hematopoietic cell lineage [PATH:ko04640]	0	0	0
+		04650 Natural killer cell mediated cytotoxicity [PATH:ko04650]	0	0	0
+		04660 T cell receptor signaling pathway [PATH:ko04660]	0	0	0
+		04662 B cell receptor signaling pathway [PATH:ko04662]	0	0	0
+		04664 Fc epsilon RI signaling pathway [PATH:ko04664]	0	0	0
+		04666 Fc gamma R-mediated phagocytosis [PATH:ko04666]	0	0	0
+		04670 Leukocyte transendothelial migration [PATH:ko04670]	0	0	0
+		04672 Intestinal immune network for IgA production [PATH:ko04672]	0	0	0
+	Nervous_system	04720 Long-term potentiation [PATH:ko04720]	0	0	0
+		04721 Synaptic vesicle cycle [PATH:ko04721]	0	0	0
+		04722 Neurotrophin signaling pathway [PATH:ko04722]	0	0	0
+		04723 Retrograde endocannabinoid signaling [PATH:ko04723]	1	0	0
+		04724 Glutamatergic synapse [PATH:ko04724]	2	1	0
+		04725 Cholinergic synapse [PATH:ko04725]	0	0	0
+		04726 Serotonergic synapse [PATH:ko04726]	0	0	0
+		04727 GABAergic synapse [PATH:ko04727]	2	1	0
+		04728 Dopaminergic synapse [PATH:ko04728]	0	0	0
+		04730 Long-term depression [PATH:ko04730]	0	0	0
+	Sensory_system	04740 Olfactory transduction [PATH:ko04740]	0	0	0
+		04742 Taste transduction [PATH:ko04742]	0	0	0
+		04744 Phototransduction [PATH:ko04744]	0	0	0
+		04745 Phototransduction - fly [PATH:ko04745]	0	0	0
+		04750 Inflammatory mediator regulation of TRP channels [PATH:ko04750]	0	0	0
+

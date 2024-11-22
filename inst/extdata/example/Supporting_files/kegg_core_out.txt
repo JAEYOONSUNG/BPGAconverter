@@ -1,0 +1,1288 @@
+K00265	Metabolism_Amino acid metabolism_00250 Alanine, aspartate and glutamate metabolism [PATH:ko00250]_gltB; glutamate synthase (NADPH/NADH) large chain [EC:1.4.1.13 1.4.1.14]#Metabolism_Energy metabolism_00910 Nitrogen metabolism [PATH:ko00910]_gltB; glutamate synthase (NADPH/NADH) large chain [EC:1.4.1.13 1.4.1.14]#Metabolism_Overview_01230 Biosynthesis of amino acids [PATH:ko01230]_gltB; glutamate synthase (NADPH/NADH) large chain [EC:1.4.1.13 1.4.1.14]
+
+K03763	Genetic Information Processing_Replication and repair_03030 DNA replication [PATH:ko03030]_DPO3A2, polC; DNA polymerase III subunit alpha, Gram-positive type [EC:2.7.7.7]#Genetic Information Processing_Replication and repair_03430 Mismatch repair [PATH:ko03430]_DPO3A2, polC; DNA polymerase III subunit alpha, Gram-positive type [EC:2.7.7.7]#Genetic Information Processing_Replication and repair_03440 Homologous recombination [PATH:ko03440]_DPO3A2, polC; DNA polymerase III subunit alpha, Gram-positive type [EC:2.7.7.7]#Metabolism_Nucleotide metabolism_00230 Purine metabolism [PATH:ko00230]_DPO3A2, polC; DNA polymerase III subunit alpha, Gram-positive type [EC:2.7.7.7]#Metabolism_Nucleotide metabolism_00240 Pyrimidine metabolism [PATH:ko00240]_DPO3A2, polC; DNA polymerase III subunit alpha, Gram-positive type [EC:2.7.7.7]
+
+K03043	Genetic Information Processing_Transcription_03020 RNA polymerase [PATH:ko03020]_rpoB; DNA-directed RNA polymerase subunit beta [EC:2.7.7.6]#Metabolism_Nucleotide metabolism_00230 Purine metabolism [PATH:ko00230]_rpoB; DNA-directed RNA polymerase subunit beta [EC:2.7.7.6]#Metabolism_Nucleotide metabolism_00240 Pyrimidine metabolism [PATH:ko00240]_rpoB; DNA-directed RNA polymerase subunit beta [EC:2.7.7.6]
+
+K03046	Genetic Information Processing_Transcription_03020 RNA polymerase [PATH:ko03020]_rpoC; DNA-directed RNA polymerase subunit beta' [EC:2.7.7.6]#Metabolism_Nucleotide metabolism_00230 Purine metabolism [PATH:ko00230]_rpoC; DNA-directed RNA polymerase subunit beta' [EC:2.7.7.6]#Metabolism_Nucleotide metabolism_00240 Pyrimidine metabolism [PATH:ko00240]_rpoC; DNA-directed RNA polymerase subunit beta' [EC:2.7.7.6]
+
+K01958	Metabolism_Carbohydrate metabolism_00020 Citrate cycle (TCA cycle) [PATH:ko00020]_PC, pyc; pyruvate carboxylase [EC:6.4.1.1]#Metabolism_Carbohydrate metabolism_00620 Pyruvate metabolism [PATH:ko00620]_PC, pyc; pyruvate carboxylase [EC:6.4.1.1]#Metabolism_Energy metabolism_00720 Carbon fixation pathways in prokaryotes [PATH:ko00720]_PC, pyc; pyruvate carboxylase [EC:6.4.1.1]#Metabolism_Overview_01200 Carbon metabolism [PATH:ko01200]_PC, pyc; pyruvate carboxylase [EC:6.4.1.1]#Metabolism_Overview_01230 Biosynthesis of amino acids [PATH:ko01230]_PC, pyc; pyruvate carboxylase [EC:6.4.1.1]
+
+K01955	Metabolism_Amino acid metabolism_00250 Alanine, aspartate and glutamate metabolism [PATH:ko00250]_carB, CPA2; carbamoyl-phosphate synthase large subunit [EC:6.3.5.5]#Metabolism_Nucleotide metabolism_00240 Pyrimidine metabolism [PATH:ko00240]_carB, CPA2; carbamoyl-phosphate synthase large subunit [EC:6.3.5.5]
+
+K03701	Genetic Information Processing_Replication and repair_03420 Nucleotide excision repair [PATH:ko03420]_uvrA; excinuclease ABC subunit A
+
+K03723	Genetic Information Processing_Replication and repair_03420 Nucleotide excision repair [PATH:ko03420]_mfd; transcription-repair coupling factor (superfamily II helicase) [EC:3.6.4.-]
+
+K01873	Genetic Information Processing_Translation_00970 Aminoacyl-tRNA biosynthesis [PATH:ko00970]_VARS, valS; valyl-tRNA synthetase [EC:6.1.1.9]
+
+K01681	Metabolism_Carbohydrate metabolism_00020 Citrate cycle (TCA cycle) [PATH:ko00020]_ACO, acnA; aconitate hydratase [EC:4.2.1.3]#Metabolism_Carbohydrate metabolism_00630 Glyoxylate and dicarboxylate metabolism [PATH:ko00630]_ACO, acnA; aconitate hydratase [EC:4.2.1.3]#Metabolism_Energy metabolism_00720 Carbon fixation pathways in prokaryotes [PATH:ko00720]_ACO, acnA; aconitate hydratase [EC:4.2.1.3]#Metabolism_Overview_01200 Carbon metabolism [PATH:ko01200]_ACO, acnA; aconitate hydratase [EC:4.2.1.3]#Metabolism_Overview_01210 2-Oxocarboxylic acid metabolism [PATH:ko01210]_ACO, acnA; aconitate hydratase [EC:4.2.1.3]#Metabolism_Overview_01230 Biosynthesis of amino acids [PATH:ko01230]_ACO, acnA; aconitate hydratase [EC:4.2.1.3]
+
+K01870	Genetic Information Processing_Translation_00970 Aminoacyl-tRNA biosynthesis [PATH:ko00970]_IARS, ileS; isoleucyl-tRNA synthetase [EC:6.1.1.5]
+
+K01872	Genetic Information Processing_Translation_00970 Aminoacyl-tRNA biosynthesis [PATH:ko00970]_AARS, alaS; alanyl-tRNA synthetase [EC:6.1.1.7]
+
+K03070	Environmental Information Processing_Membrane transport_03070 Bacterial secretion system [PATH:ko03070]_secA; preprotein translocase subunit SecA#Genetic Information Processing_Folding, sorting and degradation_03060 Protein export [PATH:ko03060]_secA; preprotein translocase subunit SecA
+
+K02335	Genetic Information Processing_Replication and repair_03030 DNA replication [PATH:ko03030]_DPO1, polA; DNA polymerase I [EC:2.7.7.7]#Genetic Information Processing_Replication and repair_03410 Base excision repair [PATH:ko03410]_DPO1, polA; DNA polymerase I [EC:2.7.7.7]#Genetic Information Processing_Replication and repair_03420 Nucleotide excision repair [PATH:ko03420]_DPO1, polA; DNA polymerase I [EC:2.7.7.7]#Genetic Information Processing_Replication and repair_03440 Homologous recombination [PATH:ko03440]_DPO1, polA; DNA polymerase I [EC:2.7.7.7]#Metabolism_Nucleotide metabolism_00230 Purine metabolism [PATH:ko00230]_DPO1, polA; DNA polymerase I [EC:2.7.7.7]#Metabolism_Nucleotide metabolism_00240 Pyrimidine metabolism [PATH:ko00240]_DPO1, polA; DNA polymerase I [EC:2.7.7.7]
+
+K00164	Metabolism_Amino acid metabolism_00310 Lysine degradation [PATH:ko00310]_OGDH, sucA; 2-oxoglutarate dehydrogenase E1 component [EC:1.2.4.2]#Metabolism_Amino acid metabolism_00380 Tryptophan metabolism [PATH:ko00380]_OGDH, sucA; 2-oxoglutarate dehydrogenase E1 component [EC:1.2.4.2]#Metabolism_Carbohydrate metabolism_00020 Citrate cycle (TCA cycle) [PATH:ko00020]_OGDH, sucA; 2-oxoglutarate dehydrogenase E1 component [EC:1.2.4.2]#Metabolism_Overview_01200 Carbon metabolism [PATH:ko01200]_OGDH, sucA; 2-oxoglutarate dehydrogenase E1 component [EC:1.2.4.2]
+
+K00951	Metabolism_Nucleotide metabolism_00230 Purine metabolism [PATH:ko00230]_relA; GTP pyrophosphokinase [EC:2.7.6.5]
+
+K01338	Cellular Processes_Cell growth and death_04112 Cell cycle - Caulobacter [PATH:ko04112]_lon; ATP-dependent Lon protease [EC:3.4.21.53]
+
+K01952	Metabolism_Nucleotide metabolism_00230 Purine metabolism [PATH:ko00230]_purL, PFAS; phosphoribosylformylglycinamidine synthase [EC:6.3.5.3]
+
+K00962	Genetic Information Processing_Folding, sorting and degradation_03018 RNA degradation [PATH:ko03018]_pnp, PNPT1; polyribonucleotide nucleotidyltransferase [EC:2.7.7.8]#Metabolism_Nucleotide metabolism_00230 Purine metabolism [PATH:ko00230]_pnp, PNPT1; polyribonucleotide nucleotidyltransferase [EC:2.7.7.8]#Metabolism_Nucleotide metabolism_00240 Pyrimidine metabolism [PATH:ko00240]_pnp, PNPT1; polyribonucleotide nucleotidyltransferase [EC:2.7.7.8]
+
+K12573	Genetic Information Processing_Folding, sorting and degradation_03018 RNA degradation [PATH:ko03018]_rnr, vacB; ribonuclease R [EC:3.1.-.-]
+
+K03702	Genetic Information Processing_Replication and repair_03420 Nucleotide excision repair [PATH:ko03420]_uvrB; excinuclease ABC subunit B
+
+K03555	Genetic Information Processing_Replication and repair_03430 Mismatch repair [PATH:ko03430]_mutS; DNA mismatch repair protein MutS
+
+K03596	Human Diseases_Infectious diseases_05134 Legionellosis [PATH:ko05134]_lepA; GTP-binding protein LepA
+
+K01868	Genetic Information Processing_Translation_00970 Aminoacyl-tRNA biosynthesis [PATH:ko00970]_TARS, thrS; threonyl-tRNA synthetase [EC:6.1.1.3]
+
+K00239	Human Diseases_Infectious diseases_05134 Legionellosis [PATH:ko05134]_sdhA, frdA; succinate dehydrogenase / fumarate reductase, flavoprotein subunit [EC:1.3.5.1 1.3.5.4]#Metabolism_Carbohydrate metabolism_00020 Citrate cycle (TCA cycle) [PATH:ko00020]_sdhA, frdA; succinate dehydrogenase / fumarate reductase, flavoprotein subunit [EC:1.3.5.1 1.3.5.4]#Metabolism_Carbohydrate metabolism_00650 Butanoate metabolism [PATH:ko00650]_sdhA, frdA; succinate dehydrogenase / fumarate reductase, flavoprotein subunit [EC:1.3.5.1 1.3.5.4]#Metabolism_Energy metabolism_00190 Oxidative phosphorylation [PATH:ko00190]_sdhA, frdA; succinate dehydrogenase / fumarate reductase, flavoprotein subunit [EC:1.3.5.1 1.3.5.4]#Metabolism_Energy metabolism_00720 Carbon fixation pathways in prokaryotes [PATH:ko00720]_sdhA, frdA; succinate dehydrogenase / fumarate reductase, flavoprotein subunit [EC:1.3.5.1 1.3.5.4]#Metabolism_Overview_01200 Carbon metabolism [PATH:ko01200]_sdhA, frdA; succinate dehydrogenase / fumarate reductase, flavoprotein subunit [EC:1.3.5.1 1.3.5.4]
+
+K03657	Genetic Information Processing_Replication and repair_03420 Nucleotide excision repair [PATH:ko03420]_uvrD, pcrA; DNA helicase II / ATP-dependent DNA helicase PcrA [EC:3.6.4.12]#Genetic Information Processing_Replication and repair_03430 Mismatch repair [PATH:ko03430]_uvrD, pcrA; DNA helicase II / ATP-dependent DNA helicase PcrA [EC:3.6.4.12]
+
+K01662	Metabolism_Metabolism of cofactors and vitamins_00730 Thiamine metabolism [PATH:ko00730]_dxs; 1-deoxy-D-xylulose-5-phosphate synthase [EC:2.2.1.7]#Metabolism_Metabolism of terpenoids and polyketides_00900 Terpenoid backbone biosynthesis [PATH:ko00900]_dxs; 1-deoxy-D-xylulose-5-phosphate synthase [EC:2.2.1.7]
+
+K00615	Metabolism_Carbohydrate metabolism_00030 Pentose phosphate pathway [PATH:ko00030]_E2.2.1.1, tktA, tktB; transketolase [EC:2.2.1.1]#Metabolism_Energy metabolism_00710 Carbon fixation in photosynthetic organisms [PATH:ko00710]_E2.2.1.1, tktA, tktB; transketolase [EC:2.2.1.1]#Metabolism_Metabolism of terpenoids and polyketides_01051 Biosynthesis of ansamycins [PATH:ko01051]_E2.2.1.1, tktA, tktB; transketolase [EC:2.2.1.1]#Metabolism_Overview_01200 Carbon metabolism [PATH:ko01200]_E2.2.1.1, tktA, tktB; transketolase [EC:2.2.1.1]#Metabolism_Overview_01230 Biosynthesis of amino acids [PATH:ko01230]_E2.2.1.1, tktA, tktB; transketolase [EC:2.2.1.1]
+
+K02274	Metabolism_Energy metabolism_00190 Oxidative phosphorylation [PATH:ko00190]_coxA; cytochrome c oxidase subunit I [EC:1.9.3.1]
+
+K04043	Genetic Information Processing_Folding, sorting and degradation_03018 RNA degradation [PATH:ko03018]_dnaK; molecular chaperone DnaK#Human Diseases_Infectious diseases_05152 Tuberculosis [PATH:ko05152]_dnaK; molecular chaperone DnaK
+
+K01890	Genetic Information Processing_Translation_00970 Aminoacyl-tRNA biosynthesis [PATH:ko00970]_FARSB, pheT; phenylalanyl-tRNA synthetase beta chain [EC:6.1.1.20]
+
+K01874	Genetic Information Processing_Translation_00970 Aminoacyl-tRNA biosynthesis [PATH:ko00970]_MARS, metG; methionyl-tRNA synthetase [EC:6.1.1.10]#Metabolism_Metabolism of other amino acids_00450 Selenocompound metabolism [PATH:ko00450]_MARS, metG; methionyl-tRNA synthetase [EC:6.1.1.10]
+
+K04066	Genetic Information Processing_Replication and repair_03440 Homologous recombination [PATH:ko03440]_priA; primosomal protein N' (replication factor Y) (superfamily II helicase) [EC:3.6.4.-]
+
+K12574	Genetic Information Processing_Folding, sorting and degradation_03018 RNA degradation [PATH:ko03018]_rnj; ribonuclease J [EC:3.1.-.-]
+
+K02337	Genetic Information Processing_Replication and repair_03030 DNA replication [PATH:ko03030]_DPO3A1, dnaE; DNA polymerase III subunit alpha [EC:2.7.7.7]#Genetic Information Processing_Replication and repair_03430 Mismatch repair [PATH:ko03430]_DPO3A1, dnaE; DNA polymerase III subunit alpha [EC:2.7.7.7]#Genetic Information Processing_Replication and repair_03440 Homologous recombination [PATH:ko03440]_DPO3A1, dnaE; DNA polymerase III subunit alpha [EC:2.7.7.7]#Metabolism_Nucleotide metabolism_00230 Purine metabolism [PATH:ko00230]_DPO3A1, dnaE; DNA polymerase III subunit alpha [EC:2.7.7.7]#Metabolism_Nucleotide metabolism_00240 Pyrimidine metabolism [PATH:ko00240]_DPO3A1, dnaE; DNA polymerase III subunit alpha [EC:2.7.7.7]
+
+K00381	Metabolism_Energy metabolism_00920 Sulfur metabolism [PATH:ko00920]_cysI; sulfite reductase (NADPH) hemoprotein beta-component [EC:1.8.1.2]
+
+K12257	Environmental Information Processing_Membrane transport_03070 Bacterial secretion system [PATH:ko03070]_secDF; SecD/SecF fusion protein#Genetic Information Processing_Folding, sorting and degradation_03060 Protein export [PATH:ko03060]_secDF; SecD/SecF fusion protein
+
+K01687	Metabolism_Amino acid metabolism_00290 Valine, leucine and isoleucine biosynthesis [PATH:ko00290]_ilvD; dihydroxy-acid dehydratase [EC:4.2.1.9]#Metabolism_Metabolism of cofactors and vitamins_00770 Pantothenate and CoA biosynthesis [PATH:ko00770]_ilvD; dihydroxy-acid dehydratase [EC:4.2.1.9]#Metabolism_Overview_01210 2-Oxocarboxylic acid metabolism [PATH:ko01210]_ilvD; dihydroxy-acid dehydratase [EC:4.2.1.9]#Metabolism_Overview_01230 Biosynthesis of amino acids [PATH:ko01230]_ilvD; dihydroxy-acid dehydratase [EC:4.2.1.9]
+
+K07456	Genetic Information Processing_Replication and repair_03430 Mismatch repair [PATH:ko03430]_mutS2; DNA mismatch repair protein MutS2
+
+K00820	Metabolism_Amino acid metabolism_00250 Alanine, aspartate and glutamate metabolism [PATH:ko00250]_glmS, GFPT; glucosamine--fructose-6-phosphate aminotransferase (isomerizing) [EC:2.6.1.16]#Metabolism_Carbohydrate metabolism_00520 Amino sugar and nucleotide sugar metabolism [PATH:ko00520]_glmS, GFPT; glucosamine--fructose-6-phosphate aminotransferase (isomerizing) [EC:2.6.1.16]
+
+K01972	Genetic Information Processing_Replication and repair_03030 DNA replication [PATH:ko03030]_E6.5.1.2, ligA, ligB; DNA ligase (NAD+) [EC:6.5.1.2]#Genetic Information Processing_Replication and repair_03410 Base excision repair [PATH:ko03410]_E6.5.1.2, ligA, ligB; DNA ligase (NAD+) [EC:6.5.1.2]#Genetic Information Processing_Replication and repair_03420 Nucleotide excision repair [PATH:ko03420]_E6.5.1.2, ligA, ligB; DNA ligase (NAD+) [EC:6.5.1.2]#Genetic Information Processing_Replication and repair_03430 Mismatch repair [PATH:ko03430]_E6.5.1.2, ligA, ligB; DNA ligase (NAD+) [EC:6.5.1.2]
+
+K01937	Metabolism_Nucleotide metabolism_00240 Pyrimidine metabolism [PATH:ko00240]_pyrG, CTPS; CTP synthase [EC:6.3.4.2]
+
+K04077	Genetic Information Processing_Folding, sorting and degradation_03018 RNA degradation [PATH:ko03018]_groEL, HSPD1; chaperonin GroEL#Human Diseases_Endocrine and metabolic diseases_04940 Type I diabetes mellitus [PATH:ko04940]_groEL, HSPD1; chaperonin GroEL#Human Diseases_Infectious diseases_05134 Legionellosis [PATH:ko05134]_groEL, HSPD1; chaperonin GroEL#Human Diseases_Infectious diseases_05152 Tuberculosis [PATH:ko05152]_groEL, HSPD1; chaperonin GroEL
+
+K03655	Genetic Information Processing_Replication and repair_03440 Homologous recombination [PATH:ko03440]_recG; ATP-dependent DNA helicase RecG [EC:3.6.4.12]
+
+K03703	Genetic Information Processing_Replication and repair_03420 Nucleotide excision repair [PATH:ko03420]_uvrC; excinuclease ABC subunit C
+
+K00380	Metabolism_Energy metabolism_00920 Sulfur metabolism [PATH:ko00920]_cysJ; sulfite reductase (NADPH) flavoprotein alpha-component [EC:1.8.1.2]
+
+K08483	Environmental Information Processing_Membrane transport_02060 Phosphotransferase system (PTS) [PATH:ko02060]_PTS-EI.PTSI, ptsI; phosphotransferase system, enzyme I, PtsI [EC:2.7.3.9]
+
+K18682	Genetic Information Processing_Folding, sorting and degradation_03018 RNA degradation [PATH:ko03018]_rny; ribonucrease Y [EC:3.1.-.-]
+
+K01876	Genetic Information Processing_Translation_00970 Aminoacyl-tRNA biosynthesis [PATH:ko00970]_DARS, aspS; aspartyl-tRNA synthetase [EC:6.1.1.12]
+
+K01951	Metabolism_Nucleotide metabolism_00230 Purine metabolism [PATH:ko00230]_guaA, GMPS; GMP synthase (glutamine-hydrolysing) [EC:6.3.5.2]#Metabolism_Xenobiotics biodegradation and metabolism_00983 Drug metabolism - other enzymes [PATH:ko00983]_guaA, GMPS; GMP synthase (glutamine-hydrolysing) [EC:6.3.5.2]
+
+K01652	Metabolism_Amino acid metabolism_00290 Valine, leucine and isoleucine biosynthesis [PATH:ko00290]_E2.2.1.6L, ilvB, ilvG, ilvI; acetolactate synthase I/II/III large subunit [EC:2.2.1.6]#Metabolism_Carbohydrate metabolism_00650 Butanoate metabolism [PATH:ko00650]_E2.2.1.6L, ilvB, ilvG, ilvI; acetolactate synthase I/II/III large subunit [EC:2.2.1.6]#Metabolism_Carbohydrate metabolism_00660 C5-Branched dibasic acid metabolism [PATH:ko00660]_E2.2.1.6L, ilvB, ilvG, ilvI; acetolactate synthase I/II/III large subunit [EC:2.2.1.6]#Metabolism_Metabolism of cofactors and vitamins_00770 Pantothenate and CoA biosynthesis [PATH:ko00770]_E2.2.1.6L, ilvB, ilvG, ilvI; acetolactate synthase I/II/III large subunit [EC:2.2.1.6]#Metabolism_Overview_01210 2-Oxocarboxylic acid metabolism [PATH:ko01210]_E2.2.1.6L, ilvB, ilvG, ilvI; acetolactate synthase I/II/III large subunit [EC:2.2.1.6]#Metabolism_Overview_01230 Biosynthesis of amino acids [PATH:ko01230]_E2.2.1.6L, ilvB, ilvG, ilvI; acetolactate synthase I/II/III large subunit [EC:2.2.1.6]
+
+K01835	Metabolism_Biosynthesis of other secondary metabolites_00521 Streptomycin biosynthesis [PATH:ko00521]_pgm; phosphoglucomutase [EC:5.4.2.2]#Metabolism_Carbohydrate metabolism_00010 Glycolysis / Gluconeogenesis [PATH:ko00010]_pgm; phosphoglucomutase [EC:5.4.2.2]#Metabolism_Carbohydrate metabolism_00030 Pentose phosphate pathway [PATH:ko00030]_pgm; phosphoglucomutase [EC:5.4.2.2]#Metabolism_Carbohydrate metabolism_00052 Galactose metabolism [PATH:ko00052]_pgm; phosphoglucomutase [EC:5.4.2.2]#Metabolism_Carbohydrate metabolism_00500 Starch and sucrose metabolism [PATH:ko00500]_pgm; phosphoglucomutase [EC:5.4.2.2]#Metabolism_Carbohydrate metabolism_00520 Amino sugar and nucleotide sugar metabolism [PATH:ko00520]_pgm; phosphoglucomutase [EC:5.4.2.2]#Metabolism_Nucleotide metabolism_00230 Purine metabolism [PATH:ko00230]_pgm; phosphoglucomutase [EC:5.4.2.2]
+
+K01887	Genetic Information Processing_Translation_00970 Aminoacyl-tRNA biosynthesis [PATH:ko00970]_RARS, argS; arginyl-tRNA synthetase [EC:6.1.1.19]
+
+K15633	Metabolism_Amino acid metabolism_00260 Glycine, serine and threonine metabolism [PATH:ko00260]_gpmI; 2,3-bisphosphoglycerate-independent phosphoglycerate mutase [EC:5.4.2.12]#Metabolism_Carbohydrate metabolism_00010 Glycolysis / Gluconeogenesis [PATH:ko00010]_gpmI; 2,3-bisphosphoglycerate-independent phosphoglycerate mutase [EC:5.4.2.12]#Metabolism_Energy metabolism_00680 Methane metabolism [PATH:ko00680]_gpmI; 2,3-bisphosphoglycerate-independent phosphoglycerate mutase [EC:5.4.2.12]#Metabolism_Overview_01200 Carbon metabolism [PATH:ko01200]_gpmI; 2,3-bisphosphoglycerate-independent phosphoglycerate mutase [EC:5.4.2.12]#Metabolism_Overview_01230 Biosynthesis of amino acids [PATH:ko01230]_gpmI; 2,3-bisphosphoglycerate-independent phosphoglycerate mutase [EC:5.4.2.12]
+
+K02111	Metabolism_Energy metabolism_00190 Oxidative phosphorylation [PATH:ko00190]_ATPF1A, atpA; F-type H+-transporting ATPase subunit alpha [EC:3.6.3.14]#Metabolism_Energy metabolism_00195 Photosynthesis [PATH:ko00195]_ATPF1A, atpA; F-type H+-transporting ATPase subunit alpha [EC:3.6.3.14]
+
+K00548	Metabolism_Amino acid metabolism_00270 Cysteine and methionine metabolism [PATH:ko00270]_metH, MTR; 5-methyltetrahydrofolate--homocysteine methyltransferase [EC:2.1.1.13]#Metabolism_Metabolism of cofactors and vitamins_00670 One carbon pool by folate [PATH:ko00670]_metH, MTR; 5-methyltetrahydrofolate--homocysteine methyltransferase [EC:2.1.1.13]#Metabolism_Metabolism of other amino acids_00450 Selenocompound metabolism [PATH:ko00450]_metH, MTR; 5-methyltetrahydrofolate--homocysteine methyltransferase [EC:2.1.1.13]#Metabolism_Overview_01230 Biosynthesis of amino acids [PATH:ko01230]_metH, MTR; 5-methyltetrahydrofolate--homocysteine methyltransferase [EC:2.1.1.13]
+
+K00864	Metabolism_Lipid metabolism_00561 Glycerolipid metabolism [PATH:ko00561]_glpK, GK; glycerol kinase [EC:2.7.1.30]#Organismal Systems_Endocrine system_03320 PPAR signaling pathway [PATH:ko03320]_glpK, GK; glycerol kinase [EC:2.7.1.30]#Organismal Systems_Environmental adaptation_04626 Plant-pathogen interaction [PATH:ko04626]_glpK, GK; glycerol kinase [EC:2.7.1.30]
+
+K00873	Human Diseases_Cancers_05203 Viral carcinogenesis [PATH:ko05203]_PK, pyk; pyruvate kinase [EC:2.7.1.40]#Human Diseases_Cancers_05230 Central carbon metabolism in cancer [PATH:ko05230]_PK, pyk; pyruvate kinase [EC:2.7.1.40]#Human Diseases_Endocrine and metabolic diseases_04930 Type II diabetes mellitus [PATH:ko04930]_PK, pyk; pyruvate kinase [EC:2.7.1.40]#Metabolism_Carbohydrate metabolism_00010 Glycolysis / Gluconeogenesis [PATH:ko00010]_PK, pyk; pyruvate kinase [EC:2.7.1.40]#Metabolism_Carbohydrate metabolism_00620 Pyruvate metabolism [PATH:ko00620]_PK, pyk; pyruvate kinase [EC:2.7.1.40]#Metabolism_Nucleotide metabolism_00230 Purine metabolism [PATH:ko00230]_PK, pyk; pyruvate kinase [EC:2.7.1.40]#Metabolism_Overview_01200 Carbon metabolism [PATH:ko01200]_PK, pyk; pyruvate kinase [EC:2.7.1.40]#Metabolism_Overview_01230 Biosynthesis of amino acids [PATH:ko01230]_PK, pyk; pyruvate kinase [EC:2.7.1.40]#Organismal Systems_Endocrine system_04922 Glucagon signaling pathway [PATH:ko04922]_PK, pyk; pyruvate kinase [EC:2.7.1.40]
+
+K00088	Metabolism_Nucleotide metabolism_00230 Purine metabolism [PATH:ko00230]_guaB; IMP dehydrogenase [EC:1.1.1.205]#Metabolism_Xenobiotics biodegradation and metabolism_00983 Drug metabolism - other enzymes [PATH:ko00983]_guaB; IMP dehydrogenase [EC:1.1.1.205]
+
+K00283	Metabolism_Amino acid metabolism_00260 Glycine, serine and threonine metabolism [PATH:ko00260]_gcvPB; glycine dehydrogenase subunit 2 [EC:1.4.4.2]#Metabolism_Carbohydrate metabolism_00630 Glyoxylate and dicarboxylate metabolism [PATH:ko00630]_gcvPB; glycine dehydrogenase subunit 2 [EC:1.4.4.2]#Metabolism_Overview_01200 Carbon metabolism [PATH:ko01200]_gcvPB; glycine dehydrogenase subunit 2 [EC:1.4.4.2]
+
+K02112	Metabolism_Energy metabolism_00190 Oxidative phosphorylation [PATH:ko00190]_ATPF1B, atpD; F-type H+-transporting ATPase subunit beta [EC:3.6.3.14]#Metabolism_Energy metabolism_00195 Photosynthesis [PATH:ko00195]_ATPF1B, atpD; F-type H+-transporting ATPase subunit beta [EC:3.6.3.14]
+
+K04567	Genetic Information Processing_Translation_00970 Aminoacyl-tRNA biosynthesis [PATH:ko00970]_KARS, lysS; lysyl-tRNA synthetase, class II [EC:6.1.1.6]
+
+K00547	Metabolism_Amino acid metabolism_00270 Cysteine and methionine metabolism [PATH:ko00270]_mmuM; homocysteine S-methyltransferase [EC:2.1.1.10]
+
+K03407	Cellular Processes_Cell motility_02030 Bacterial chemotaxis [PATH:ko02030]_cheA; two-component system, chemotaxis family, sensor kinase CheA [EC:2.7.13.3]#Environmental Information Processing_Signal transduction_02020 Two-component system [PATH:ko02020]_cheA; two-component system, chemotaxis family, sensor kinase CheA [EC:2.7.13.3]
+
+K02433	Genetic Information Processing_Translation_00970 Aminoacyl-tRNA biosynthesis [PATH:ko00970]_gatA, QRSL1; aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit A [EC:6.3.5.6 6.3.5.7]
+
+K00033	Metabolism_Carbohydrate metabolism_00030 Pentose phosphate pathway [PATH:ko00030]_PGD, gnd, gntZ; 6-phosphogluconate dehydrogenase [EC:1.1.1.44 1.1.1.343]#Metabolism_Metabolism of other amino acids_00480 Glutathione metabolism [PATH:ko00480]_PGD, gnd, gntZ; 6-phosphogluconate dehydrogenase [EC:1.1.1.44 1.1.1.343]#Metabolism_Overview_01200 Carbon metabolism [PATH:ko01200]_PGD, gnd, gntZ; 6-phosphogluconate dehydrogenase [EC:1.1.1.44 1.1.1.343]
+
+K19005	Metabolism_Lipid metabolism_00561 Glycerolipid metabolism [PATH:ko00561]_ltaS; lipoteichoic acid synthase [EC:2.7.8.20]
+
+K01881	Genetic Information Processing_Translation_00970 Aminoacyl-tRNA biosynthesis [PATH:ko00970]_PARS, proS; prolyl-tRNA synthetase [EC:6.1.1.15]
+
+K02770	Environmental Information Processing_Membrane transport_02060 Phosphotransferase system (PTS) [PATH:ko02060]_PTS-Fru-EIIC, fruA; PTS system, fructose-specific IIC component#Metabolism_Carbohydrate metabolism_00051 Fructose and mannose metabolism [PATH:ko00051]_PTS-Fru-EIIC, fruA; PTS system, fructose-specific IIC component
+
+K01915	Environmental Information Processing_Signal transduction_02020 Two-component system [PATH:ko02020]_glnA, GLUL; glutamine synthetase [EC:6.3.1.2]#Metabolism_Amino acid metabolism_00250 Alanine, aspartate and glutamate metabolism [PATH:ko00250]_glnA, GLUL; glutamine synthetase [EC:6.3.1.2]#Metabolism_Amino acid metabolism_00330 Arginine and proline metabolism [PATH:ko00330]_glnA, GLUL; glutamine synthetase [EC:6.3.1.2]#Metabolism_Carbohydrate metabolism_00630 Glyoxylate and dicarboxylate metabolism [PATH:ko00630]_glnA, GLUL; glutamine synthetase [EC:6.3.1.2]#Metabolism_Energy metabolism_00910 Nitrogen metabolism [PATH:ko00910]_glnA, GLUL; glutamine synthetase [EC:6.3.1.2]#Metabolism_Overview_01230 Biosynthesis of amino acids [PATH:ko01230]_glnA, GLUL; glutamine synthetase [EC:6.3.1.2]#Organismal Systems_Nervous system_04724 Glutamatergic synapse [PATH:ko04724]_glnA, GLUL; glutamine synthetase [EC:6.3.1.2]#Organismal Systems_Nervous system_04727 GABAergic synapse [PATH:ko04727]_glnA, GLUL; glutamine synthetase [EC:6.3.1.2]
+
+K01187	Metabolism_Carbohydrate metabolism_00052 Galactose metabolism [PATH:ko00052]_malZ; alpha-glucosidase [EC:3.2.1.20]#Metabolism_Carbohydrate metabolism_00500 Starch and sucrose metabolism [PATH:ko00500]_malZ; alpha-glucosidase [EC:3.2.1.20]
+
+K01939	Metabolism_Amino acid metabolism_00250 Alanine, aspartate and glutamate metabolism [PATH:ko00250]_purA, ADSS; adenylosuccinate synthase [EC:6.3.4.4]#Metabolism_Nucleotide metabolism_00230 Purine metabolism [PATH:ko00230]_purA, ADSS; adenylosuccinate synthase [EC:6.3.4.4]
+
+K07192	Organismal Systems_Endocrine system_04910 Insulin signaling pathway [PATH:ko04910]_FLOT; flotillin
+
+K01610	Metabolism_Carbohydrate metabolism_00010 Glycolysis / Gluconeogenesis [PATH:ko00010]_E4.1.1.49, pckA; phosphoenolpyruvate carboxykinase (ATP) [EC:4.1.1.49]#Metabolism_Carbohydrate metabolism_00020 Citrate cycle (TCA cycle) [PATH:ko00020]_E4.1.1.49, pckA; phosphoenolpyruvate carboxykinase (ATP) [EC:4.1.1.49]#Metabolism_Carbohydrate metabolism_00620 Pyruvate metabolism [PATH:ko00620]_E4.1.1.49, pckA; phosphoenolpyruvate carboxykinase (ATP) [EC:4.1.1.49]#Metabolism_Energy metabolism_00710 Carbon fixation in photosynthetic organisms [PATH:ko00710]_E4.1.1.49, pckA; phosphoenolpyruvate carboxykinase (ATP) [EC:4.1.1.49]#Metabolism_Overview_01200 Carbon metabolism [PATH:ko01200]_E4.1.1.49, pckA; phosphoenolpyruvate carboxykinase (ATP) [EC:4.1.1.49]
+
+K02313	Cellular Processes_Cell growth and death_04112 Cell cycle - Caulobacter [PATH:ko04112]_dnaA; chromosomal replication initiator protein#Environmental Information Processing_Signal transduction_02020 Two-component system [PATH:ko02020]_dnaA; chromosomal replication initiator protein
+
+K00294	Metabolism_Amino acid metabolism_00250 Alanine, aspartate and glutamate metabolism [PATH:ko00250]_E1.2.1.88; 1-pyrroline-5-carboxylate dehydrogenase [EC:1.2.1.88]#Metabolism_Amino acid metabolism_00330 Arginine and proline metabolism [PATH:ko00330]_E1.2.1.88; 1-pyrroline-5-carboxylate dehydrogenase [EC:1.2.1.88]
+
+K03572	Genetic Information Processing_Replication and repair_03430 Mismatch repair [PATH:ko03430]_mutL; DNA mismatch repair protein MutL
+
+K08724	Metabolism_Glycan biosynthesis and metabolism_00550 Peptidoglycan biosynthesis [PATH:ko00550]_pbpB; penicillin-binding protein 2B
+
+K00382	Metabolism_Amino acid metabolism_00260 Glycine, serine and threonine metabolism [PATH:ko00260]_DLD, lpd, pdhD; dihydrolipoamide dehydrogenase [EC:1.8.1.4]#Metabolism_Amino acid metabolism_00280 Valine, leucine and isoleucine degradation [PATH:ko00280]_DLD, lpd, pdhD; dihydrolipoamide dehydrogenase [EC:1.8.1.4]#Metabolism_Carbohydrate metabolism_00010 Glycolysis / Gluconeogenesis [PATH:ko00010]_DLD, lpd, pdhD; dihydrolipoamide dehydrogenase [EC:1.8.1.4]#Metabolism_Carbohydrate metabolism_00020 Citrate cycle (TCA cycle) [PATH:ko00020]_DLD, lpd, pdhD; dihydrolipoamide dehydrogenase [EC:1.8.1.4]#Metabolism_Carbohydrate metabolism_00620 Pyruvate metabolism [PATH:ko00620]_DLD, lpd, pdhD; dihydrolipoamide dehydrogenase [EC:1.8.1.4]#Metabolism_Carbohydrate metabolism_00630 Glyoxylate and dicarboxylate metabolism [PATH:ko00630]_DLD, lpd, pdhD; dihydrolipoamide dehydrogenase [EC:1.8.1.4]#Metabolism_Overview_01200 Carbon metabolism [PATH:ko01200]_DLD, lpd, pdhD; dihydrolipoamide dehydrogenase [EC:1.8.1.4]
+
+K01585	Metabolism_Amino acid metabolism_00330 Arginine and proline metabolism [PATH:ko00330]_E4.1.1.19S, speA; arginine decarboxylase [EC:4.1.1.19]
+
+K01756	Metabolism_Amino acid metabolism_00250 Alanine, aspartate and glutamate metabolism [PATH:ko00250]_purB, ADSL; adenylosuccinate lyase [EC:4.3.2.2]#Metabolism_Nucleotide metabolism_00230 Purine metabolism [PATH:ko00230]_purB, ADSL; adenylosuccinate lyase [EC:4.3.2.2]
+
+K01961	Metabolism_Carbohydrate metabolism_00620 Pyruvate metabolism [PATH:ko00620]_accC; acetyl-CoA carboxylase, biotin carboxylase subunit [EC:6.4.1.2 6.3.4.14]#Metabolism_Carbohydrate metabolism_00640 Propanoate metabolism [PATH:ko00640]_accC; acetyl-CoA carboxylase, biotin carboxylase subunit [EC:6.4.1.2 6.3.4.14]#Metabolism_Energy metabolism_00720 Carbon fixation pathways in prokaryotes [PATH:ko00720]_accC; acetyl-CoA carboxylase, biotin carboxylase subunit [EC:6.4.1.2 6.3.4.14]#Metabolism_Lipid metabolism_00061 Fatty acid biosynthesis [PATH:ko00061]_accC; acetyl-CoA carboxylase, biotin carboxylase subunit [EC:6.4.1.2 6.3.4.14]#Metabolism_Metabolism of terpenoids and polyketides_00253 Tetracycline biosynthesis [PATH:ko00253]_accC; acetyl-CoA carboxylase, biotin carboxylase subunit [EC:6.4.1.2 6.3.4.14]#Metabolism_Overview_01200 Carbon metabolism [PATH:ko01200]_accC; acetyl-CoA carboxylase, biotin carboxylase subunit [EC:6.4.1.2 6.3.4.14]#Metabolism_Overview_01212 Fatty acid metabolism [PATH:ko01212]_accC; acetyl-CoA carboxylase, biotin carboxylase subunit [EC:6.4.1.2 6.3.4.14]
+
+K01689	Environmental Information Processing_Signal transduction_04066 HIF-1 signaling pathway [PATH:ko04066]_ENO, eno; enolase [EC:4.2.1.11]#Genetic Information Processing_Folding, sorting and degradation_03018 RNA degradation [PATH:ko03018]_ENO, eno; enolase [EC:4.2.1.11]#Metabolism_Carbohydrate metabolism_00010 Glycolysis / Gluconeogenesis [PATH:ko00010]_ENO, eno; enolase [EC:4.2.1.11]#Metabolism_Energy metabolism_00680 Methane metabolism [PATH:ko00680]_ENO, eno; enolase [EC:4.2.1.11]#Metabolism_Overview_01200 Carbon metabolism [PATH:ko01200]_ENO, eno; enolase [EC:4.2.1.11]#Metabolism_Overview_01230 Biosynthesis of amino acids [PATH:ko01230]_ENO, eno; enolase [EC:4.2.1.11]
+
+K07651	Environmental Information Processing_Signal transduction_02020 Two-component system [PATH:ko02020]_resE; two-component system, OmpR family, sensor histidine kinase ResE [EC:2.7.13.3]
+
+K00260	Metabolism_Amino acid metabolism_00250 Alanine, aspartate and glutamate metabolism [PATH:ko00250]_gudB, rocG; glutamate dehydrogenase [EC:1.4.1.2]#Metabolism_Amino acid metabolism_00330 Arginine and proline metabolism [PATH:ko00330]_gudB, rocG; glutamate dehydrogenase [EC:1.4.1.2]#Metabolism_Energy metabolism_00910 Nitrogen metabolism [PATH:ko00910]_gudB, rocG; glutamate dehydrogenase [EC:1.4.1.2]#Metabolism_Metabolism of other amino acids_00430 Taurine and hypotaurine metabolism [PATH:ko00430]_gudB, rocG; glutamate dehydrogenase [EC:1.4.1.2]
+
+K03106	Environmental Information Processing_Membrane transport_03070 Bacterial secretion system [PATH:ko03070]_SRP54, ffh; signal recognition particle subunit SRP54#Genetic Information Processing_Folding, sorting and degradation_03060 Protein export [PATH:ko03060]_SRP54, ffh; signal recognition particle subunit SRP54
+
+K00602	Metabolism_Metabolism of cofactors and vitamins_00670 One carbon pool by folate [PATH:ko00670]_purH; phosphoribosylaminoimidazolecarboxamide formyltransferase / IMP cyclohydrolase [EC:2.1.2.3 3.5.4.10]#Metabolism_Nucleotide metabolism_00230 Purine metabolism [PATH:ko00230]_purH; phosphoribosylaminoimidazolecarboxamide formyltransferase / IMP cyclohydrolase [EC:2.1.2.3 3.5.4.10]
+
+K03431	Metabolism_Carbohydrate metabolism_00520 Amino sugar and nucleotide sugar metabolism [PATH:ko00520]_glmM; phosphoglucosamine mutase [EC:5.4.2.10]
+
+K01883	Genetic Information Processing_Translation_00970 Aminoacyl-tRNA biosynthesis [PATH:ko00970]_CARS, cysS; cysteinyl-tRNA synthetase [EC:6.1.1.16]
+
+K00763	Metabolism_Metabolism of cofactors and vitamins_00760 Nicotinate and nicotinamide metabolism [PATH:ko00760]_pncB, NAPRT1; nicotinate phosphoribosyltransferase [EC:6.3.4.21]
+
+K03628	Genetic Information Processing_Folding, sorting and degradation_03018 RNA degradation [PATH:ko03018]_rho; transcription termination factor Rho
+
+K07652	Environmental Information Processing_Signal transduction_02020 Two-component system [PATH:ko02020]_vicK; two-component system, OmpR family, sensor histidine kinase VicK [EC:2.7.13.3]
+
+K03544	Cellular Processes_Cell growth and death_04112 Cell cycle - Caulobacter [PATH:ko04112]_clpX, CLPX; ATP-dependent Clp protease ATP-binding subunit ClpX
+
+K01893	Genetic Information Processing_Translation_00970 Aminoacyl-tRNA biosynthesis [PATH:ko00970]_NARS, asnS; asparaginyl-tRNA synthetase [EC:6.1.1.22]
+
+K00382	Metabolism_Amino acid metabolism_00260 Glycine, serine and threonine metabolism [PATH:ko00260]_DLD, lpd, pdhD; dihydrolipoamide dehydrogenase [EC:1.8.1.4]#Metabolism_Amino acid metabolism_00280 Valine, leucine and isoleucine degradation [PATH:ko00280]_DLD, lpd, pdhD; dihydrolipoamide dehydrogenase [EC:1.8.1.4]#Metabolism_Carbohydrate metabolism_00010 Glycolysis / Gluconeogenesis [PATH:ko00010]_DLD, lpd, pdhD; dihydrolipoamide dehydrogenase [EC:1.8.1.4]#Metabolism_Carbohydrate metabolism_00020 Citrate cycle (TCA cycle) [PATH:ko00020]_DLD, lpd, pdhD; dihydrolipoamide dehydrogenase [EC:1.8.1.4]#Metabolism_Carbohydrate metabolism_00620 Pyruvate metabolism [PATH:ko00620]_DLD, lpd, pdhD; dihydrolipoamide dehydrogenase [EC:1.8.1.4]#Metabolism_Carbohydrate metabolism_00630 Glyoxylate and dicarboxylate metabolism [PATH:ko00630]_DLD, lpd, pdhD; dihydrolipoamide dehydrogenase [EC:1.8.1.4]#Metabolism_Overview_01200 Carbon metabolism [PATH:ko01200]_DLD, lpd, pdhD; dihydrolipoamide dehydrogenase [EC:1.8.1.4]
+
+K01845	Metabolism_Metabolism of cofactors and vitamins_00860 Porphyrin and chlorophyll metabolism [PATH:ko00860]_hemL; glutamate-1-semialdehyde 2,1-aminomutase [EC:5.4.3.8]
+
+K01897	Cellular Processes_Transport and catabolism_04146 Peroxisome [PATH:ko04146]_ACSL, fadD; long-chain acyl-CoA synthetase [EC:6.2.1.3]#Metabolism_Lipid metabolism_00061 Fatty acid biosynthesis [PATH:ko00061]_ACSL, fadD; long-chain acyl-CoA synthetase [EC:6.2.1.3]#Metabolism_Lipid metabolism_00071 Fatty acid degradation [PATH:ko00071]_ACSL, fadD; long-chain acyl-CoA synthetase [EC:6.2.1.3]#Metabolism_Overview_01212 Fatty acid metabolism [PATH:ko01212]_ACSL, fadD; long-chain acyl-CoA synthetase [EC:6.2.1.3]#Organismal Systems_Endocrine system_03320 PPAR signaling pathway [PATH:ko03320]_ACSL, fadD; long-chain acyl-CoA synthetase [EC:6.2.1.3]#Organismal Systems_Endocrine system_04920 Adipocytokine signaling pathway [PATH:ko04920]_ACSL, fadD; long-chain acyl-CoA synthetase [EC:6.2.1.3]
+
+K13533	Environmental Information Processing_Signal transduction_02020 Two-component system [PATH:ko02020]_kinE; two-component system, sporulation sensor kinase E [EC:2.7.13.3]
+
+K01845	Metabolism_Metabolism of cofactors and vitamins_00860 Porphyrin and chlorophyll metabolism [PATH:ko00860]_hemL; glutamate-1-semialdehyde 2,1-aminomutase [EC:5.4.3.8]
+
+K00036	Human Diseases_Cancers_05230 Central carbon metabolism in cancer [PATH:ko05230]_G6PD, zwf; glucose-6-phosphate 1-dehydrogenase [EC:1.1.1.49]#Metabolism_Carbohydrate metabolism_00030 Pentose phosphate pathway [PATH:ko00030]_G6PD, zwf; glucose-6-phosphate 1-dehydrogenase [EC:1.1.1.49]#Metabolism_Metabolism of other amino acids_00480 Glutathione metabolism [PATH:ko00480]_G6PD, zwf; glucose-6-phosphate 1-dehydrogenase [EC:1.1.1.49]#Metabolism_Overview_01200 Carbon metabolism [PATH:ko01200]_G6PD, zwf; glucose-6-phosphate 1-dehydrogenase [EC:1.1.1.49]
+
+K01649	Metabolism_Amino acid metabolism_00290 Valine, leucine and isoleucine biosynthesis [PATH:ko00290]_leuA; 2-isopropylmalate synthase [EC:2.3.3.13]#Metabolism_Carbohydrate metabolism_00620 Pyruvate metabolism [PATH:ko00620]_leuA; 2-isopropylmalate synthase [EC:2.3.3.13]#Metabolism_Overview_01210 2-Oxocarboxylic acid metabolism [PATH:ko01210]_leuA; 2-isopropylmalate synthase [EC:2.3.3.13]#Metabolism_Overview_01230 Biosynthesis of amino acids [PATH:ko01230]_leuA; 2-isopropylmalate synthase [EC:2.3.3.13]
+
+K00789	Metabolism_Amino acid metabolism_00270 Cysteine and methionine metabolism [PATH:ko00270]_metK; S-adenosylmethionine synthetase [EC:2.5.1.6]#Metabolism_Overview_01230 Biosynthesis of amino acids [PATH:ko01230]_metK; S-adenosylmethionine synthetase [EC:2.5.1.6]
+
+K00764	Metabolism_Amino acid metabolism_00250 Alanine, aspartate and glutamate metabolism [PATH:ko00250]_purF, PPAT; amidophosphoribosyltransferase [EC:2.4.2.14]#Metabolism_Nucleotide metabolism_00230 Purine metabolism [PATH:ko00230]_purF, PPAT; amidophosphoribosyltransferase [EC:2.4.2.14]
+
+K05592	Genetic Information Processing_Folding, sorting and degradation_03018 RNA degradation [PATH:ko03018]_deaD, cshA; ATP-dependent RNA helicase DeaD [EC:3.6.4.13]
+
+K01755	Metabolism_Amino acid metabolism_00250 Alanine, aspartate and glutamate metabolism [PATH:ko00250]_argH, ASL; argininosuccinate lyase [EC:4.3.2.1]#Metabolism_Amino acid metabolism_00330 Arginine and proline metabolism [PATH:ko00330]_argH, ASL; argininosuccinate lyase [EC:4.3.2.1]#Metabolism_Overview_01230 Biosynthesis of amino acids [PATH:ko01230]_argH, ASL; argininosuccinate lyase [EC:4.3.2.1]
+
+K01880	Genetic Information Processing_Translation_00970 Aminoacyl-tRNA biosynthesis [PATH:ko00970]_GARS, glyS1; glycyl-tRNA synthetase [EC:6.1.1.14]
+
+K00525	Metabolism_Nucleotide metabolism_00230 Purine metabolism [PATH:ko00230]_E1.17.4.1A, nrdA, nrdE; ribonucleoside-diphosphate reductase alpha chain [EC:1.17.4.1]#Metabolism_Nucleotide metabolism_00240 Pyrimidine metabolism [PATH:ko00240]_E1.17.4.1A, nrdA, nrdE; ribonucleoside-diphosphate reductase alpha chain [EC:1.17.4.1]
+
+K00058	Metabolism_Amino acid metabolism_00260 Glycine, serine and threonine metabolism [PATH:ko00260]_serA, PHGDH; D-3-phosphoglycerate dehydrogenase [EC:1.1.1.95]#Metabolism_Energy metabolism_00680 Methane metabolism [PATH:ko00680]_serA, PHGDH; D-3-phosphoglycerate dehydrogenase [EC:1.1.1.95]#Metabolism_Overview_01200 Carbon metabolism [PATH:ko01200]_serA, PHGDH; D-3-phosphoglycerate dehydrogenase [EC:1.1.1.95]#Metabolism_Overview_01230 Biosynthesis of amino acids [PATH:ko01230]_serA, PHGDH; D-3-phosphoglycerate dehydrogenase [EC:1.1.1.95]
+
+K12574	Genetic Information Processing_Folding, sorting and degradation_03018 RNA degradation [PATH:ko03018]_rnj; ribonuclease J [EC:3.1.-.-]
+
+K00790	Metabolism_Carbohydrate metabolism_00520 Amino sugar and nucleotide sugar metabolism [PATH:ko00520]_murA; UDP-N-acetylglucosamine 1-carboxyvinyltransferase [EC:2.5.1.7]#Metabolism_Glycan biosynthesis and metabolism_00550 Peptidoglycan biosynthesis [PATH:ko00550]_murA; UDP-N-acetylglucosamine 1-carboxyvinyltransferase [EC:2.5.1.7]
+
+K08303	Human Diseases_Infectious diseases_05120 Epithelial cell signaling in Helicobacter pylori infection [PATH:ko05120]_K08303; putative protease [EC:3.4.-.-]
+
+K01875	Genetic Information Processing_Translation_00970 Aminoacyl-tRNA biosynthesis [PATH:ko00970]_SARS, serS; seryl-tRNA synthetase [EC:6.1.1.11]
+
+K09698	Genetic Information Processing_Translation_00970 Aminoacyl-tRNA biosynthesis [PATH:ko00970]_gltX; nondiscriminating glutamyl-tRNA synthetase [EC:6.1.1.24]
+
+K00600	Metabolism_Amino acid metabolism_00260 Glycine, serine and threonine metabolism [PATH:ko00260]_glyA, SHMT; glycine hydroxymethyltransferase [EC:2.1.2.1]#Metabolism_Carbohydrate metabolism_00630 Glyoxylate and dicarboxylate metabolism [PATH:ko00630]_glyA, SHMT; glycine hydroxymethyltransferase [EC:2.1.2.1]#Metabolism_Energy metabolism_00680 Methane metabolism [PATH:ko00680]_glyA, SHMT; glycine hydroxymethyltransferase [EC:2.1.2.1]#Metabolism_Metabolism of cofactors and vitamins_00670 One carbon pool by folate [PATH:ko00670]_glyA, SHMT; glycine hydroxymethyltransferase [EC:2.1.2.1]#Metabolism_Metabolism of other amino acids_00460 Cyanoamino acid metabolism [PATH:ko00460]_glyA, SHMT; glycine hydroxymethyltransferase [EC:2.1.2.1]#Metabolism_Overview_01200 Carbon metabolism [PATH:ko01200]_glyA, SHMT; glycine hydroxymethyltransferase [EC:2.1.2.1]#Metabolism_Overview_01230 Biosynthesis of amino acids [PATH:ko01230]_glyA, SHMT; glycine hydroxymethyltransferase [EC:2.1.2.1]
+
+K00925	Metabolism_Carbohydrate metabolism_00620 Pyruvate metabolism [PATH:ko00620]_ackA; acetate kinase [EC:2.7.2.1]#Metabolism_Carbohydrate metabolism_00640 Propanoate metabolism [PATH:ko00640]_ackA; acetate kinase [EC:2.7.2.1]#Metabolism_Energy metabolism_00680 Methane metabolism [PATH:ko00680]_ackA; acetate kinase [EC:2.7.2.1]#Metabolism_Energy metabolism_00720 Carbon fixation pathways in prokaryotes [PATH:ko00720]_ackA; acetate kinase [EC:2.7.2.1]#Metabolism_Metabolism of other amino acids_00430 Taurine and hypotaurine metabolism [PATH:ko00430]_ackA; acetate kinase [EC:2.7.2.1]#Metabolism_Overview_01200 Carbon metabolism [PATH:ko01200]_ackA; acetate kinase [EC:2.7.2.1]
+
+K00790	Metabolism_Carbohydrate metabolism_00520 Amino sugar and nucleotide sugar metabolism [PATH:ko00520]_murA; UDP-N-acetylglucosamine 1-carboxyvinyltransferase [EC:2.5.1.7]#Metabolism_Glycan biosynthesis and metabolism_00550 Peptidoglycan biosynthesis [PATH:ko00550]_murA; UDP-N-acetylglucosamine 1-carboxyvinyltransferase [EC:2.5.1.7]
+
+K11717	Metabolism_Metabolism of other amino acids_00450 Selenocompound metabolism [PATH:ko00450]_sufS; cysteine desulfurase / selenocysteine lyase [EC:2.8.1.7 4.4.1.16]
+
+K03076	Environmental Information Processing_Membrane transport_03070 Bacterial secretion system [PATH:ko03070]_secY; preprotein translocase subunit SecY#Genetic Information Processing_Folding, sorting and degradation_03060 Protein export [PATH:ko03060]_secY; preprotein translocase subunit SecY
+
+K01940	Metabolism_Amino acid metabolism_00250 Alanine, aspartate and glutamate metabolism [PATH:ko00250]_argG, ASS1; argininosuccinate synthase [EC:6.3.4.5]#Metabolism_Amino acid metabolism_00330 Arginine and proline metabolism [PATH:ko00330]_argG, ASS1; argininosuccinate synthase [EC:6.3.4.5]#Metabolism_Overview_01230 Biosynthesis of amino acids [PATH:ko01230]_argG, ASS1; argininosuccinate synthase [EC:6.3.4.5]
+
+K00627	Metabolism_Carbohydrate metabolism_00010 Glycolysis / Gluconeogenesis [PATH:ko00010]_DLAT, aceF, pdhC; pyruvate dehydrogenase E2 component (dihydrolipoamide acetyltransferase) [EC:2.3.1.12]#Metabolism_Carbohydrate metabolism_00020 Citrate cycle (TCA cycle) [PATH:ko00020]_DLAT, aceF, pdhC; pyruvate dehydrogenase E2 component (dihydrolipoamide acetyltransferase) [EC:2.3.1.12]#Metabolism_Carbohydrate metabolism_00620 Pyruvate metabolism [PATH:ko00620]_DLAT, aceF, pdhC; pyruvate dehydrogenase E2 component (dihydrolipoamide acetyltransferase) [EC:2.3.1.12]#Metabolism_Overview_01200 Carbon metabolism [PATH:ko01200]_DLAT, aceF, pdhC; pyruvate dehydrogenase E2 component (dihydrolipoamide acetyltransferase) [EC:2.3.1.12]
+
+K09458	Metabolism_Lipid metabolism_00061 Fatty acid biosynthesis [PATH:ko00061]_fabF; 3-oxoacyl-[acyl-carrier-protein] synthase II [EC:2.3.1.179]#Metabolism_Metabolism of cofactors and vitamins_00780 Biotin metabolism [PATH:ko00780]_fabF; 3-oxoacyl-[acyl-carrier-protein] synthase II [EC:2.3.1.179]#Metabolism_Overview_01212 Fatty acid metabolism [PATH:ko01212]_fabF; 3-oxoacyl-[acyl-carrier-protein] synthase II [EC:2.3.1.179]
+
+K04042	Metabolism_Carbohydrate metabolism_00520 Amino sugar and nucleotide sugar metabolism [PATH:ko00520]_glmU; bifunctional UDP-N-acetylglucosamine pyrophosphorylase / Glucosamine-1-phosphate N-acetyltransferase [EC:2.7.7.23 2.3.1.157]
+
+K02316	Genetic Information Processing_Replication and repair_03030 DNA replication [PATH:ko03030]_dnaG; DNA primase [EC:2.7.7.-]
+
+K01924	Metabolism_Glycan biosynthesis and metabolism_00550 Peptidoglycan biosynthesis [PATH:ko00550]_murC; UDP-N-acetylmuramate--alanine ligase [EC:6.3.2.8]#Metabolism_Metabolism of other amino acids_00471 D-Glutamine and D-glutamate metabolism [PATH:ko00471]_murC; UDP-N-acetylmuramate--alanine ligase [EC:6.3.2.8]
+
+K01586	Metabolism_Amino acid metabolism_00300 Lysine biosynthesis [PATH:ko00300]_lysA; diaminopimelate decarboxylase [EC:4.1.1.20]#Metabolism_Overview_01230 Biosynthesis of amino acids [PATH:ko01230]_lysA; diaminopimelate decarboxylase [EC:4.1.1.20]
+
+K00819	Metabolism_Amino acid metabolism_00330 Arginine and proline metabolism [PATH:ko00330]_E2.6.1.13, rocD; ornithine--oxo-acid transaminase [EC:2.6.1.13]
+
+K01903	Metabolism_Carbohydrate metabolism_00020 Citrate cycle (TCA cycle) [PATH:ko00020]_sucC; succinyl-CoA synthetase beta subunit [EC:6.2.1.5]#Metabolism_Carbohydrate metabolism_00640 Propanoate metabolism [PATH:ko00640]_sucC; succinyl-CoA synthetase beta subunit [EC:6.2.1.5]#Metabolism_Carbohydrate metabolism_00660 C5-Branched dibasic acid metabolism [PATH:ko00660]_sucC; succinyl-CoA synthetase beta subunit [EC:6.2.1.5]#Metabolism_Energy metabolism_00720 Carbon fixation pathways in prokaryotes [PATH:ko00720]_sucC; succinyl-CoA synthetase beta subunit [EC:6.2.1.5]#Metabolism_Overview_01200 Carbon metabolism [PATH:ko01200]_sucC; succinyl-CoA synthetase beta subunit [EC:6.2.1.5]
+
+K00282	Metabolism_Amino acid metabolism_00260 Glycine, serine and threonine metabolism [PATH:ko00260]_gcvPA; glycine dehydrogenase subunit 1 [EC:1.4.4.2]#Metabolism_Carbohydrate metabolism_00630 Glyoxylate and dicarboxylate metabolism [PATH:ko00630]_gcvPA; glycine dehydrogenase subunit 1 [EC:1.4.4.2]#Metabolism_Overview_01200 Carbon metabolism [PATH:ko01200]_gcvPA; glycine dehydrogenase subunit 1 [EC:1.4.4.2]
+
+K01486	Metabolism_Nucleotide metabolism_00230 Purine metabolism [PATH:ko00230]_ade; adenine deaminase [EC:3.5.4.2]
+
+K00927	Metabolism_Carbohydrate metabolism_00010 Glycolysis / Gluconeogenesis [PATH:ko00010]_PGK, pgk; phosphoglycerate kinase [EC:2.7.2.3]#Metabolism_Energy metabolism_00710 Carbon fixation in photosynthetic organisms [PATH:ko00710]_PGK, pgk; phosphoglycerate kinase [EC:2.7.2.3]#Metabolism_Overview_01200 Carbon metabolism [PATH:ko01200]_PGK, pgk; phosphoglycerate kinase [EC:2.7.2.3]#Metabolism_Overview_01230 Biosynthesis of amino acids [PATH:ko01230]_PGK, pgk; phosphoglycerate kinase [EC:2.7.2.3]
+
+K02495	Metabolism_Metabolism of cofactors and vitamins_00860 Porphyrin and chlorophyll metabolism [PATH:ko00860]_hemN, hemZ; oxygen-independent coproporphyrinogen III oxidase [EC:1.3.99.22]
+
+K03526	Metabolism_Metabolism of terpenoids and polyketides_00900 Terpenoid backbone biosynthesis [PATH:ko00900]_gcpE, ispG; (E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase [EC:1.17.7.1 1.17.7.3]
+
+K03588	Cellular Processes_Cell growth and death_04112 Cell cycle - Caulobacter [PATH:ko04112]_ftsW, spoVE; cell division protein FtsW
+
+K00263	Metabolism_Amino acid metabolism_00280 Valine, leucine and isoleucine degradation [PATH:ko00280]_E1.4.1.9; leucine dehydrogenase [EC:1.4.1.9]#Metabolism_Amino acid metabolism_00290 Valine, leucine and isoleucine biosynthesis [PATH:ko00290]_E1.4.1.9; leucine dehydrogenase [EC:1.4.1.9]
+
+K00812	Metabolism_Amino acid metabolism_00250 Alanine, aspartate and glutamate metabolism [PATH:ko00250]_aspB; aspartate aminotransferase [EC:2.6.1.1]#Metabolism_Amino acid metabolism_00270 Cysteine and methionine metabolism [PATH:ko00270]_aspB; aspartate aminotransferase [EC:2.6.1.1]#Metabolism_Amino acid metabolism_00330 Arginine and proline metabolism [PATH:ko00330]_aspB; aspartate aminotransferase [EC:2.6.1.1]#Metabolism_Amino acid metabolism_00350 Tyrosine metabolism [PATH:ko00350]_aspB; aspartate aminotransferase [EC:2.6.1.1]#Metabolism_Amino acid metabolism_00360 Phenylalanine metabolism [PATH:ko00360]_aspB; aspartate aminotransferase [EC:2.6.1.1]#Metabolism_Amino acid metabolism_00400 Phenylalanine, tyrosine and tryptophan biosynthesis [PATH:ko00400]_aspB; aspartate aminotransferase [EC:2.6.1.1]#Metabolism_Biosynthesis of other secondary metabolites_00401 Novobiocin biosynthesis [PATH:ko00401]_aspB; aspartate aminotransferase [EC:2.6.1.1]#Metabolism_Biosynthesis of other secondary metabolites_00950 Isoquinoline alkaloid biosynthesis [PATH:ko00950]_aspB; aspartate aminotransferase [EC:2.6.1.1]#Metabolism_Biosynthesis of other secondary metabolites_00960 Tropane, piperidine and pyridine alkaloid biosynthesis [PATH:ko00960]_aspB; aspartate aminotransferase [EC:2.6.1.1]#Metabolism_Overview_01210 2-Oxocarboxylic acid metabolism [PATH:ko01210]_aspB; aspartate aminotransferase [EC:2.6.1.1]#Metabolism_Overview_01230 Biosynthesis of amino acids [PATH:ko01230]_aspB; aspartate aminotransferase [EC:2.6.1.1]
+
+K01703	Metabolism_Amino acid metabolism_00290 Valine, leucine and isoleucine biosynthesis [PATH:ko00290]_leuC; 3-isopropylmalate/(R)-2-methylmalate dehydratase large subunit [EC:4.2.1.33 4.2.1.35]#Metabolism_Carbohydrate metabolism_00660 C5-Branched dibasic acid metabolism [PATH:ko00660]_leuC; 3-isopropylmalate/(R)-2-methylmalate dehydratase large subunit [EC:4.2.1.33 4.2.1.35]#Metabolism_Overview_01210 2-Oxocarboxylic acid metabolism [PATH:ko01210]_leuC; 3-isopropylmalate/(R)-2-methylmalate dehydratase large subunit [EC:4.2.1.33 4.2.1.35]#Metabolism_Overview_01230 Biosynthesis of amino acids [PATH:ko01230]_leuC; 3-isopropylmalate/(R)-2-methylmalate dehydratase large subunit [EC:4.2.1.33 4.2.1.35]
+
+K01754	Metabolism_Amino acid metabolism_00260 Glycine, serine and threonine metabolism [PATH:ko00260]_E4.3.1.19, ilvA, tdcB; threonine dehydratase [EC:4.3.1.19]#Metabolism_Amino acid metabolism_00290 Valine, leucine and isoleucine biosynthesis [PATH:ko00290]_E4.3.1.19, ilvA, tdcB; threonine dehydratase [EC:4.3.1.19]#Metabolism_Overview_01200 Carbon metabolism [PATH:ko01200]_E4.3.1.19, ilvA, tdcB; threonine dehydratase [EC:4.3.1.19]#Metabolism_Overview_01230 Biosynthesis of amino acids [PATH:ko01230]_E4.3.1.19, ilvA, tdcB; threonine dehydratase [EC:4.3.1.19]
+
+K01839	Metabolism_Carbohydrate metabolism_00030 Pentose phosphate pathway [PATH:ko00030]_deoB; phosphopentomutase [EC:5.4.2.7]#Metabolism_Nucleotide metabolism_00230 Purine metabolism [PATH:ko00230]_deoB; phosphopentomutase [EC:5.4.2.7]
+
+K01679	Human Diseases_Cancers_05200 Pathways in cancer [PATH:ko05200]_E4.2.1.2B, fumC; fumarate hydratase, class II [EC:4.2.1.2]#Human Diseases_Cancers_05211 Renal cell carcinoma [PATH:ko05211]_E4.2.1.2B, fumC; fumarate hydratase, class II [EC:4.2.1.2]#Metabolism_Carbohydrate metabolism_00020 Citrate cycle (TCA cycle) [PATH:ko00020]_E4.2.1.2B, fumC; fumarate hydratase, class II [EC:4.2.1.2]#Metabolism_Carbohydrate metabolism_00620 Pyruvate metabolism [PATH:ko00620]_E4.2.1.2B, fumC; fumarate hydratase, class II [EC:4.2.1.2]#Metabolism_Energy metabolism_00720 Carbon fixation pathways in prokaryotes [PATH:ko00720]_E4.2.1.2B, fumC; fumarate hydratase, class II [EC:4.2.1.2]#Metabolism_Overview_01200 Carbon metabolism [PATH:ko01200]_E4.2.1.2B, fumC; fumarate hydratase, class II [EC:4.2.1.2]
+
+K01647	Metabolism_Carbohydrate metabolism_00020 Citrate cycle (TCA cycle) [PATH:ko00020]_CS, gltA; citrate synthase [EC:2.3.3.1]#Metabolism_Carbohydrate metabolism_00630 Glyoxylate and dicarboxylate metabolism [PATH:ko00630]_CS, gltA; citrate synthase [EC:2.3.3.1]#Metabolism_Overview_01200 Carbon metabolism [PATH:ko01200]_CS, gltA; citrate synthase [EC:2.3.3.1]#Metabolism_Overview_01210 2-Oxocarboxylic acid metabolism [PATH:ko01210]_CS, gltA; citrate synthase [EC:2.3.3.1]#Metabolism_Overview_01230 Biosynthesis of amino acids [PATH:ko01230]_CS, gltA; citrate synthase [EC:2.3.3.1]
+
+K01736	Metabolism_Amino acid metabolism_00400 Phenylalanine, tyrosine and tryptophan biosynthesis [PATH:ko00400]_aroC; chorismate synthase [EC:4.2.3.5]#Metabolism_Overview_01230 Biosynthesis of amino acids [PATH:ko01230]_aroC; chorismate synthase [EC:4.2.3.5]
+
+K00100	Metabolism_Carbohydrate metabolism_00051 Fructose and mannose metabolism [PATH:ko00051]_E1.1.1.-;  [EC:1.1.1.-]#Metabolism_Carbohydrate metabolism_00650 Butanoate metabolism [PATH:ko00650]_E1.1.1.-;  [EC:1.1.1.-]#Metabolism_Lipid metabolism_00591 Linoleic acid metabolism [PATH:ko00591]_E1.1.1.-;  [EC:1.1.1.-]#Metabolism_Xenobiotics biodegradation and metabolism_00363 Bisphenol degradation [PATH:ko00363]_E1.1.1.-;  [EC:1.1.1.-]#Metabolism_Xenobiotics biodegradation and metabolism_00625 Chloroalkane and chloroalkene degradation [PATH:ko00625]_E1.1.1.-;  [EC:1.1.1.-]
+
+K02412	Cellular Processes_Cell motility_02040 Flagellar assembly [PATH:ko02040]_fliI; flagellum-specific ATP synthase [EC:3.6.3.14]
+
+K14652	Metabolism_Metabolism of cofactors and vitamins_00740 Riboflavin metabolism [PATH:ko00740]_ribBA; 3,4-dihydroxy 2-butanone 4-phosphate synthase / GTP cyclohydrolase II [EC:4.1.99.12 3.5.4.25]
+
+K01892	Genetic Information Processing_Translation_00970 Aminoacyl-tRNA biosynthesis [PATH:ko00970]_HARS, hisS; histidyl-tRNA synthetase [EC:6.1.1.21]
+
+K01866	Genetic Information Processing_Translation_00970 Aminoacyl-tRNA biosynthesis [PATH:ko00970]_YARS, tyrS; tyrosyl-tRNA synthetase [EC:6.1.1.1]
+
+K00167	Metabolism_Amino acid metabolism_00280 Valine, leucine and isoleucine degradation [PATH:ko00280]_BCKDHB, bkdA2; 2-oxoisovalerate dehydrogenase E1 component beta subunit [EC:1.2.4.4]
+
+K01465	Metabolism_Nucleotide metabolism_00240 Pyrimidine metabolism [PATH:ko00240]_URA4, pyrC; dihydroorotase [EC:3.5.2.3]
+
+K01696	Metabolism_Amino acid metabolism_00260 Glycine, serine and threonine metabolism [PATH:ko00260]_trpB; tryptophan synthase beta chain [EC:4.2.1.20]#Metabolism_Amino acid metabolism_00400 Phenylalanine, tyrosine and tryptophan biosynthesis [PATH:ko00400]_trpB; tryptophan synthase beta chain [EC:4.2.1.20]#Metabolism_Overview_01230 Biosynthesis of amino acids [PATH:ko01230]_trpB; tryptophan synthase beta chain [EC:4.2.1.20]
+
+K01179	Metabolism_Carbohydrate metabolism_00500 Starch and sucrose metabolism [PATH:ko00500]_E3.2.1.4; endoglucanase [EC:3.2.1.4]
+
+K00566	Genetic Information Processing_Folding, sorting and degradation_04122 Sulfur relay system [PATH:ko04122]_mnmA, trmU, TRMU; tRNA-specific 2-thiouridylase [EC:2.8.1.-]
+
+K00259	Metabolism_Amino acid metabolism_00250 Alanine, aspartate and glutamate metabolism [PATH:ko00250]_ald; alanine dehydrogenase [EC:1.4.1.1]#Metabolism_Metabolism of other amino acids_00430 Taurine and hypotaurine metabolism [PATH:ko00430]_ald; alanine dehydrogenase [EC:1.4.1.1]
+
+K00756	Metabolism_Nucleotide metabolism_00240 Pyrimidine metabolism [PATH:ko00240]_E2.4.2.2, pdp; pyrimidine-nucleoside phosphorylase [EC:2.4.2.2]
+
+K00231	Metabolism_Metabolism of cofactors and vitamins_00860 Porphyrin and chlorophyll metabolism [PATH:ko00860]_PPOX, hemY; oxygen-dependent protoporphyrinogen oxidase [EC:1.3.3.4]
+
+K01760	Metabolism_Amino acid metabolism_00270 Cysteine and methionine metabolism [PATH:ko00270]_metC; cystathionine beta-lyase [EC:4.4.1.8]#Metabolism_Metabolism of other amino acids_00450 Selenocompound metabolism [PATH:ko00450]_metC; cystathionine beta-lyase [EC:4.4.1.8]#Metabolism_Overview_01230 Biosynthesis of amino acids [PATH:ko01230]_metC; cystathionine beta-lyase [EC:4.4.1.8]
+
+K03885	Metabolism_Energy metabolism_00190 Oxidative phosphorylation [PATH:ko00190]_ndh; NADH dehydrogenase [EC:1.6.99.3]
+
+K02492	Metabolism_Metabolism of cofactors and vitamins_00860 Porphyrin and chlorophyll metabolism [PATH:ko00860]_hemA; glutamyl-tRNA reductase [EC:1.2.1.70]
+
+K01928	Metabolism_Amino acid metabolism_00300 Lysine biosynthesis [PATH:ko00300]_murE; UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase [EC:6.3.2.13]#Metabolism_Glycan biosynthesis and metabolism_00550 Peptidoglycan biosynthesis [PATH:ko00550]_murE; UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase [EC:6.3.2.13]
+
+K13853	Metabolism_Amino acid metabolism_00400 Phenylalanine, tyrosine and tryptophan biosynthesis [PATH:ko00400]_aroG, aroA; 3-deoxy-7-phosphoheptulonate synthase / chorismate mutase [EC:2.5.1.54 5.4.99.5]#Metabolism_Overview_01230 Biosynthesis of amino acids [PATH:ko01230]_aroG, aroA; 3-deoxy-7-phosphoheptulonate synthase / chorismate mutase [EC:2.5.1.54 5.4.99.5]
+
+K00162	Environmental Information Processing_Signal transduction_04066 HIF-1 signaling pathway [PATH:ko04066]_PDHB, pdhB; pyruvate dehydrogenase E1 component beta subunit [EC:1.2.4.1]#Human Diseases_Cancers_05230 Central carbon metabolism in cancer [PATH:ko05230]_PDHB, pdhB; pyruvate dehydrogenase E1 component beta subunit [EC:1.2.4.1]#Metabolism_Carbohydrate metabolism_00010 Glycolysis / Gluconeogenesis [PATH:ko00010]_PDHB, pdhB; pyruvate dehydrogenase E1 component beta subunit [EC:1.2.4.1]#Metabolism_Carbohydrate metabolism_00020 Citrate cycle (TCA cycle) [PATH:ko00020]_PDHB, pdhB; pyruvate dehydrogenase E1 component beta subunit [EC:1.2.4.1]#Metabolism_Carbohydrate metabolism_00620 Pyruvate metabolism [PATH:ko00620]_PDHB, pdhB; pyruvate dehydrogenase E1 component beta subunit [EC:1.2.4.1]#Metabolism_Overview_01200 Carbon metabolism [PATH:ko01200]_PDHB, pdhB; pyruvate dehydrogenase E1 component beta subunit [EC:1.2.4.1]#Organismal Systems_Endocrine system_04922 Glucagon signaling pathway [PATH:ko04922]_PDHB, pdhB; pyruvate dehydrogenase E1 component beta subunit [EC:1.2.4.1]
+
+K10112	Environmental Information Processing_Membrane transport_02010 ABC transporters [PATH:ko02010]_msmX, msmK, malK, sugC, ggtA, msiK; multiple sugar transport system ATP-binding protein
+
+K09699	Metabolism_Amino acid metabolism_00280 Valine, leucine and isoleucine degradation [PATH:ko00280]_DBT, bkdB; 2-oxoisovalerate dehydrogenase E2 component (dihydrolipoyl transacylase) [EC:2.3.1.168]
+
+K03040	Genetic Information Processing_Transcription_03020 RNA polymerase [PATH:ko03020]_rpoA; DNA-directed RNA polymerase subunit alpha [EC:2.7.7.6]#Metabolism_Nucleotide metabolism_00230 Purine metabolism [PATH:ko00230]_rpoA; DNA-directed RNA polymerase subunit alpha [EC:2.7.7.6]#Metabolism_Nucleotide metabolism_00240 Pyrimidine metabolism [PATH:ko00240]_rpoA; DNA-directed RNA polymerase subunit alpha [EC:2.7.7.6]
+
+K00850	Environmental Information Processing_Signal transduction_04152 AMPK signaling pathway [PATH:ko04152]_pfkA, PFK; 6-phosphofructokinase 1 [EC:2.7.1.11]#Genetic Information Processing_Folding, sorting and degradation_03018 RNA degradation [PATH:ko03018]_pfkA, PFK; 6-phosphofructokinase 1 [EC:2.7.1.11]#Human Diseases_Cancers_05230 Central carbon metabolism in cancer [PATH:ko05230]_pfkA, PFK; 6-phosphofructokinase 1 [EC:2.7.1.11]#Metabolism_Carbohydrate metabolism_00010 Glycolysis / Gluconeogenesis [PATH:ko00010]_pfkA, PFK; 6-phosphofructokinase 1 [EC:2.7.1.11]#Metabolism_Carbohydrate metabolism_00030 Pentose phosphate pathway [PATH:ko00030]_pfkA, PFK; 6-phosphofructokinase 1 [EC:2.7.1.11]#Metabolism_Carbohydrate metabolism_00051 Fructose and mannose metabolism [PATH:ko00051]_pfkA, PFK; 6-phosphofructokinase 1 [EC:2.7.1.11]#Metabolism_Carbohydrate metabolism_00052 Galactose metabolism [PATH:ko00052]_pfkA, PFK; 6-phosphofructokinase 1 [EC:2.7.1.11]#Metabolism_Energy metabolism_00680 Methane metabolism [PATH:ko00680]_pfkA, PFK; 6-phosphofructokinase 1 [EC:2.7.1.11]#Metabolism_Overview_01200 Carbon metabolism [PATH:ko01200]_pfkA, PFK; 6-phosphofructokinase 1 [EC:2.7.1.11]#Metabolism_Overview_01230 Biosynthesis of amino acids [PATH:ko01230]_pfkA, PFK; 6-phosphofructokinase 1 [EC:2.7.1.11]
+
+K08969	Metabolism_Amino acid metabolism_00270 Cysteine and methionine metabolism [PATH:ko00270]_mtnE, mtnV; aminotransferase [EC:2.6.1.-]
+
+K01956	Metabolism_Amino acid metabolism_00250 Alanine, aspartate and glutamate metabolism [PATH:ko00250]_carA, CPA1; carbamoyl-phosphate synthase small subunit [EC:6.3.5.5]#Metabolism_Nucleotide metabolism_00240 Pyrimidine metabolism [PATH:ko00240]_carA, CPA1; carbamoyl-phosphate synthase small subunit [EC:6.3.5.5]
+
+K02446	Metabolism_Carbohydrate metabolism_00010 Glycolysis / Gluconeogenesis [PATH:ko00010]_glpX; fructose-1,6-bisphosphatase II [EC:3.1.3.11]#Metabolism_Carbohydrate metabolism_00030 Pentose phosphate pathway [PATH:ko00030]_glpX; fructose-1,6-bisphosphatase II [EC:3.1.3.11]#Metabolism_Carbohydrate metabolism_00051 Fructose and mannose metabolism [PATH:ko00051]_glpX; fructose-1,6-bisphosphatase II [EC:3.1.3.11]#Metabolism_Energy metabolism_00680 Methane metabolism [PATH:ko00680]_glpX; fructose-1,6-bisphosphatase II [EC:3.1.3.11]#Metabolism_Energy metabolism_00710 Carbon fixation in photosynthetic organisms [PATH:ko00710]_glpX; fructose-1,6-bisphosphatase II [EC:3.1.3.11]#Metabolism_Overview_01200 Carbon metabolism [PATH:ko01200]_glpX; fructose-1,6-bisphosphatase II [EC:3.1.3.11]
+
+K00013	Metabolism_Amino acid metabolism_00340 Histidine metabolism [PATH:ko00340]_hisD; histidinol dehydrogenase [EC:1.1.1.23]#Metabolism_Overview_01230 Biosynthesis of amino acids [PATH:ko01230]_hisD; histidinol dehydrogenase [EC:1.1.1.23]
+
+K01889	Genetic Information Processing_Translation_00970 Aminoacyl-tRNA biosynthesis [PATH:ko00970]_FARSA, pheS; phenylalanyl-tRNA synthetase alpha chain [EC:6.1.1.20]
+
+K01599	Metabolism_Metabolism of cofactors and vitamins_00860 Porphyrin and chlorophyll metabolism [PATH:ko00860]_hemE, UROD; uroporphyrinogen decarboxylase [EC:4.1.1.37]
+
+K17217	Metabolism_Amino acid metabolism_00260 Glycine, serine and threonine metabolism [PATH:ko00260]_mccB; cystathionine gamma-lyase / homocysteine desulfhydrase [EC:4.4.1.1 4.4.1.2]#Metabolism_Amino acid metabolism_00270 Cysteine and methionine metabolism [PATH:ko00270]_mccB; cystathionine gamma-lyase / homocysteine desulfhydrase [EC:4.4.1.1 4.4.1.2]#Metabolism_Energy metabolism_00920 Sulfur metabolism [PATH:ko00920]_mccB; cystathionine gamma-lyase / homocysteine desulfhydrase [EC:4.4.1.1 4.4.1.2]#Metabolism_Overview_01230 Biosynthesis of amino acids [PATH:ko01230]_mccB; cystathionine gamma-lyase / homocysteine desulfhydrase [EC:4.4.1.1 4.4.1.2]
+
+K00658	Metabolism_Amino acid metabolism_00310 Lysine degradation [PATH:ko00310]_DLST, sucB; 2-oxoglutarate dehydrogenase E2 component (dihydrolipoamide succinyltransferase) [EC:2.3.1.61]#Metabolism_Carbohydrate metabolism_00020 Citrate cycle (TCA cycle) [PATH:ko00020]_DLST, sucB; 2-oxoglutarate dehydrogenase E2 component (dihydrolipoamide succinyltransferase) [EC:2.3.1.61]#Metabolism_Overview_01200 Carbon metabolism [PATH:ko01200]_DLST, sucB; 2-oxoglutarate dehydrogenase E2 component (dihydrolipoamide succinyltransferase) [EC:2.3.1.61]
+
+K01925	Metabolism_Glycan biosynthesis and metabolism_00550 Peptidoglycan biosynthesis [PATH:ko00550]_murD; UDP-N-acetylmuramoylalanine--D-glutamate ligase [EC:6.3.2.9]#Metabolism_Metabolism of other amino acids_00471 D-Glutamine and D-glutamate metabolism [PATH:ko00471]_murD; UDP-N-acetylmuramoylalanine--D-glutamate ligase [EC:6.3.2.9]
+
+K01739	Metabolism_Amino acid metabolism_00270 Cysteine and methionine metabolism [PATH:ko00270]_metB; cystathionine gamma-synthase [EC:2.5.1.48]#Metabolism_Energy metabolism_00920 Sulfur metabolism [PATH:ko00920]_metB; cystathionine gamma-synthase [EC:2.5.1.48]#Metabolism_Metabolism of other amino acids_00450 Selenocompound metabolism [PATH:ko00450]_metB; cystathionine gamma-synthase [EC:2.5.1.48]#Metabolism_Overview_01230 Biosynthesis of amino acids [PATH:ko01230]_metB; cystathionine gamma-synthase [EC:2.5.1.48]
+
+K00800	Metabolism_Amino acid metabolism_00400 Phenylalanine, tyrosine and tryptophan biosynthesis [PATH:ko00400]_aroA; 3-phosphoshikimate 1-carboxyvinyltransferase [EC:2.5.1.19]#Metabolism_Overview_01230 Biosynthesis of amino acids [PATH:ko01230]_aroA; 3-phosphoshikimate 1-carboxyvinyltransferase [EC:2.5.1.19]
+
+K02409	Cellular Processes_Cell motility_02040 Flagellar assembly [PATH:ko02040]_fliF; flagellar M-ring protein FliF
+
+K00928	Metabolism_Amino acid metabolism_00260 Glycine, serine and threonine metabolism [PATH:ko00260]_lysC; aspartate kinase [EC:2.7.2.4]#Metabolism_Amino acid metabolism_00270 Cysteine and methionine metabolism [PATH:ko00270]_lysC; aspartate kinase [EC:2.7.2.4]#Metabolism_Amino acid metabolism_00300 Lysine biosynthesis [PATH:ko00300]_lysC; aspartate kinase [EC:2.7.2.4]#Metabolism_Biosynthesis of other secondary metabolites_00261 Monobactam biosynthesis [PATH:ko00261]_lysC; aspartate kinase [EC:2.7.2.4]#Metabolism_Overview_01210 2-Oxocarboxylic acid metabolism [PATH:ko01210]_lysC; aspartate kinase [EC:2.7.2.4]#Metabolism_Overview_01230 Biosynthesis of amino acids [PATH:ko01230]_lysC; aspartate kinase [EC:2.7.2.4]
+
+K00865	Metabolism_Amino acid metabolism_00260 Glycine, serine and threonine metabolism [PATH:ko00260]_glxK; glycerate kinase [EC:2.7.1.31]#Metabolism_Carbohydrate metabolism_00630 Glyoxylate and dicarboxylate metabolism [PATH:ko00630]_glxK; glycerate kinase [EC:2.7.1.31]#Metabolism_Lipid metabolism_00561 Glycerolipid metabolism [PATH:ko00561]_glxK; glycerate kinase [EC:2.7.1.31]
+
+K01902	Metabolism_Carbohydrate metabolism_00020 Citrate cycle (TCA cycle) [PATH:ko00020]_sucD; succinyl-CoA synthetase alpha subunit [EC:6.2.1.5]#Metabolism_Carbohydrate metabolism_00640 Propanoate metabolism [PATH:ko00640]_sucD; succinyl-CoA synthetase alpha subunit [EC:6.2.1.5]#Metabolism_Carbohydrate metabolism_00660 C5-Branched dibasic acid metabolism [PATH:ko00660]_sucD; succinyl-CoA synthetase alpha subunit [EC:6.2.1.5]#Metabolism_Energy metabolism_00720 Carbon fixation pathways in prokaryotes [PATH:ko00720]_sucD; succinyl-CoA synthetase alpha subunit [EC:6.2.1.5]#Metabolism_Overview_01200 Carbon metabolism [PATH:ko01200]_sucD; succinyl-CoA synthetase alpha subunit [EC:6.2.1.5]
+
+K03644	Metabolism_Metabolism of cofactors and vitamins_00785 Lipoic acid metabolism [PATH:ko00785]_lipA; lipoic acid synthetase [EC:2.8.1.8]
+
+K00965	Metabolism_Carbohydrate metabolism_00052 Galactose metabolism [PATH:ko00052]_galT, GALT; UDPglucose--hexose-1-phosphate uridylyltransferase [EC:2.7.7.12]#Metabolism_Carbohydrate metabolism_00520 Amino sugar and nucleotide sugar metabolism [PATH:ko00520]_galT, GALT; UDPglucose--hexose-1-phosphate uridylyltransferase [EC:2.7.7.12]#Organismal Systems_Endocrine system_04917 Prolactin signaling pathway [PATH:ko04917]_galT, GALT; UDPglucose--hexose-1-phosphate uridylyltransferase [EC:2.7.7.12]
+
+K00958	Metabolism_Biosynthesis of other secondary metabolites_00261 Monobactam biosynthesis [PATH:ko00261]_sat, met3; sulfate adenylyltransferase [EC:2.7.7.4]#Metabolism_Energy metabolism_00920 Sulfur metabolism [PATH:ko00920]_sat, met3; sulfate adenylyltransferase [EC:2.7.7.4]#Metabolism_Metabolism of other amino acids_00450 Selenocompound metabolism [PATH:ko00450]_sat, met3; sulfate adenylyltransferase [EC:2.7.7.4]#Metabolism_Nucleotide metabolism_00230 Purine metabolism [PATH:ko00230]_sat, met3; sulfate adenylyltransferase [EC:2.7.7.4]
+
+K01439	Metabolism_Amino acid metabolism_00300 Lysine biosynthesis [PATH:ko00300]_dapE; succinyl-diaminopimelate desuccinylase [EC:3.5.1.18]#Metabolism_Overview_01230 Biosynthesis of amino acids [PATH:ko01230]_dapE; succinyl-diaminopimelate desuccinylase [EC:3.5.1.18]
+
+K01733	Metabolism_Amino acid metabolism_00260 Glycine, serine and threonine metabolism [PATH:ko00260]_thrC; threonine synthase [EC:4.2.3.1]#Metabolism_Metabolism of cofactors and vitamins_00750 Vitamin B6 metabolism [PATH:ko00750]_thrC; threonine synthase [EC:4.2.3.1]#Metabolism_Overview_01230 Biosynthesis of amino acids [PATH:ko01230]_thrC; threonine synthase [EC:4.2.3.1]
+
+K00384	Metabolism_Metabolism of other amino acids_00450 Selenocompound metabolism [PATH:ko00450]_trxB; thioredoxin reductase (NADPH) [EC:1.8.1.9]#Metabolism_Nucleotide metabolism_00240 Pyrimidine metabolism [PATH:ko00240]_trxB; thioredoxin reductase (NADPH) [EC:1.8.1.9]
+
+K00116	Metabolism_Carbohydrate metabolism_00020 Citrate cycle (TCA cycle) [PATH:ko00020]_mqo; malate dehydrogenase (quinone) [EC:1.1.5.4]#Metabolism_Carbohydrate metabolism_00620 Pyruvate metabolism [PATH:ko00620]_mqo; malate dehydrogenase (quinone) [EC:1.1.5.4]#Metabolism_Overview_01200 Carbon metabolism [PATH:ko01200]_mqo; malate dehydrogenase (quinone) [EC:1.1.5.4]
+
+K00024	Metabolism_Amino acid metabolism_00270 Cysteine and methionine metabolism [PATH:ko00270]_mdh; malate dehydrogenase [EC:1.1.1.37]#Metabolism_Carbohydrate metabolism_00020 Citrate cycle (TCA cycle) [PATH:ko00020]_mdh; malate dehydrogenase [EC:1.1.1.37]#Metabolism_Carbohydrate metabolism_00620 Pyruvate metabolism [PATH:ko00620]_mdh; malate dehydrogenase [EC:1.1.1.37]#Metabolism_Carbohydrate metabolism_00630 Glyoxylate and dicarboxylate metabolism [PATH:ko00630]_mdh; malate dehydrogenase [EC:1.1.1.37]#Metabolism_Energy metabolism_00680 Methane metabolism [PATH:ko00680]_mdh; malate dehydrogenase [EC:1.1.1.37]#Metabolism_Energy metabolism_00710 Carbon fixation in photosynthetic organisms [PATH:ko00710]_mdh; malate dehydrogenase [EC:1.1.1.37]#Metabolism_Energy metabolism_00720 Carbon fixation pathways in prokaryotes [PATH:ko00720]_mdh; malate dehydrogenase [EC:1.1.1.37]#Metabolism_Overview_01200 Carbon metabolism [PATH:ko01200]_mdh; malate dehydrogenase [EC:1.1.1.37]
+
+K01753	Metabolism_Amino acid metabolism_00260 Glycine, serine and threonine metabolism [PATH:ko00260]_dsdA; D-serine dehydratase [EC:4.3.1.18]
+
+K00134	Environmental Information Processing_Signal transduction_04066 HIF-1 signaling pathway [PATH:ko04066]_GAPDH, gapA; glyceraldehyde 3-phosphate dehydrogenase [EC:1.2.1.12]#Human Diseases_Neurodegenerative diseases_05010 Alzheimer's disease [PATH:ko05010]_GAPDH, gapA; glyceraldehyde 3-phosphate dehydrogenase [EC:1.2.1.12]#Metabolism_Carbohydrate metabolism_00010 Glycolysis / Gluconeogenesis [PATH:ko00010]_GAPDH, gapA; glyceraldehyde 3-phosphate dehydrogenase [EC:1.2.1.12]#Metabolism_Energy metabolism_00710 Carbon fixation in photosynthetic organisms [PATH:ko00710]_GAPDH, gapA; glyceraldehyde 3-phosphate dehydrogenase [EC:1.2.1.12]#Metabolism_Overview_01200 Carbon metabolism [PATH:ko01200]_GAPDH, gapA; glyceraldehyde 3-phosphate dehydrogenase [EC:1.2.1.12]#Metabolism_Overview_01230 Biosynthesis of amino acids [PATH:ko01230]_GAPDH, gapA; glyceraldehyde 3-phosphate dehydrogenase [EC:1.2.1.12]
+
+K01915	Environmental Information Processing_Signal transduction_02020 Two-component system [PATH:ko02020]_glnA, GLUL; glutamine synthetase [EC:6.3.1.2]#Metabolism_Amino acid metabolism_00250 Alanine, aspartate and glutamate metabolism [PATH:ko00250]_glnA, GLUL; glutamine synthetase [EC:6.3.1.2]#Metabolism_Amino acid metabolism_00330 Arginine and proline metabolism [PATH:ko00330]_glnA, GLUL; glutamine synthetase [EC:6.3.1.2]#Metabolism_Carbohydrate metabolism_00630 Glyoxylate and dicarboxylate metabolism [PATH:ko00630]_glnA, GLUL; glutamine synthetase [EC:6.3.1.2]#Metabolism_Energy metabolism_00910 Nitrogen metabolism [PATH:ko00910]_glnA, GLUL; glutamine synthetase [EC:6.3.1.2]#Metabolism_Overview_01230 Biosynthesis of amino acids [PATH:ko01230]_glnA, GLUL; glutamine synthetase [EC:6.3.1.2]#Organismal Systems_Nervous system_04724 Glutamatergic synapse [PATH:ko04724]_glnA, GLUL; glutamine synthetase [EC:6.3.1.2]#Organismal Systems_Nervous system_04727 GABAergic synapse [PATH:ko04727]_glnA, GLUL; glutamine synthetase [EC:6.3.1.2]
+
+K01907	Metabolism_Amino acid metabolism_00280 Valine, leucine and isoleucine degradation [PATH:ko00280]_AACS, acsA; acetoacetyl-CoA synthetase [EC:6.2.1.16]#Metabolism_Carbohydrate metabolism_00650 Butanoate metabolism [PATH:ko00650]_AACS, acsA; acetoacetyl-CoA synthetase [EC:6.2.1.16]
+
+K00929	Metabolism_Carbohydrate metabolism_00650 Butanoate metabolism [PATH:ko00650]_E2.7.2.7, buk; butyrate kinase [EC:2.7.2.7]
+
+K05823	Metabolism_Amino acid metabolism_00300 Lysine biosynthesis [PATH:ko00300]_E3.5.1.47; N-acetyldiaminopimelate deacetylase [EC:3.5.1.47]#Metabolism_Overview_01230 Biosynthesis of amino acids [PATH:ko01230]_E3.5.1.47; N-acetyldiaminopimelate deacetylase [EC:3.5.1.47]
+
+K00166	Metabolism_Amino acid metabolism_00280 Valine, leucine and isoleucine degradation [PATH:ko00280]_BCKDHA, bkdA1; 2-oxoisovalerate dehydrogenase E1 component alpha subunit [EC:1.2.4.4]
+
+K00133	Metabolism_Amino acid metabolism_00260 Glycine, serine and threonine metabolism [PATH:ko00260]_asd; aspartate-semialdehyde dehydrogenase [EC:1.2.1.11]#Metabolism_Amino acid metabolism_00270 Cysteine and methionine metabolism [PATH:ko00270]_asd; aspartate-semialdehyde dehydrogenase [EC:1.2.1.11]#Metabolism_Amino acid metabolism_00300 Lysine biosynthesis [PATH:ko00300]_asd; aspartate-semialdehyde dehydrogenase [EC:1.2.1.11]#Metabolism_Biosynthesis of other secondary metabolites_00261 Monobactam biosynthesis [PATH:ko00261]_asd; aspartate-semialdehyde dehydrogenase [EC:1.2.1.11]#Metabolism_Overview_01210 2-Oxocarboxylic acid metabolism [PATH:ko01210]_asd; aspartate-semialdehyde dehydrogenase [EC:1.2.1.11]#Metabolism_Overview_01230 Biosynthesis of amino acids [PATH:ko01230]_asd; aspartate-semialdehyde dehydrogenase [EC:1.2.1.11]
+
+K02338	Genetic Information Processing_Replication and repair_03030 DNA replication [PATH:ko03030]_DPO3B, dnaN; DNA polymerase III subunit beta [EC:2.7.7.7]#Genetic Information Processing_Replication and repair_03430 Mismatch repair [PATH:ko03430]_DPO3B, dnaN; DNA polymerase III subunit beta [EC:2.7.7.7]#Genetic Information Processing_Replication and repair_03440 Homologous recombination [PATH:ko03440]_DPO3B, dnaN; DNA polymerase III subunit beta [EC:2.7.7.7]#Metabolism_Nucleotide metabolism_00230 Purine metabolism [PATH:ko00230]_DPO3B, dnaN; DNA polymerase III subunit beta [EC:2.7.7.7]#Metabolism_Nucleotide metabolism_00240 Pyrimidine metabolism [PATH:ko00240]_DPO3B, dnaN; DNA polymerase III subunit beta [EC:2.7.7.7]
+
+K01012	Metabolism_Metabolism of cofactors and vitamins_00780 Biotin metabolism [PATH:ko00780]_bioB; biotin synthase [EC:2.8.1.6]
+
+K01000	Human Diseases_Drug resistance_01502 Vancomycin resistance [PATH:ko01502]_mraY; phospho-N-acetylmuramoyl-pentapeptide-transferase [EC:2.7.8.13]#Metabolism_Glycan biosynthesis and metabolism_00550 Peptidoglycan biosynthesis [PATH:ko00550]_mraY; phospho-N-acetylmuramoyl-pentapeptide-transferase [EC:2.7.8.13]
+
+K01867	Genetic Information Processing_Translation_00970 Aminoacyl-tRNA biosynthesis [PATH:ko00970]_WARS, trpS; tryptophanyl-tRNA synthetase [EC:6.1.1.2]
+
+K03601	Genetic Information Processing_Replication and repair_03430 Mismatch repair [PATH:ko03430]_xseA; exodeoxyribonuclease VII large subunit [EC:3.1.11.6]
+
+K01911	Metabolism_Metabolism of cofactors and vitamins_00130 Ubiquinone and other terpenoid-quinone biosynthesis [PATH:ko00130]_menE; O-succinylbenzoic acid--CoA ligase [EC:6.2.1.26]
+
+K00053	Metabolism_Amino acid metabolism_00290 Valine, leucine and isoleucine biosynthesis [PATH:ko00290]_ilvC; ketol-acid reductoisomerase [EC:1.1.1.86]#Metabolism_Metabolism of cofactors and vitamins_00770 Pantothenate and CoA biosynthesis [PATH:ko00770]_ilvC; ketol-acid reductoisomerase [EC:1.1.1.86]#Metabolism_Overview_01210 2-Oxocarboxylic acid metabolism [PATH:ko01210]_ilvC; ketol-acid reductoisomerase [EC:1.1.1.86]#Metabolism_Overview_01230 Biosynthesis of amino acids [PATH:ko01230]_ilvC; ketol-acid reductoisomerase [EC:1.1.1.86]
+
+K01738	Metabolism_Amino acid metabolism_00270 Cysteine and methionine metabolism [PATH:ko00270]_cysK; cysteine synthase A [EC:2.5.1.47]#Metabolism_Energy metabolism_00920 Sulfur metabolism [PATH:ko00920]_cysK; cysteine synthase A [EC:2.5.1.47]#Metabolism_Overview_01200 Carbon metabolism [PATH:ko01200]_cysK; cysteine synthase A [EC:2.5.1.47]#Metabolism_Overview_01230 Biosynthesis of amino acids [PATH:ko01230]_cysK; cysteine synthase A [EC:2.5.1.47]
+
+K00099	Metabolism_Metabolism of terpenoids and polyketides_00900 Terpenoid backbone biosynthesis [PATH:ko00900]_dxr; 1-deoxy-D-xylulose-5-phosphate reductoisomerase [EC:1.1.1.267]
+
+K07636	Environmental Information Processing_Signal transduction_02020 Two-component system [PATH:ko02020]_phoR; two-component system, OmpR family, phosphate regulon sensor histidine kinase PhoR [EC:2.7.13.3]
+
+K11103	Environmental Information Processing_Signal transduction_02020 Two-component system [PATH:ko02020]_dctA; aerobic C4-dicarboxylate transport protein
+
+K02410	Cellular Processes_Cell motility_02030 Bacterial chemotaxis [PATH:ko02030]_fliG; flagellar motor switch protein FliG#Cellular Processes_Cell motility_02040 Flagellar assembly [PATH:ko02040]_fliG; flagellar motor switch protein FliG
+
+K01665	Metabolism_Metabolism of cofactors and vitamins_00790 Folate biosynthesis [PATH:ko00790]_pabB; para-aminobenzoate synthetase component I [EC:2.6.1.85]
+
+K02886	Genetic Information Processing_Translation_03010 Ribosome [PATH:ko03010]_RP-L2, MRPL2, rplB; large subunit ribosomal protein L2
+
+K00948	Metabolism_Carbohydrate metabolism_00030 Pentose phosphate pathway [PATH:ko00030]_PRPS, prsA; ribose-phosphate pyrophosphokinase [EC:2.7.6.1]#Metabolism_Nucleotide metabolism_00230 Purine metabolism [PATH:ko00230]_PRPS, prsA; ribose-phosphate pyrophosphokinase [EC:2.7.6.1]#Metabolism_Overview_01200 Carbon metabolism [PATH:ko01200]_PRPS, prsA; ribose-phosphate pyrophosphokinase [EC:2.7.6.1]#Metabolism_Overview_01230 Biosynthesis of amino acids [PATH:ko01230]_PRPS, prsA; ribose-phosphate pyrophosphokinase [EC:2.7.6.1]
+
+K00620	Metabolism_Amino acid metabolism_00330 Arginine and proline metabolism [PATH:ko00330]_argJ; glutamate N-acetyltransferase / amino-acid N-acetyltransferase [EC:2.3.1.35 2.3.1.1]#Metabolism_Overview_01210 2-Oxocarboxylic acid metabolism [PATH:ko01210]_argJ; glutamate N-acetyltransferase / amino-acid N-acetyltransferase [EC:2.3.1.35 2.3.1.1]#Metabolism_Overview_01230 Biosynthesis of amino acids [PATH:ko01230]_argJ; glutamate N-acetyltransferase / amino-acid N-acetyltransferase [EC:2.3.1.35 2.3.1.1]
+
+K03629	Genetic Information Processing_Replication and repair_03440 Homologous recombination [PATH:ko03440]_recF; DNA replication and repair protein RecF
+
+K11749	Cellular Processes_Cell growth and death_04112 Cell cycle - Caulobacter [PATH:ko04112]_rseP; regulator of sigma E protease [EC:3.4.24.-]
+
+K03590	Cellular Processes_Cell growth and death_04112 Cell cycle - Caulobacter [PATH:ko04112]_ftsA; cell division protein FtsA
+
+K15583	Environmental Information Processing_Membrane transport_02010 ABC transporters [PATH:ko02010]_oppD; oligopeptide transport system ATP-binding protein#Human Diseases_Drug resistance_01501 beta-Lactam resistance [PATH:ko01501]_oppD; oligopeptide transport system ATP-binding protein
+
+K01480	Metabolism_Amino acid metabolism_00330 Arginine and proline metabolism [PATH:ko00330]_E3.5.3.11, speB; agmatinase [EC:3.5.3.11]
+
+K10823	Environmental Information Processing_Membrane transport_02010 ABC transporters [PATH:ko02010]_oppF; oligopeptide transport system ATP-binding protein#Human Diseases_Drug resistance_01501 beta-Lactam resistance [PATH:ko01501]_oppF; oligopeptide transport system ATP-binding protein
+
+K03110	Environmental Information Processing_Membrane transport_03070 Bacterial secretion system [PATH:ko03070]_ftsY; fused signal recognition particle receptor#Genetic Information Processing_Folding, sorting and degradation_03060 Protein export [PATH:ko03060]_ftsY; fused signal recognition particle receptor
+
+K07258	Metabolism_Glycan biosynthesis and metabolism_00550 Peptidoglycan biosynthesis [PATH:ko00550]_dacC, dacA, dacD; D-alanyl-D-alanine carboxypeptidase (penicillin-binding protein 5/6) [EC:3.4.16.4]
+
+K06215	Metabolism_Metabolism of cofactors and vitamins_00750 Vitamin B6 metabolism [PATH:ko00750]_pdxS, pdx1; pyridoxal 5'-phosphate synthase pdxS subunit [EC:4.3.3.6]
+
+K00384	Metabolism_Metabolism of other amino acids_00450 Selenocompound metabolism [PATH:ko00450]_trxB; thioredoxin reductase (NADPH) [EC:1.8.1.9]#Metabolism_Nucleotide metabolism_00240 Pyrimidine metabolism [PATH:ko00240]_trxB; thioredoxin reductase (NADPH) [EC:1.8.1.9]
+
+K02945	Genetic Information Processing_Translation_03010 Ribosome [PATH:ko03010]_RP-S1, rpsA; small subunit ribosomal protein S1
+
+K01962	Metabolism_Carbohydrate metabolism_00620 Pyruvate metabolism [PATH:ko00620]_accA; acetyl-CoA carboxylase carboxyl transferase subunit alpha [EC:6.4.1.2]#Metabolism_Carbohydrate metabolism_00640 Propanoate metabolism [PATH:ko00640]_accA; acetyl-CoA carboxylase carboxyl transferase subunit alpha [EC:6.4.1.2]#Metabolism_Energy metabolism_00720 Carbon fixation pathways in prokaryotes [PATH:ko00720]_accA; acetyl-CoA carboxylase carboxyl transferase subunit alpha [EC:6.4.1.2]#Metabolism_Lipid metabolism_00061 Fatty acid biosynthesis [PATH:ko00061]_accA; acetyl-CoA carboxylase carboxyl transferase subunit alpha [EC:6.4.1.2]#Metabolism_Metabolism of terpenoids and polyketides_00253 Tetracycline biosynthesis [PATH:ko00253]_accA; acetyl-CoA carboxylase carboxyl transferase subunit alpha [EC:6.4.1.2]#Metabolism_Overview_01200 Carbon metabolism [PATH:ko01200]_accA; acetyl-CoA carboxylase carboxyl transferase subunit alpha [EC:6.4.1.2]#Metabolism_Overview_01212 Fatty acid metabolism [PATH:ko01212]_accA; acetyl-CoA carboxylase carboxyl transferase subunit alpha [EC:6.4.1.2]
+
+K03527	Metabolism_Metabolism of terpenoids and polyketides_00900 Terpenoid backbone biosynthesis [PATH:ko00900]_ispH, lytB; 4-hydroxy-3-methylbut-2-enyl diphosphate reductase [EC:1.17.1.2]
+
+K00285	Metabolism_Amino acid metabolism_00360 Phenylalanine metabolism [PATH:ko00360]_dadA; D-amino-acid dehydrogenase [EC:1.4.99.1]
+
+K00605	Metabolism_Amino acid metabolism_00260 Glycine, serine and threonine metabolism [PATH:ko00260]_gcvT, AMT; aminomethyltransferase [EC:2.1.2.10]#Metabolism_Carbohydrate metabolism_00630 Glyoxylate and dicarboxylate metabolism [PATH:ko00630]_gcvT, AMT; aminomethyltransferase [EC:2.1.2.10]#Metabolism_Metabolism of cofactors and vitamins_00670 One carbon pool by folate [PATH:ko00670]_gcvT, AMT; aminomethyltransferase [EC:2.1.2.10]#Metabolism_Overview_01200 Carbon metabolism [PATH:ko01200]_gcvT, AMT; aminomethyltransferase [EC:2.1.2.10]
+
+K07258	Metabolism_Glycan biosynthesis and metabolism_00550 Peptidoglycan biosynthesis [PATH:ko00550]_dacC, dacA, dacD; D-alanyl-D-alanine carboxypeptidase (penicillin-binding protein 5/6) [EC:3.4.16.4]
+
+K00648	Metabolism_Lipid metabolism_00061 Fatty acid biosynthesis [PATH:ko00061]_fabH; 3-oxoacyl-[acyl-carrier-protein] synthase III [EC:2.3.1.180]#Metabolism_Overview_01212 Fatty acid metabolism [PATH:ko01212]_fabH; 3-oxoacyl-[acyl-carrier-protein] synthase III [EC:2.3.1.180]
+
+K00052	Metabolism_Amino acid metabolism_00290 Valine, leucine and isoleucine biosynthesis [PATH:ko00290]_leuB; 3-isopropylmalate dehydrogenase [EC:1.1.1.85]#Metabolism_Carbohydrate metabolism_00660 C5-Branched dibasic acid metabolism [PATH:ko00660]_leuB; 3-isopropylmalate dehydrogenase [EC:1.1.1.85]#Metabolism_Overview_01210 2-Oxocarboxylic acid metabolism [PATH:ko01210]_leuB; 3-isopropylmalate dehydrogenase [EC:1.1.1.85]#Metabolism_Overview_01230 Biosynthesis of amino acids [PATH:ko01230]_leuB; 3-isopropylmalate dehydrogenase [EC:1.1.1.85]
+
+K02502	Metabolism_Amino acid metabolism_00340 Histidine metabolism [PATH:ko00340]_hisZ; ATP phosphoribosyltransferase regulatory subunit#Metabolism_Overview_01230 Biosynthesis of amino acids [PATH:ko01230]_hisZ; ATP phosphoribosyltransferase regulatory subunit
+
+K01151	Genetic Information Processing_Replication and repair_03410 Base excision repair [PATH:ko03410]_nfo; deoxyribonuclease IV [EC:3.1.21.2]
+
+K02071	Environmental Information Processing_Membrane transport_02010 ABC transporters [PATH:ko02010]_metN; D-methionine transport system ATP-binding protein
+
+K08963	Metabolism_Amino acid metabolism_00270 Cysteine and methionine metabolism [PATH:ko00270]_mtnA; methylthioribose-1-phosphate isomerase [EC:5.3.1.23]
+
+K00899	Metabolism_Amino acid metabolism_00270 Cysteine and methionine metabolism [PATH:ko00270]_mtnK; 5-methylthioribose kinase [EC:2.7.1.100]
+
+K01661	Metabolism_Metabolism of cofactors and vitamins_00130 Ubiquinone and other terpenoid-quinone biosynthesis [PATH:ko00130]_menB; naphthoate synthase [EC:4.1.3.36]
+
+K00147	Metabolism_Amino acid metabolism_00330 Arginine and proline metabolism [PATH:ko00330]_proA; glutamate-5-semialdehyde dehydrogenase [EC:1.2.1.41]#Metabolism_Biosynthesis of other secondary metabolites_00332 Carbapenem biosynthesis [PATH:ko00332]_proA; glutamate-5-semialdehyde dehydrogenase [EC:1.2.1.41]#Metabolism_Overview_01230 Biosynthesis of amino acids [PATH:ko01230]_proA; glutamate-5-semialdehyde dehydrogenase [EC:1.2.1.41]
+
+K04487	Genetic Information Processing_Folding, sorting and degradation_04122 Sulfur relay system [PATH:ko04122]_iscS, NFS1; cysteine desulfurase [EC:2.8.1.7]#Metabolism_Metabolism of cofactors and vitamins_00730 Thiamine metabolism [PATH:ko00730]_iscS, NFS1; cysteine desulfurase [EC:2.8.1.7]
+
+K17828	Metabolism_Nucleotide metabolism_00240 Pyrimidine metabolism [PATH:ko00240]_pyrDI; dihydroorotate dehydrogenase (NAD+) catalytic subunit [EC:1.3.1.14]
+
+K00831	Metabolism_Amino acid metabolism_00260 Glycine, serine and threonine metabolism [PATH:ko00260]_serC, PSAT1; phosphoserine aminotransferase [EC:2.6.1.52]#Metabolism_Energy metabolism_00680 Methane metabolism [PATH:ko00680]_serC, PSAT1; phosphoserine aminotransferase [EC:2.6.1.52]#Metabolism_Metabolism of cofactors and vitamins_00750 Vitamin B6 metabolism [PATH:ko00750]_serC, PSAT1; phosphoserine aminotransferase [EC:2.6.1.52]#Metabolism_Overview_01200 Carbon metabolism [PATH:ko01200]_serC, PSAT1; phosphoserine aminotransferase [EC:2.6.1.52]#Metabolism_Overview_01230 Biosynthesis of amino acids [PATH:ko01230]_serC, PSAT1; phosphoserine aminotransferase [EC:2.6.1.52]
+
+K00963	Metabolism_Carbohydrate metabolism_00040 Pentose and glucuronate interconversions [PATH:ko00040]_UGP2, galU, galF; UTP--glucose-1-phosphate uridylyltransferase [EC:2.7.7.9]#Metabolism_Carbohydrate metabolism_00052 Galactose metabolism [PATH:ko00052]_UGP2, galU, galF; UTP--glucose-1-phosphate uridylyltransferase [EC:2.7.7.9]#Metabolism_Carbohydrate metabolism_00500 Starch and sucrose metabolism [PATH:ko00500]_UGP2, galU, galF; UTP--glucose-1-phosphate uridylyltransferase [EC:2.7.7.9]#Metabolism_Carbohydrate metabolism_00520 Amino sugar and nucleotide sugar metabolism [PATH:ko00520]_UGP2, galU, galF; UTP--glucose-1-phosphate uridylyltransferase [EC:2.7.7.9]
+
+K01921	Human Diseases_Drug resistance_01502 Vancomycin resistance [PATH:ko01502]_ddl; D-alanine-D-alanine ligase [EC:6.3.2.4]#Metabolism_Glycan biosynthesis and metabolism_00550 Peptidoglycan biosynthesis [PATH:ko00550]_ddl; D-alanine-D-alanine ligase [EC:6.3.2.4]#Metabolism_Metabolism of other amino acids_00473 D-Alanine metabolism [PATH:ko00473]_ddl; D-alanine-D-alanine ligase [EC:6.3.2.4]
+
+K03742	Metabolism_Metabolism of cofactors and vitamins_00760 Nicotinate and nicotinamide metabolism [PATH:ko00760]_pncC; nicotinamide-nucleotide amidase [EC:3.5.1.42]
+
+K01698	Metabolism_Metabolism of cofactors and vitamins_00860 Porphyrin and chlorophyll metabolism [PATH:ko00860]_hemB, ALAD; porphobilinogen synthase [EC:4.2.1.24]
+
+K00625	Metabolism_Carbohydrate metabolism_00620 Pyruvate metabolism [PATH:ko00620]_E2.3.1.8, pta; phosphate acetyltransferase [EC:2.3.1.8]#Metabolism_Carbohydrate metabolism_00640 Propanoate metabolism [PATH:ko00640]_E2.3.1.8, pta; phosphate acetyltransferase [EC:2.3.1.8]#Metabolism_Energy metabolism_00680 Methane metabolism [PATH:ko00680]_E2.3.1.8, pta; phosphate acetyltransferase [EC:2.3.1.8]#Metabolism_Energy metabolism_00720 Carbon fixation pathways in prokaryotes [PATH:ko00720]_E2.3.1.8, pta; phosphate acetyltransferase [EC:2.3.1.8]#Metabolism_Metabolism of other amino acids_00430 Taurine and hypotaurine metabolism [PATH:ko00430]_E2.3.1.8, pta; phosphate acetyltransferase [EC:2.3.1.8]#Metabolism_Overview_01200 Carbon metabolism [PATH:ko01200]_E2.3.1.8, pta; phosphate acetyltransferase [EC:2.3.1.8]
+
+K02275	Metabolism_Energy metabolism_00190 Oxidative phosphorylation [PATH:ko00190]_coxB; cytochrome c oxidase subunit II [EC:1.9.3.1]
+
+K00240	Metabolism_Carbohydrate metabolism_00020 Citrate cycle (TCA cycle) [PATH:ko00020]_sdhB, frdB; succinate dehydrogenase / fumarate reductase, iron-sulfur subunit [EC:1.3.5.1 1.3.5.4]#Metabolism_Carbohydrate metabolism_00650 Butanoate metabolism [PATH:ko00650]_sdhB, frdB; succinate dehydrogenase / fumarate reductase, iron-sulfur subunit [EC:1.3.5.1 1.3.5.4]#Metabolism_Energy metabolism_00190 Oxidative phosphorylation [PATH:ko00190]_sdhB, frdB; succinate dehydrogenase / fumarate reductase, iron-sulfur subunit [EC:1.3.5.1 1.3.5.4]#Metabolism_Energy metabolism_00720 Carbon fixation pathways in prokaryotes [PATH:ko00720]_sdhB, frdB; succinate dehydrogenase / fumarate reductase, iron-sulfur subunit [EC:1.3.5.1 1.3.5.4]#Metabolism_Overview_01200 Carbon metabolism [PATH:ko01200]_sdhB, frdB; succinate dehydrogenase / fumarate reductase, iron-sulfur subunit [EC:1.3.5.1 1.3.5.4]
+
+K01772	Metabolism_Metabolism of cofactors and vitamins_00860 Porphyrin and chlorophyll metabolism [PATH:ko00860]_hemH, FECH; ferrochelatase [EC:4.99.1.1]
+
+K01933	Metabolism_Nucleotide metabolism_00230 Purine metabolism [PATH:ko00230]_purM; phosphoribosylformylglycinamidine cyclo-ligase [EC:6.3.3.1]
+
+K03406	Cellular Processes_Cell motility_02030 Bacterial chemotaxis [PATH:ko02030]_mcp; methyl-accepting chemotaxis protein#Environmental Information Processing_Signal transduction_02020 Two-component system [PATH:ko02020]_mcp; methyl-accepting chemotaxis protein
+
+K02495	Metabolism_Metabolism of cofactors and vitamins_00860 Porphyrin and chlorophyll metabolism [PATH:ko00860]_hemN, hemZ; oxygen-independent coproporphyrinogen III oxidase [EC:1.3.99.22]
+
+K07029	Metabolism_Lipid metabolism_00561 Glycerolipid metabolism [PATH:ko00561]_dagK; diacylglycerol kinase (ATP) [EC:2.7.1.107]#Metabolism_Lipid metabolism_00564 Glycerophospholipid metabolism [PATH:ko00564]_dagK; diacylglycerol kinase (ATP) [EC:2.7.1.107]
+
+K11072	Environmental Information Processing_Membrane transport_02010 ABC transporters [PATH:ko02010]_potA; spermidine/putrescine transport system ATP-binding protein [EC:3.6.3.31]
+
+K03621	Metabolism_Lipid metabolism_00561 Glycerolipid metabolism [PATH:ko00561]_plsX; glycerol-3-phosphate acyltransferase PlsX [EC:2.3.1.15]#Metabolism_Lipid metabolism_00564 Glycerophospholipid metabolism [PATH:ko00564]_plsX; glycerol-3-phosphate acyltransferase PlsX [EC:2.3.1.15]
+
+K00849	Metabolism_Carbohydrate metabolism_00052 Galactose metabolism [PATH:ko00052]_galK; galactokinase [EC:2.7.1.6]#Metabolism_Carbohydrate metabolism_00520 Amino sugar and nucleotide sugar metabolism [PATH:ko00520]_galK; galactokinase [EC:2.7.1.6]
+
+K00931	Metabolism_Amino acid metabolism_00330 Arginine and proline metabolism [PATH:ko00330]_proB; glutamate 5-kinase [EC:2.7.2.11]#Metabolism_Biosynthesis of other secondary metabolites_00332 Carbapenem biosynthesis [PATH:ko00332]_proB; glutamate 5-kinase [EC:2.7.2.11]#Metabolism_Overview_01230 Biosynthesis of amino acids [PATH:ko01230]_proB; glutamate 5-kinase [EC:2.7.2.11]
+
+K01775	Human Diseases_Drug resistance_01502 Vancomycin resistance [PATH:ko01502]_alr; alanine racemase [EC:5.1.1.1]#Metabolism_Metabolism of other amino acids_00473 D-Alanine metabolism [PATH:ko00473]_alr; alanine racemase [EC:5.1.1.1]
+
+K01963	Metabolism_Carbohydrate metabolism_00620 Pyruvate metabolism [PATH:ko00620]_accD; acetyl-CoA carboxylase carboxyl transferase subunit beta [EC:6.4.1.2]#Metabolism_Carbohydrate metabolism_00640 Propanoate metabolism [PATH:ko00640]_accD; acetyl-CoA carboxylase carboxyl transferase subunit beta [EC:6.4.1.2]#Metabolism_Energy metabolism_00720 Carbon fixation pathways in prokaryotes [PATH:ko00720]_accD; acetyl-CoA carboxylase carboxyl transferase subunit beta [EC:6.4.1.2]#Metabolism_Lipid metabolism_00061 Fatty acid biosynthesis [PATH:ko00061]_accD; acetyl-CoA carboxylase carboxyl transferase subunit beta [EC:6.4.1.2]#Metabolism_Metabolism of terpenoids and polyketides_00253 Tetracycline biosynthesis [PATH:ko00253]_accD; acetyl-CoA carboxylase carboxyl transferase subunit beta [EC:6.4.1.2]#Metabolism_Overview_01200 Carbon metabolism [PATH:ko01200]_accD; acetyl-CoA carboxylase carboxyl transferase subunit beta [EC:6.4.1.2]#Metabolism_Overview_01212 Fatty acid metabolism [PATH:ko01212]_accD; acetyl-CoA carboxylase carboxyl transferase subunit beta [EC:6.4.1.2]
+
+K00057	Metabolism_Lipid metabolism_00564 Glycerophospholipid metabolism [PATH:ko00564]_gpsA; glycerol-3-phosphate dehydrogenase (NAD(P)+) [EC:1.1.1.94]
+
+K02396	Cellular Processes_Cell motility_02040 Flagellar assembly [PATH:ko02040]_flgK; flagellar hook-associated protein 1 FlgK
+
+K07777	Environmental Information Processing_Signal transduction_02020 Two-component system [PATH:ko02020]_degS; two-component system, NarL family, sensor histidine kinase DegS [EC:2.7.13.3]
+
+K05577	Metabolism_Energy metabolism_00190 Oxidative phosphorylation [PATH:ko00190]_ndhF; NAD(P)H-quinone oxidoreductase subunit 5 [EC:1.6.5.3]
+
+K06131	Metabolism_Lipid metabolism_00564 Glycerophospholipid metabolism [PATH:ko00564]_cls; cardiolipin synthase [EC:2.7.8.-]
+
+K01589	Metabolism_Nucleotide metabolism_00230 Purine metabolism [PATH:ko00230]_purK; 5-(carboxyamino)imidazole ribonucleotide synthase [EC:6.3.4.18]
+
+K00919	Metabolism_Metabolism of terpenoids and polyketides_00900 Terpenoid backbone biosynthesis [PATH:ko00900]_ispE; 4-diphosphocytidyl-2-C-methyl-D-erythritol kinase [EC:2.7.1.148]
+
+K01476	Human Diseases_Infectious diseases_05146 Amoebiasis [PATH:ko05146]_E3.5.3.1, rocF, arg; arginase [EC:3.5.3.1]#Metabolism_Amino acid metabolism_00330 Arginine and proline metabolism [PATH:ko00330]_E3.5.3.1, rocF, arg; arginase [EC:3.5.3.1]#Metabolism_Overview_01230 Biosynthesis of amino acids [PATH:ko01230]_E3.5.3.1, rocF, arg; arginase [EC:3.5.3.1]
+
+K14155	Metabolism_Amino acid metabolism_00270 Cysteine and methionine metabolism [PATH:ko00270]_patB, malY; cystathione beta-lyase [EC:4.4.1.8]#Metabolism_Metabolism of other amino acids_00450 Selenocompound metabolism [PATH:ko00450]_patB, malY; cystathione beta-lyase [EC:4.4.1.8]#Metabolism_Overview_01230 Biosynthesis of amino acids [PATH:ko01230]_patB, malY; cystathione beta-lyase [EC:4.4.1.8]
+
+K02967	Genetic Information Processing_Translation_03010 Ribosome [PATH:ko03010]_RP-S2, MRPS2, rpsB; small subunit ribosomal protein S2
+
+K03654	Genetic Information Processing_Folding, sorting and degradation_03018 RNA degradation [PATH:ko03018]_recQ; ATP-dependent DNA helicase RecQ [EC:3.6.4.12]
+
+K01749	Metabolism_Metabolism of cofactors and vitamins_00860 Porphyrin and chlorophyll metabolism [PATH:ko00860]_hemC, HMBS; hydroxymethylbilane synthase [EC:2.5.1.61]
+
+K00858	Metabolism_Metabolism of cofactors and vitamins_00760 Nicotinate and nicotinamide metabolism [PATH:ko00760]_ppnK, NADK; NAD+ kinase [EC:2.7.1.23]
+
+K00805	Metabolism_Metabolism of terpenoids and polyketides_00900 Terpenoid backbone biosynthesis [PATH:ko00900]_hepST; heptaprenyl diphosphate synthase [EC:2.5.1.30]
+
+K03575	Genetic Information Processing_Replication and repair_03410 Base excision repair [PATH:ko03410]_mutY; A/G-specific adenine glycosylase [EC:3.2.2.-]
+
+K04517	Metabolism_Amino acid metabolism_00400 Phenylalanine, tyrosine and tryptophan biosynthesis [PATH:ko00400]_tyrA2; prephenate dehydrogenase [EC:1.3.1.12]#Metabolism_Biosynthesis of other secondary metabolites_00401 Novobiocin biosynthesis [PATH:ko00401]_tyrA2; prephenate dehydrogenase [EC:1.3.1.12]#Metabolism_Overview_01230 Biosynthesis of amino acids [PATH:ko01230]_tyrA2; prephenate dehydrogenase [EC:1.3.1.12]
+
+K09903	Metabolism_Nucleotide metabolism_00240 Pyrimidine metabolism [PATH:ko00240]_pyrH; uridylate kinase [EC:2.7.4.22]
+
+K01714	Metabolism_Amino acid metabolism_00300 Lysine biosynthesis [PATH:ko00300]_dapA; 4-hydroxy-tetrahydrodipicolinate synthase [EC:4.3.3.7]#Metabolism_Biosynthesis of other secondary metabolites_00261 Monobactam biosynthesis [PATH:ko00261]_dapA; 4-hydroxy-tetrahydrodipicolinate synthase [EC:4.3.3.7]#Metabolism_Overview_01230 Biosynthesis of amino acids [PATH:ko01230]_dapA; 4-hydroxy-tetrahydrodipicolinate synthase [EC:4.3.3.7]
+
+K01778	Metabolism_Amino acid metabolism_00300 Lysine biosynthesis [PATH:ko00300]_dapF; diaminopimelate epimerase [EC:5.1.1.7]#Metabolism_Overview_01230 Biosynthesis of amino acids [PATH:ko01230]_dapF; diaminopimelate epimerase [EC:5.1.1.7]
+
+K01897	Cellular Processes_Transport and catabolism_04146 Peroxisome [PATH:ko04146]_ACSL, fadD; long-chain acyl-CoA synthetase [EC:6.2.1.3]#Metabolism_Lipid metabolism_00061 Fatty acid biosynthesis [PATH:ko00061]_ACSL, fadD; long-chain acyl-CoA synthetase [EC:6.2.1.3]#Metabolism_Lipid metabolism_00071 Fatty acid degradation [PATH:ko00071]_ACSL, fadD; long-chain acyl-CoA synthetase [EC:6.2.1.3]#Metabolism_Overview_01212 Fatty acid metabolism [PATH:ko01212]_ACSL, fadD; long-chain acyl-CoA synthetase [EC:6.2.1.3]#Organismal Systems_Endocrine system_03320 PPAR signaling pathway [PATH:ko03320]_ACSL, fadD; long-chain acyl-CoA synthetase [EC:6.2.1.3]#Organismal Systems_Endocrine system_04920 Adipocytokine signaling pathway [PATH:ko04920]_ACSL, fadD; long-chain acyl-CoA synthetase [EC:6.2.1.3]
+
+K03149	Metabolism_Metabolism of cofactors and vitamins_00730 Thiamine metabolism [PATH:ko00730]_thiG; thiazole synthase [EC:2.8.1.10]
+
+K17216	Metabolism_Amino acid metabolism_00270 Cysteine and methionine metabolism [PATH:ko00270]_mccA; O-acetylserine dependent cystathionine beta-synthase#Metabolism_Overview_01230 Biosynthesis of amino acids [PATH:ko01230]_mccA; O-acetylserine dependent cystathionine beta-synthase
+
+K01809	Metabolism_Carbohydrate metabolism_00051 Fructose and mannose metabolism [PATH:ko00051]_manA, MPI; mannose-6-phosphate isomerase [EC:5.3.1.8]#Metabolism_Carbohydrate metabolism_00520 Amino sugar and nucleotide sugar metabolism [PATH:ko00520]_manA, MPI; mannose-6-phosphate isomerase [EC:5.3.1.8]
+
+K02549	Metabolism_Metabolism of cofactors and vitamins_00130 Ubiquinone and other terpenoid-quinone biosynthesis [PATH:ko00130]_menC; O-succinylbenzoate synthase [EC:4.2.1.113]
+
+K07699	Environmental Information Processing_Signal transduction_02020 Two-component system [PATH:ko02020]_spo0A; two-component system, response regulator, stage 0 sporulation protein A
+
+K03525	Metabolism_Metabolism of cofactors and vitamins_00770 Pantothenate and CoA biosynthesis [PATH:ko00770]_coaX; type III pantothenate kinase [EC:2.7.1.33]
+
+K01956	Metabolism_Amino acid metabolism_00250 Alanine, aspartate and glutamate metabolism [PATH:ko00250]_carA, CPA1; carbamoyl-phosphate synthase small subunit [EC:6.3.5.5]#Metabolism_Nucleotide metabolism_00240 Pyrimidine metabolism [PATH:ko00240]_carA, CPA1; carbamoyl-phosphate synthase small subunit [EC:6.3.5.5]
+
+K03588	Cellular Processes_Cell growth and death_04112 Cell cycle - Caulobacter [PATH:ko04112]_ftsW, spoVE; cell division protein FtsW
+
+K07668	Environmental Information Processing_Signal transduction_02020 Two-component system [PATH:ko02020]_vicR; two-component system, OmpR family, response regulator VicR
+
+K02274	Metabolism_Energy metabolism_00190 Oxidative phosphorylation [PATH:ko00190]_coxA; cytochrome c oxidase subunit I [EC:1.9.3.1]
+
+K05822	Metabolism_Amino acid metabolism_00300 Lysine biosynthesis [PATH:ko00300]_dapH, dapD; tetrahydrodipicolinate N-acetyltransferase [EC:2.3.1.89]#Metabolism_Overview_01230 Biosynthesis of amino acids [PATH:ko01230]_dapH, dapD; tetrahydrodipicolinate N-acetyltransferase [EC:2.3.1.89]
+
+K02115	Metabolism_Energy metabolism_00190 Oxidative phosphorylation [PATH:ko00190]_ATPF1G, atpG; F-type H+-transporting ATPase subunit gamma#Metabolism_Energy metabolism_00195 Photosynthesis [PATH:ko00195]_ATPF1G, atpG; F-type H+-transporting ATPase subunit gamma
+
+K02301	Metabolism_Energy metabolism_00190 Oxidative phosphorylation [PATH:ko00190]_cyoE; protoheme IX farnesyltransferase [EC:2.5.1.-]#Metabolism_Metabolism of cofactors and vitamins_00860 Porphyrin and chlorophyll metabolism [PATH:ko00860]_cyoE; protoheme IX farnesyltransferase [EC:2.5.1.-]
+
+K00784	Genetic Information Processing_Translation_03013 RNA transport [PATH:ko03013]_rnz; ribonuclease Z [EC:3.1.26.11]
+
+K11752	Metabolism_Metabolism of cofactors and vitamins_00740 Riboflavin metabolism [PATH:ko00740]_ribD; diaminohydroxyphosphoribosylaminopyrimidine deaminase / 5-amino-6-(5-phosphoribosylamino)uracil reductase [EC:3.5.4.26 1.1.1.193]
+
+K02500	Metabolism_Amino acid metabolism_00340 Histidine metabolism [PATH:ko00340]_hisF; cyclase [EC:4.1.3.-]#Metabolism_Overview_01230 Biosynthesis of amino acids [PATH:ko01230]_hisF; cyclase [EC:4.1.3.-]
+
+K00208	Metabolism_Lipid metabolism_00061 Fatty acid biosynthesis [PATH:ko00061]_fabI; enoyl-[acyl-carrier protein] reductase I [EC:1.3.1.9 1.3.1.10]#Metabolism_Metabolism of cofactors and vitamins_00780 Biotin metabolism [PATH:ko00780]_fabI; enoyl-[acyl-carrier protein] reductase I [EC:1.3.1.9 1.3.1.10]#Metabolism_Overview_01212 Fatty acid metabolism [PATH:ko01212]_fabI; enoyl-[acyl-carrier protein] reductase I [EC:1.3.1.9 1.3.1.10]
+
+K02863	Genetic Information Processing_Translation_03010 Ribosome [PATH:ko03010]_RP-L1, MRPL1, rplA; large subunit ribosomal protein L1
+
+K02563	Cellular Processes_Cell growth and death_04112 Cell cycle - Caulobacter [PATH:ko04112]_murG; UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase [EC:2.4.1.227]#Human Diseases_Drug resistance_01502 Vancomycin resistance [PATH:ko01502]_murG; UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase [EC:2.4.1.227]#Metabolism_Glycan biosynthesis and metabolism_00550 Peptidoglycan biosynthesis [PATH:ko00550]_murG; UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase [EC:2.4.1.227]
+
+K02982	Genetic Information Processing_Translation_03010 Ribosome [PATH:ko03010]_RP-S3, rpsC; small subunit ribosomal protein S3
+
+K03148	Genetic Information Processing_Folding, sorting and degradation_04122 Sulfur relay system [PATH:ko04122]_thiF; sulfur carrier protein ThiS adenylyltransferase [EC:2.7.7.73]#Metabolism_Metabolism of cofactors and vitamins_00730 Thiamine metabolism [PATH:ko00730]_thiF; sulfur carrier protein ThiS adenylyltransferase [EC:2.7.7.73]
+
+K02401	Cellular Processes_Cell motility_02040 Flagellar assembly [PATH:ko02040]_flhB; flagellar biosynthetic protein FlhB
+
+K02013	Environmental Information Processing_Membrane transport_02010 ABC transporters [PATH:ko02010]_ABC.FEV.A; iron complex transport system ATP-binding protein [EC:3.6.3.34]
+
+K00606	Metabolism_Metabolism of cofactors and vitamins_00770 Pantothenate and CoA biosynthesis [PATH:ko00770]_panB; 3-methyl-2-oxobutanoate hydroxymethyltransferase [EC:2.1.2.11]
+
+K00797	Metabolism_Amino acid metabolism_00270 Cysteine and methionine metabolism [PATH:ko00270]_speE, SRM; spermidine synthase [EC:2.5.1.16]#Metabolism_Amino acid metabolism_00330 Arginine and proline metabolism [PATH:ko00330]_speE, SRM; spermidine synthase [EC:2.5.1.16]#Metabolism_Metabolism of other amino acids_00410 beta-Alanine metabolism [PATH:ko00410]_speE, SRM; spermidine synthase [EC:2.5.1.16]#Metabolism_Metabolism of other amino acids_00480 Glutathione metabolism [PATH:ko00480]_speE, SRM; spermidine synthase [EC:2.5.1.16]
+
+K04487	Genetic Information Processing_Folding, sorting and degradation_04122 Sulfur relay system [PATH:ko04122]_iscS, NFS1; cysteine desulfurase [EC:2.8.1.7]#Metabolism_Metabolism of cofactors and vitamins_00730 Thiamine metabolism [PATH:ko00730]_iscS, NFS1; cysteine desulfurase [EC:2.8.1.7]
+
+K00645	Metabolism_Lipid metabolism_00061 Fatty acid biosynthesis [PATH:ko00061]_fabD; [acyl-carrier-protein] S-malonyltransferase [EC:2.3.1.39]#Metabolism_Overview_01212 Fatty acid metabolism [PATH:ko01212]_fabD; [acyl-carrier-protein] S-malonyltransferase [EC:2.3.1.39]
+
+K00059	Metabolism_Lipid metabolism_00061 Fatty acid biosynthesis [PATH:ko00061]_fabG; 3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100]#Metabolism_Lipid metabolism_01040 Biosynthesis of unsaturated fatty acids [PATH:ko01040]_fabG; 3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100]#Metabolism_Metabolism of cofactors and vitamins_00780 Biotin metabolism [PATH:ko00780]_fabG; 3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100]#Metabolism_Overview_01212 Fatty acid metabolism [PATH:ko01212]_fabG; 3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100]
+
+K03217	Environmental Information Processing_Membrane transport_03070 Bacterial secretion system [PATH:ko03070]_yidC, spoIIIJ, OXA1; YidC/Oxa1 family membrane protein insertase#Genetic Information Processing_Folding, sorting and degradation_03060 Protein export [PATH:ko03060]_yidC, spoIIIJ, OXA1; YidC/Oxa1 family membrane protein insertase
+
+K03524	Metabolism_Metabolism of cofactors and vitamins_00780 Biotin metabolism [PATH:ko00780]_birA; BirA family transcriptional regulator, biotin operon repressor / biotin-[acetyl-CoA-carboxylase] ligase [EC:6.3.4.15]
+
+K03639	Genetic Information Processing_Folding, sorting and degradation_04122 Sulfur relay system [PATH:ko04122]_MOCS1, moaA; cyclic pyranopterin phosphate synthase [EC:4.1.99.18]#Metabolism_Metabolism of cofactors and vitamins_00790 Folate biosynthesis [PATH:ko00790]_MOCS1, moaA; cyclic pyranopterin phosphate synthase [EC:4.1.99.18]
+
+K16329	Metabolism_Nucleotide metabolism_00240 Pyrimidine metabolism [PATH:ko00240]_psuG; pseudouridine-5'-phosphate glycosidase [EC:3.2.-.-]
+
+K10041	Environmental Information Processing_Membrane transport_02010 ABC transporters [PATH:ko02010]_ABC.GLN1.A; putative glutamine transport system ATP-binding protein [EC:3.6.3.-]
+
+K00791	Metabolism_Metabolism of terpenoids and polyketides_00908 Zeatin biosynthesis [PATH:ko00908]_miaA, TRIT1; tRNA dimethylallyltransferase [EC:2.5.1.75]
+
+K00611	Metabolism_Amino acid metabolism_00330 Arginine and proline metabolism [PATH:ko00330]_OTC, argF, argI; ornithine carbamoyltransferase [EC:2.1.3.3]#Metabolism_Overview_01230 Biosynthesis of amino acids [PATH:ko01230]_OTC, argF, argI; ornithine carbamoyltransferase [EC:2.1.3.3]
+
+K02016	Environmental Information Processing_Membrane transport_02010 ABC transporters [PATH:ko02010]_ABC.FEV.S; iron complex transport system substrate-binding protein
+
+K16785	Environmental Information Processing_Membrane transport_02010 ABC transporters [PATH:ko02010]_ecfT; energy-coupling factor transport system permease protein
+
+K10780	Metabolism_Lipid metabolism_00061 Fatty acid biosynthesis [PATH:ko00061]_fabL; enoyl-[acyl-carrier protein] reductase III [EC:1.3.1.104]#Metabolism_Overview_01212 Fatty acid metabolism [PATH:ko01212]_fabL; enoyl-[acyl-carrier protein] reductase III [EC:1.3.1.104]
+
+K00868	Metabolism_Metabolism of cofactors and vitamins_00750 Vitamin B6 metabolism [PATH:ko00750]_pdxK, pdxY; pyridoxine kinase [EC:2.7.1.35]
+
+K16199	Environmental Information Processing_Membrane transport_02010 ABC transporters [PATH:ko02010]_dppE; dipeptide transport system substrate-binding protein
+
+K00609	Metabolism_Amino acid metabolism_00250 Alanine, aspartate and glutamate metabolism [PATH:ko00250]_pyrB, PYR2; aspartate carbamoyltransferase catalytic subunit [EC:2.1.3.2]#Metabolism_Nucleotide metabolism_00240 Pyrimidine metabolism [PATH:ko00240]_pyrB, PYR2; aspartate carbamoyltransferase catalytic subunit [EC:2.1.3.2]
+
+K01624	Metabolism_Carbohydrate metabolism_00010 Glycolysis / Gluconeogenesis [PATH:ko00010]_FBA, fbaA; fructose-bisphosphate aldolase, class II [EC:4.1.2.13]#Metabolism_Carbohydrate metabolism_00030 Pentose phosphate pathway [PATH:ko00030]_FBA, fbaA; fructose-bisphosphate aldolase, class II [EC:4.1.2.13]#Metabolism_Carbohydrate metabolism_00051 Fructose and mannose metabolism [PATH:ko00051]_FBA, fbaA; fructose-bisphosphate aldolase, class II [EC:4.1.2.13]#Metabolism_Energy metabolism_00680 Methane metabolism [PATH:ko00680]_FBA, fbaA; fructose-bisphosphate aldolase, class II [EC:4.1.2.13]#Metabolism_Energy metabolism_00710 Carbon fixation in photosynthetic organisms [PATH:ko00710]_FBA, fbaA; fructose-bisphosphate aldolase, class II [EC:4.1.2.13]#Metabolism_Overview_01200 Carbon metabolism [PATH:ko01200]_FBA, fbaA; fructose-bisphosphate aldolase, class II [EC:4.1.2.13]#Metabolism_Overview_01230 Biosynthesis of amino acids [PATH:ko01230]_FBA, fbaA; fructose-bisphosphate aldolase, class II [EC:4.1.2.13]
+
+K11069	Environmental Information Processing_Membrane transport_02010 ABC transporters [PATH:ko02010]_potD; spermidine/putrescine transport system substrate-binding protein
+
+K02036	Environmental Information Processing_Membrane transport_02010 ABC transporters [PATH:ko02010]_pstB; phosphate transport system ATP-binding protein [EC:3.6.3.27]
+
+K02556	Cellular Processes_Cell motility_02030 Bacterial chemotaxis [PATH:ko02030]_motA; chemotaxis protein MotA#Cellular Processes_Cell motility_02040 Flagellar assembly [PATH:ko02040]_motA; chemotaxis protein MotA#Environmental Information Processing_Signal transduction_02020 Two-component system [PATH:ko02020]_motA; chemotaxis protein MotA
+
+K00059	Metabolism_Lipid metabolism_00061 Fatty acid biosynthesis [PATH:ko00061]_fabG; 3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100]#Metabolism_Lipid metabolism_01040 Biosynthesis of unsaturated fatty acids [PATH:ko01040]_fabG; 3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100]#Metabolism_Metabolism of cofactors and vitamins_00780 Biotin metabolism [PATH:ko00780]_fabG; 3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100]#Metabolism_Overview_01212 Fatty acid metabolism [PATH:ko01212]_fabG; 3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100]
+
+K00845	Metabolism_Biosynthesis of other secondary metabolites_00521 Streptomycin biosynthesis [PATH:ko00521]_glk; glucokinase [EC:2.7.1.2]#Metabolism_Biosynthesis of other secondary metabolites_00524 Butirosin and neomycin biosynthesis [PATH:ko00524]_glk; glucokinase [EC:2.7.1.2]#Metabolism_Carbohydrate metabolism_00010 Glycolysis / Gluconeogenesis [PATH:ko00010]_glk; glucokinase [EC:2.7.1.2]#Metabolism_Carbohydrate metabolism_00052 Galactose metabolism [PATH:ko00052]_glk; glucokinase [EC:2.7.1.2]#Metabolism_Carbohydrate metabolism_00500 Starch and sucrose metabolism [PATH:ko00500]_glk; glucokinase [EC:2.7.1.2]#Metabolism_Carbohydrate metabolism_00520 Amino sugar and nucleotide sugar metabolism [PATH:ko00520]_glk; glucokinase [EC:2.7.1.2]#Metabolism_Overview_01200 Carbon metabolism [PATH:ko01200]_glk; glucokinase [EC:2.7.1.2]
+
+K03783	Metabolism_Metabolism of cofactors and vitamins_00760 Nicotinate and nicotinamide metabolism [PATH:ko00760]_punA; purine-nucleoside phosphorylase [EC:2.4.2.1]#Metabolism_Nucleotide metabolism_00230 Purine metabolism [PATH:ko00230]_punA; purine-nucleoside phosphorylase [EC:2.4.2.1]#Metabolism_Nucleotide metabolism_00240 Pyrimidine metabolism [PATH:ko00240]_punA; purine-nucleoside phosphorylase [EC:2.4.2.1]
+
+K01952	Metabolism_Nucleotide metabolism_00230 Purine metabolism [PATH:ko00230]_purL, PFAS; phosphoribosylformylglycinamidine synthase [EC:6.3.5.3]
+
+K01803	Metabolism_Carbohydrate metabolism_00010 Glycolysis / Gluconeogenesis [PATH:ko00010]_TPI, tpiA; triosephosphate isomerase (TIM) [EC:5.3.1.1]#Metabolism_Carbohydrate metabolism_00051 Fructose and mannose metabolism [PATH:ko00051]_TPI, tpiA; triosephosphate isomerase (TIM) [EC:5.3.1.1]#Metabolism_Carbohydrate metabolism_00562 Inositol phosphate metabolism [PATH:ko00562]_TPI, tpiA; triosephosphate isomerase (TIM) [EC:5.3.1.1]#Metabolism_Energy metabolism_00710 Carbon fixation in photosynthetic organisms [PATH:ko00710]_TPI, tpiA; triosephosphate isomerase (TIM) [EC:5.3.1.1]#Metabolism_Overview_01200 Carbon metabolism [PATH:ko01200]_TPI, tpiA; triosephosphate isomerase (TIM) [EC:5.3.1.1]#Metabolism_Overview_01230 Biosynthesis of amino acids [PATH:ko01230]_TPI, tpiA; triosephosphate isomerase (TIM) [EC:5.3.1.1]
+
+K00761	Metabolism_Nucleotide metabolism_00240 Pyrimidine metabolism [PATH:ko00240]_upp, UPRT; uracil phosphoribosyltransferase [EC:2.4.2.9]
+
+K07775	Environmental Information Processing_Signal transduction_02020 Two-component system [PATH:ko02020]_resD; two-component system, OmpR family, response regulator ResD
+
+K00847	Metabolism_Carbohydrate metabolism_00051 Fructose and mannose metabolism [PATH:ko00051]_E2.7.1.4, scrK; fructokinase [EC:2.7.1.4]#Metabolism_Carbohydrate metabolism_00500 Starch and sucrose metabolism [PATH:ko00500]_E2.7.1.4, scrK; fructokinase [EC:2.7.1.4]#Metabolism_Carbohydrate metabolism_00520 Amino sugar and nucleotide sugar metabolism [PATH:ko00520]_E2.7.1.4, scrK; fructokinase [EC:2.7.1.4]
+
+K01491	Metabolism_Energy metabolism_00720 Carbon fixation pathways in prokaryotes [PATH:ko00720]_folD; methylenetetrahydrofolate dehydrogenase (NADP+) / methenyltetrahydrofolate cyclohydrolase [EC:1.5.1.5 3.5.4.9]#Metabolism_Metabolism of cofactors and vitamins_00670 One carbon pool by folate [PATH:ko00670]_folD; methylenetetrahydrofolate dehydrogenase (NADP+) / methenyltetrahydrofolate cyclohydrolase [EC:1.5.1.5 3.5.4.9]#Metabolism_Overview_01200 Carbon metabolism [PATH:ko01200]_folD; methylenetetrahydrofolate dehydrogenase (NADP+) / methenyltetrahydrofolate cyclohydrolase [EC:1.5.1.5 3.5.4.9]
+
+K04487	Genetic Information Processing_Folding, sorting and degradation_04122 Sulfur relay system [PATH:ko04122]_iscS, NFS1; cysteine desulfurase [EC:2.8.1.7]#Metabolism_Metabolism of cofactors and vitamins_00730 Thiamine metabolism [PATH:ko00730]_iscS, NFS1; cysteine desulfurase [EC:2.8.1.7]
+
+K00640	Metabolism_Amino acid metabolism_00270 Cysteine and methionine metabolism [PATH:ko00270]_cysE; serine O-acetyltransferase [EC:2.3.1.30]#Metabolism_Energy metabolism_00920 Sulfur metabolism [PATH:ko00920]_cysE; serine O-acetyltransferase [EC:2.3.1.30]#Metabolism_Overview_01200 Carbon metabolism [PATH:ko01200]_cysE; serine O-acetyltransferase [EC:2.3.1.30]#Metabolism_Overview_01230 Biosynthesis of amino acids [PATH:ko01230]_cysE; serine O-acetyltransferase [EC:2.3.1.30]
+
+K16787	Environmental Information Processing_Membrane transport_02010 ABC transporters [PATH:ko02010]_ecfA2; energy-coupling factor transport system ATP-binding protein [EC:3.6.3.-]
+
+K02548	Metabolism_Metabolism of cofactors and vitamins_00130 Ubiquinone and other terpenoid-quinone biosynthesis [PATH:ko00130]_menA; 1,4-dihydroxy-2-naphthoate octaprenyltransferase [EC:2.5.1.74 2.5.1.-]
+
+K00215	Metabolism_Amino acid metabolism_00300 Lysine biosynthesis [PATH:ko00300]_dapB; 4-hydroxy-tetrahydrodipicolinate reductase [EC:1.17.1.8]#Metabolism_Biosynthesis of other secondary metabolites_00261 Monobactam biosynthesis [PATH:ko00261]_dapB; 4-hydroxy-tetrahydrodipicolinate reductase [EC:1.17.1.8]#Metabolism_Overview_01230 Biosynthesis of amino acids [PATH:ko01230]_dapB; 4-hydroxy-tetrahydrodipicolinate reductase [EC:1.17.1.8]
+
+K01738	Metabolism_Amino acid metabolism_00270 Cysteine and methionine metabolism [PATH:ko00270]_cysK; cysteine synthase A [EC:2.5.1.47]#Metabolism_Energy metabolism_00920 Sulfur metabolism [PATH:ko00920]_cysK; cysteine synthase A [EC:2.5.1.47]#Metabolism_Overview_01200 Carbon metabolism [PATH:ko01200]_cysK; cysteine synthase A [EC:2.5.1.47]#Metabolism_Overview_01230 Biosynthesis of amino acids [PATH:ko01230]_cysK; cysteine synthase A [EC:2.5.1.47]
+
+K10773	Genetic Information Processing_Replication and repair_03410 Base excision repair [PATH:ko03410]_NTH; endonuclease III [EC:4.2.99.18]
+
+K04564	Cellular Processes_Transport and catabolism_04146 Peroxisome [PATH:ko04146]_SOD2; superoxide dismutase, Fe-Mn family [EC:1.15.1.1]#Environmental Information Processing_Signal transduction_04068 FoxO signaling pathway [PATH:ko04068]_SOD2; superoxide dismutase, Fe-Mn family [EC:1.15.1.1]#Human Diseases_Neurodegenerative diseases_05016 Huntington's disease [PATH:ko05016]_SOD2; superoxide dismutase, Fe-Mn family [EC:1.15.1.1]
+
+K00390	Metabolism_Energy metabolism_00920 Sulfur metabolism [PATH:ko00920]_cysH; phosphoadenosine phosphosulfate reductase [EC:1.8.4.8]
+
+K16786	Environmental Information Processing_Membrane transport_02010 ABC transporters [PATH:ko02010]_ecfA1; energy-coupling factor transport system ATP-binding protein [EC:3.6.3.-]
+
+K00796	Metabolism_Metabolism of cofactors and vitamins_00790 Folate biosynthesis [PATH:ko00790]_folP; dihydropteroate synthase [EC:2.5.1.15]
+
+K07658	Environmental Information Processing_Signal transduction_02020 Two-component system [PATH:ko02020]_phoB1, phoP; two-component system, OmpR family, alkaline phosphatase synthesis response regulator PhoP
+
+K02986	Genetic Information Processing_Translation_03010 Ribosome [PATH:ko03010]_RP-S4, rpsD; small subunit ribosomal protein S4
+
+K01101	Metabolism_Xenobiotics biodegradation and metabolism_00627 Aminobenzoate degradation [PATH:ko00627]_E3.1.3.41; 4-nitrophenyl phosphatase [EC:3.1.3.41]
+
+K00766	Metabolism_Amino acid metabolism_00400 Phenylalanine, tyrosine and tryptophan biosynthesis [PATH:ko00400]_trpD; anthranilate phosphoribosyltransferase [EC:2.4.2.18]#Metabolism_Overview_01230 Biosynthesis of amino acids [PATH:ko01230]_trpD; anthranilate phosphoribosyltransferase [EC:2.4.2.18]
+
+K03412	Cellular Processes_Cell motility_02030 Bacterial chemotaxis [PATH:ko02030]_cheB; two-component system, chemotaxis family, response regulator CheB [EC:3.1.1.61]#Environmental Information Processing_Signal transduction_02020 Two-component system [PATH:ko02020]_cheB; two-component system, chemotaxis family, response regulator CheB [EC:3.1.1.61]
+
+K07692	Environmental Information Processing_Signal transduction_02020 Two-component system [PATH:ko02020]_degU; two-component system, NarL family, response regulator DegU
+
+K00939	Metabolism_Nucleotide metabolism_00230 Purine metabolism [PATH:ko00230]_adk, AK; adenylate kinase [EC:2.7.4.3]
+
+K01443	Metabolism_Carbohydrate metabolism_00520 Amino sugar and nucleotide sugar metabolism [PATH:ko00520]_nagA, AMDHD2; N-acetylglucosamine-6-phosphate deacetylase [EC:3.5.1.25]
+
+K06187	Genetic Information Processing_Replication and repair_03440 Homologous recombination [PATH:ko03440]_recR; recombination protein RecR
+
+K02906	Genetic Information Processing_Translation_03010 Ribosome [PATH:ko03010]_RP-L3, MRPL3, rplC; large subunit ribosomal protein L3
+
+K00876	Metabolism_Nucleotide metabolism_00240 Pyrimidine metabolism [PATH:ko00240]_udk, UCK; uridine kinase [EC:2.7.1.48]#Metabolism_Xenobiotics biodegradation and metabolism_00983 Drug metabolism - other enzymes [PATH:ko00983]_udk, UCK; uridine kinase [EC:2.7.1.48]
+
+K02419	Cellular Processes_Cell motility_02040 Flagellar assembly [PATH:ko02040]_fliP; flagellar biosynthetic protein FliP
+
+K02108	Metabolism_Energy metabolism_00190 Oxidative phosphorylation [PATH:ko00190]_ATPF0A, atpB; F-type H+-transporting ATPase subunit a#Metabolism_Energy metabolism_00195 Photosynthesis [PATH:ko00195]_ATPF0A, atpB; F-type H+-transporting ATPase subunit a
+
+K00806	Metabolism_Metabolism of terpenoids and polyketides_00900 Terpenoid backbone biosynthesis [PATH:ko00900]_uppS; undecaprenyl diphosphate synthase [EC:2.5.1.31]
+
+K02016	Environmental Information Processing_Membrane transport_02010 ABC transporters [PATH:ko02010]_ABC.FEV.S; iron complex transport system substrate-binding protein
+
+K06131	Metabolism_Lipid metabolism_00564 Glycerophospholipid metabolism [PATH:ko00564]_cls; cardiolipin synthase [EC:2.7.8.-]
+
+K10441	Environmental Information Processing_Membrane transport_02010 ABC transporters [PATH:ko02010]_rbsA; ribose transport system ATP-binding protein [EC:3.6.3.17]
+
+K02224	Metabolism_Metabolism of cofactors and vitamins_00860 Porphyrin and chlorophyll metabolism [PATH:ko00860]_cobB-cbiA; cobyrinic acid a,c-diamide synthase [EC:6.3.5.9 6.3.5.11]
+
+K02276	Metabolism_Energy metabolism_00190 Oxidative phosphorylation [PATH:ko00190]_coxC; cytochrome c oxidase subunit III [EC:1.9.3.1]
+
+K03685	Genetic Information Processing_Translation_03008 Ribosome biogenesis in eukaryotes [PATH:ko03008]_rnc, DROSHA, RNT1; ribonuclease III [EC:3.1.26.3]#Human Diseases_Cancers_05205 Proteoglycans in cancer [PATH:ko05205]_rnc, DROSHA, RNT1; ribonuclease III [EC:3.1.26.3]
+
+K03183	Metabolism_Metabolism of cofactors and vitamins_00130 Ubiquinone and other terpenoid-quinone biosynthesis [PATH:ko00130]_ubiE; demethylmenaquinone methyltransferase / 2-methoxy-6-polyprenyl-1,4-benzoquinol methylase [EC:2.1.1.163 2.1.1.201]
+
+K01814	Metabolism_Amino acid metabolism_00340 Histidine metabolism [PATH:ko00340]_hisA; phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase [EC:5.3.1.16]#Metabolism_Overview_01230 Biosynthesis of amino acids [PATH:ko01230]_hisA; phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase [EC:5.3.1.16]
+
+K06153	Metabolism_Glycan biosynthesis and metabolism_00550 Peptidoglycan biosynthesis [PATH:ko00550]_bacA; undecaprenyl-diphosphatase [EC:3.6.1.27]
+
+K01918	Metabolism_Metabolism of cofactors and vitamins_00770 Pantothenate and CoA biosynthesis [PATH:ko00770]_panC; pantoate--beta-alanine ligase [EC:6.3.2.1]#Metabolism_Metabolism of other amino acids_00410 beta-Alanine metabolism [PATH:ko00410]_panC; pantoate--beta-alanine ligase [EC:6.3.2.1]
+
+K09812	Environmental Information Processing_Membrane transport_02010 ABC transporters [PATH:ko02010]_ftsE; cell division transport system ATP-binding protein
+
+K01358	Cellular Processes_Cell growth and death_04112 Cell cycle - Caulobacter [PATH:ko04112]_clpP, CLPP; ATP-dependent Clp protease, protease subunit [EC:3.4.21.92]
+
+K03784	Metabolism_Metabolism of cofactors and vitamins_00760 Nicotinate and nicotinamide metabolism [PATH:ko00760]_deoD; purine-nucleoside phosphorylase [EC:2.4.2.1]#Metabolism_Nucleotide metabolism_00230 Purine metabolism [PATH:ko00230]_deoD; purine-nucleoside phosphorylase [EC:2.4.2.1]#Metabolism_Nucleotide metabolism_00240 Pyrimidine metabolism [PATH:ko00240]_deoD; purine-nucleoside phosphorylase [EC:2.4.2.1]
+
+K04518	Metabolism_Amino acid metabolism_00400 Phenylalanine, tyrosine and tryptophan biosynthesis [PATH:ko00400]_pheA2; prephenate dehydratase [EC:4.2.1.51]#Metabolism_Overview_01230 Biosynthesis of amino acids [PATH:ko01230]_pheA2; prephenate dehydratase [EC:4.2.1.51]
+
+K02259	Environmental Information Processing_Signal transduction_02020 Two-component system [PATH:ko02020]_COX15; cytochrome c oxidase assembly protein subunit 15#Metabolism_Energy metabolism_00190 Oxidative phosphorylation [PATH:ko00190]_COX15; cytochrome c oxidase assembly protein subunit 15#Metabolism_Metabolism of cofactors and vitamins_00860 Porphyrin and chlorophyll metabolism [PATH:ko00860]_COX15; cytochrome c oxidase assembly protein subunit 15
+
+K15581	Environmental Information Processing_Membrane transport_02010 ABC transporters [PATH:ko02010]_oppB; oligopeptide transport system permease protein#Human Diseases_Drug resistance_01501 beta-Lactam resistance [PATH:ko01501]_oppB; oligopeptide transport system permease protein
+
+K06920	Metabolism_Metabolism of cofactors and vitamins_00790 Folate biosynthesis [PATH:ko00790]_queC; 7-cyano-7-deazaguanine synthase [EC:6.3.4.20]
+
+K00826	Metabolism_Amino acid metabolism_00280 Valine, leucine and isoleucine degradation [PATH:ko00280]_E2.6.1.42, ilvE; branched-chain amino acid aminotransferase [EC:2.6.1.42]#Metabolism_Amino acid metabolism_00290 Valine, leucine and isoleucine biosynthesis [PATH:ko00290]_E2.6.1.42, ilvE; branched-chain amino acid aminotransferase [EC:2.6.1.42]#Metabolism_Metabolism of cofactors and vitamins_00770 Pantothenate and CoA biosynthesis [PATH:ko00770]_E2.6.1.42, ilvE; branched-chain amino acid aminotransferase [EC:2.6.1.42]#Metabolism_Overview_01210 2-Oxocarboxylic acid metabolism [PATH:ko01210]_E2.6.1.42, ilvE; branched-chain amino acid aminotransferase [EC:2.6.1.42]#Metabolism_Overview_01230 Biosynthesis of amino acids [PATH:ko01230]_E2.6.1.42, ilvE; branched-chain amino acid aminotransferase [EC:2.6.1.42]
+
+K13789	Metabolism_Metabolism of terpenoids and polyketides_00900 Terpenoid backbone biosynthesis [PATH:ko00900]_GGPS; geranylgeranyl diphosphate synthase, type II [EC:2.5.1.1 2.5.1.10 2.5.1.29]
+
+K09811	Environmental Information Processing_Membrane transport_02010 ABC transporters [PATH:ko02010]_ftsX; cell division transport system permease protein
+
+K02341	Genetic Information Processing_Replication and repair_03030 DNA replication [PATH:ko03030]_DPO3D2, holB; DNA polymerase III subunit delta' [EC:2.7.7.7]#Genetic Information Processing_Replication and repair_03430 Mismatch repair [PATH:ko03430]_DPO3D2, holB; DNA polymerase III subunit delta' [EC:2.7.7.7]#Genetic Information Processing_Replication and repair_03440 Homologous recombination [PATH:ko03440]_DPO3D2, holB; DNA polymerase III subunit delta' [EC:2.7.7.7]#Metabolism_Nucleotide metabolism_00230 Purine metabolism [PATH:ko00230]_DPO3D2, holB; DNA polymerase III subunit delta' [EC:2.7.7.7]#Metabolism_Nucleotide metabolism_00240 Pyrimidine metabolism [PATH:ko00240]_DPO3D2, holB; DNA polymerase III subunit delta' [EC:2.7.7.7]
+
+K02016	Environmental Information Processing_Membrane transport_02010 ABC transporters [PATH:ko02010]_ABC.FEV.S; iron complex transport system substrate-binding protein
+
+K02926	Genetic Information Processing_Translation_03010 Ribosome [PATH:ko03010]_RP-L4, MRPL4, rplD; large subunit ribosomal protein L4
+
+K00858	Metabolism_Metabolism of cofactors and vitamins_00760 Nicotinate and nicotinamide metabolism [PATH:ko00760]_ppnK, NADK; NAD+ kinase [EC:2.7.1.23]
+
+K10563	Genetic Information Processing_Replication and repair_03410 Base excision repair [PATH:ko03410]_mutM, fpg; formamidopyrimidine-DNA glycosylase [EC:3.2.2.23 4.2.99.18]
+
+K01693	Metabolism_Amino acid metabolism_00340 Histidine metabolism [PATH:ko00340]_hisB; imidazoleglycerol-phosphate dehydratase [EC:4.2.1.19]#Metabolism_Overview_01230 Biosynthesis of amino acids [PATH:ko01230]_hisB; imidazoleglycerol-phosphate dehydratase [EC:4.2.1.19]
+
+K00616	Metabolism_Carbohydrate metabolism_00030 Pentose phosphate pathway [PATH:ko00030]_E2.2.1.2, talA, talB; transaldolase [EC:2.2.1.2]#Metabolism_Overview_01200 Carbon metabolism [PATH:ko01200]_E2.2.1.2, talA, talB; transaldolase [EC:2.2.1.2]#Metabolism_Overview_01230 Biosynthesis of amino acids [PATH:ko01230]_E2.2.1.2, talA, talB; transaldolase [EC:2.2.1.2]
+
+K01752	Metabolism_Amino acid metabolism_00260 Glycine, serine and threonine metabolism [PATH:ko00260]_E4.3.1.17, sdaA; L-serine dehydratase [EC:4.3.1.17]#Metabolism_Amino acid metabolism_00270 Cysteine and methionine metabolism [PATH:ko00270]_E4.3.1.17, sdaA; L-serine dehydratase [EC:4.3.1.17]#Metabolism_Overview_01200 Carbon metabolism [PATH:ko01200]_E4.3.1.17, sdaA; L-serine dehydratase [EC:4.3.1.17]#Metabolism_Overview_01230 Biosynthesis of amino acids [PATH:ko01230]_E4.3.1.17, sdaA; L-serine dehydratase [EC:4.3.1.17]
+
+K01923	Metabolism_Nucleotide metabolism_00230 Purine metabolism [PATH:ko00230]_purC; phosphoribosylaminoimidazole-succinocarboxamide synthase [EC:6.3.2.6]
+
+K00767	Metabolism_Metabolism of cofactors and vitamins_00760 Nicotinate and nicotinamide metabolism [PATH:ko00760]_nadC, QPRT; nicotinate-nucleotide pyrophosphorylase (carboxylating) [EC:2.4.2.19]
+
+K03648	Genetic Information Processing_Replication and repair_03410 Base excision repair [PATH:ko03410]_UNG, UDG; uracil-DNA glycosylase [EC:3.2.2.27]#Human Diseases_Immune diseases_05340 Primary immunodeficiency [PATH:ko05340]_UNG, UDG; uracil-DNA glycosylase [EC:3.2.2.27]
+
+K02931	Genetic Information Processing_Translation_03010 Ribosome [PATH:ko03010]_RP-L5, MRPL5, rplE; large subunit ribosomal protein L5
+
+K00882	Metabolism_Carbohydrate metabolism_00051 Fructose and mannose metabolism [PATH:ko00051]_fruK; 1-phosphofructokinase [EC:2.7.1.56]
+
+K00942	Metabolism_Nucleotide metabolism_00230 Purine metabolism [PATH:ko00230]_E2.7.4.8, gmk; guanylate kinase [EC:2.7.4.8]
+
+K00241	Metabolism_Carbohydrate metabolism_00020 Citrate cycle (TCA cycle) [PATH:ko00020]_sdhC, frdC; succinate dehydrogenase / fumarate reductase, cytochrome b subunit#Metabolism_Carbohydrate metabolism_00650 Butanoate metabolism [PATH:ko00650]_sdhC, frdC; succinate dehydrogenase / fumarate reductase, cytochrome b subunit#Metabolism_Energy metabolism_00190 Oxidative phosphorylation [PATH:ko00190]_sdhC, frdC; succinate dehydrogenase / fumarate reductase, cytochrome b subunit#Metabolism_Energy metabolism_00720 Carbon fixation pathways in prokaryotes [PATH:ko00720]_sdhC, frdC; succinate dehydrogenase / fumarate reductase, cytochrome b subunit#Metabolism_Overview_01200 Carbon metabolism [PATH:ko01200]_sdhC, frdC; succinate dehydrogenase / fumarate reductase, cytochrome b subunit
+
+K00878	Metabolism_Metabolism of cofactors and vitamins_00730 Thiamine metabolism [PATH:ko00730]_thiM; hydroxyethylthiazole kinase [EC:2.7.1.50]
+
+K01776	Metabolism_Metabolism of other amino acids_00471 D-Glutamine and D-glutamate metabolism [PATH:ko00471]_murI; glutamate racemase [EC:5.1.1.3]
+
+K01092	Environmental Information Processing_Signal transduction_04070 Phosphatidylinositol signaling system [PATH:ko04070]_E3.1.3.25, IMPA, suhB; myo-inositol-1(or 4)-monophosphatase [EC:3.1.3.25]#Metabolism_Biosynthesis of other secondary metabolites_00521 Streptomycin biosynthesis [PATH:ko00521]_E3.1.3.25, IMPA, suhB; myo-inositol-1(or 4)-monophosphatase [EC:3.1.3.25]#Metabolism_Carbohydrate metabolism_00562 Inositol phosphate metabolism [PATH:ko00562]_E3.1.3.25, IMPA, suhB; myo-inositol-1(or 4)-monophosphatase [EC:3.1.3.25]
+
+K01783	Metabolism_Carbohydrate metabolism_00030 Pentose phosphate pathway [PATH:ko00030]_rpe, RPE; ribulose-phosphate 3-epimerase [EC:5.1.3.1]#Metabolism_Carbohydrate metabolism_00040 Pentose and glucuronate interconversions [PATH:ko00040]_rpe, RPE; ribulose-phosphate 3-epimerase [EC:5.1.3.1]#Metabolism_Energy metabolism_00710 Carbon fixation in photosynthetic organisms [PATH:ko00710]_rpe, RPE; ribulose-phosphate 3-epimerase [EC:5.1.3.1]#Metabolism_Overview_01200 Carbon metabolism [PATH:ko01200]_rpe, RPE; ribulose-phosphate 3-epimerase [EC:5.1.3.1]#Metabolism_Overview_01230 Biosynthesis of amino acids [PATH:ko01230]_rpe, RPE; ribulose-phosphate 3-epimerase [EC:5.1.3.1]
+
+K00872	Metabolism_Amino acid metabolism_00260 Glycine, serine and threonine metabolism [PATH:ko00260]_thrB1; homoserine kinase [EC:2.7.1.39]#Metabolism_Overview_01230 Biosynthesis of amino acids [PATH:ko01230]_thrB1; homoserine kinase [EC:2.7.1.39]
+
+K03118	Environmental Information Processing_Membrane transport_03070 Bacterial secretion system [PATH:ko03070]_tatC; sec-independent protein translocase protein TatC#Genetic Information Processing_Folding, sorting and degradation_03060 Protein export [PATH:ko03060]_tatC; sec-independent protein translocase protein TatC
+
+K01495	Metabolism_Metabolism of cofactors and vitamins_00790 Folate biosynthesis [PATH:ko00790]_GCH1, folE; GTP cyclohydrolase I [EC:3.5.4.16]
+
+K03092	Environmental Information Processing_Signal transduction_02020 Two-component system [PATH:ko02020]_SIG54, rpoN; RNA polymerase sigma-54 factor#Human Diseases_Infectious diseases_05111 Vibrio cholerae pathogenic cycle [PATH:ko05111]_SIG54, rpoN; RNA polymerase sigma-54 factor
+
+K11070	Environmental Information Processing_Membrane transport_02010 ABC transporters [PATH:ko02010]_potC; spermidine/putrescine transport system permease protein
+
+K01243	Metabolism_Amino acid metabolism_00270 Cysteine and methionine metabolism [PATH:ko00270]_mtnN, mtn, pfs; adenosylhomocysteine nucleosidase [EC:3.2.2.9]#Metabolism_Overview_01230 Biosynthesis of amino acids [PATH:ko01230]_mtnN, mtn, pfs; adenosylhomocysteine nucleosidase [EC:3.2.2.9]
+
+K11755	Metabolism_Amino acid metabolism_00340 Histidine metabolism [PATH:ko00340]_hisIE; phosphoribosyl-ATP pyrophosphohydrolase / phosphoribosyl-AMP cyclohydrolase [EC:3.6.1.31 3.5.4.19]#Metabolism_Overview_01230 Biosynthesis of amino acids [PATH:ko01230]_hisIE; phosphoribosyl-ATP pyrophosphohydrolase / phosphoribosyl-AMP cyclohydrolase [EC:3.6.1.31 3.5.4.19]
+
+K02072	Environmental Information Processing_Membrane transport_02010 ABC transporters [PATH:ko02010]_metI; D-methionine transport system permease protein
+
+K00075	Metabolism_Carbohydrate metabolism_00520 Amino sugar and nucleotide sugar metabolism [PATH:ko00520]_murB; UDP-N-acetylmuramate dehydrogenase [EC:1.3.1.98]#Metabolism_Glycan biosynthesis and metabolism_00550 Peptidoglycan biosynthesis [PATH:ko00550]_murB; UDP-N-acetylmuramate dehydrogenase [EC:1.3.1.98]
+
+K02303	Metabolism_Metabolism of cofactors and vitamins_00860 Porphyrin and chlorophyll metabolism [PATH:ko00860]_cobA; uroporphyrin-III C-methyltransferase [EC:2.1.1.107]
+
+K00765	Metabolism_Amino acid metabolism_00340 Histidine metabolism [PATH:ko00340]_hisG; ATP phosphoribosyltransferase [EC:2.4.2.17]#Metabolism_Overview_01230 Biosynthesis of amino acids [PATH:ko01230]_hisG; ATP phosphoribosyltransferase [EC:2.4.2.17]
+
+K01247	Genetic Information Processing_Replication and repair_03410 Base excision repair [PATH:ko03410]_alkA; DNA-3-methyladenine glycosylase II [EC:3.2.2.21]
+
+K00857	Metabolism_Nucleotide metabolism_00240 Pyrimidine metabolism [PATH:ko00240]_tdk, TK; thymidine kinase [EC:2.7.1.21]#Metabolism_Xenobiotics biodegradation and metabolism_00983 Drug metabolism - other enzymes [PATH:ko00983]_tdk, TK; thymidine kinase [EC:2.7.1.21]
+
+K00760	Metabolism_Nucleotide metabolism_00230 Purine metabolism [PATH:ko00230]_hprT, hpt, HPRT1; hypoxanthine phosphoribosyltransferase [EC:2.4.2.8]#Metabolism_Xenobiotics biodegradation and metabolism_00983 Drug metabolism - other enzymes [PATH:ko00983]_hprT, hpt, HPRT1; hypoxanthine phosphoribosyltransferase [EC:2.4.2.8]
+
+K01448	Human Diseases_Drug resistance_01503 Cationic antimicrobial peptide (CAMP) resistance [PATH:ko01503]_E3.5.1.28B, amiA, amiB, amiC; N-acetylmuramoyl-L-alanine amidase [EC:3.5.1.28]
+
+K02073	Environmental Information Processing_Membrane transport_02010 ABC transporters [PATH:ko02010]_metQ; D-methionine transport system substrate-binding protein
+
+K00995	Metabolism_Lipid metabolism_00564 Glycerophospholipid metabolism [PATH:ko00564]_pgsA, PGS1; CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase [EC:2.7.8.5]
+
+K01664	Metabolism_Metabolism of cofactors and vitamins_00790 Folate biosynthesis [PATH:ko00790]_pabA; para-aminobenzoate synthetase component II [EC:2.6.1.85]
+
+K10026	Metabolism_Metabolism of cofactors and vitamins_00790 Folate biosynthesis [PATH:ko00790]_queE; 7-carboxy-7-deazaguanine synthase [EC:4.3.99.3]
+
+K07816	Metabolism_Nucleotide metabolism_00230 Purine metabolism [PATH:ko00230]_E2.7.6.5X; putative GTP pyrophosphokinase [EC:2.7.6.5]
+
+K03584	Genetic Information Processing_Replication and repair_03440 Homologous recombination [PATH:ko03440]_recO; DNA repair protein RecO (recombination protein O)
+
+K02405	Environmental Information Processing_Signal transduction_02020 Two-component system [PATH:ko02020]_fliA; RNA polymerase sigma factor for flagellar operon FliA#Human Diseases_Infectious diseases_05111 Vibrio cholerae pathogenic cycle [PATH:ko05111]_fliA; RNA polymerase sigma factor for flagellar operon FliA
+
+K15582	Environmental Information Processing_Membrane transport_02010 ABC transporters [PATH:ko02010]_oppC; oligopeptide transport system permease protein#Human Diseases_Drug resistance_01501 beta-Lactam resistance [PATH:ko01501]_oppC; oligopeptide transport system permease protein
+
+K01619	Metabolism_Carbohydrate metabolism_00030 Pentose phosphate pathway [PATH:ko00030]_deoC, DERA; deoxyribose-phosphate aldolase [EC:4.1.2.4]
+
+K03471	Genetic Information Processing_Replication and repair_03030 DNA replication [PATH:ko03030]_rnhC; ribonuclease HIII [EC:3.1.26.4]
+
+K00087	Metabolism_Nucleotide metabolism_00230 Purine metabolism [PATH:ko00230]_ygeS, xdhA; xanthine dehydrogenase molybdenum-binding subunit [EC:1.17.1.4]
+
+K19285	Metabolism_Metabolism of cofactors and vitamins_00740 Riboflavin metabolism [PATH:ko00740]_nfrA1; FMN reductase (NADPH) [EC:1.5.1.38]
+
+K02988	Genetic Information Processing_Translation_03010 Ribosome [PATH:ko03010]_RP-S5, MRPS5, rpsE; small subunit ribosomal protein S5
+
+K00090	Metabolism_Carbohydrate metabolism_00030 Pentose phosphate pathway [PATH:ko00030]_E1.1.1.215; gluconate 2-dehydrogenase [EC:1.1.1.215]
+
+K02933	Genetic Information Processing_Translation_03010 Ribosome [PATH:ko03010]_RP-L6, MRPL6, rplF; large subunit ribosomal protein L6
+
+K00575	Cellular Processes_Cell motility_02030 Bacterial chemotaxis [PATH:ko02030]_cheR; chemotaxis protein methyltransferase CheR [EC:2.1.1.80]#Environmental Information Processing_Signal transduction_02020 Two-component system [PATH:ko02020]_cheR; chemotaxis protein methyltransferase CheR [EC:2.1.1.80]
+
+K02575	Metabolism_Energy metabolism_00910 Nitrogen metabolism [PATH:ko00910]_NRT, narK, nrtP, nasA; MFS transporter, NNP family, nitrate/nitrite transporter
+
+K00759	Metabolism_Nucleotide metabolism_00230 Purine metabolism [PATH:ko00230]_APRT, apt; adenine phosphoribosyltransferase [EC:2.4.2.7]
+
+K02557	Cellular Processes_Cell motility_02030 Bacterial chemotaxis [PATH:ko02030]_motB; chemotaxis protein MotB#Cellular Processes_Cell motility_02040 Flagellar assembly [PATH:ko02040]_motB; chemotaxis protein MotB
+
+K15772	Environmental Information Processing_Membrane transport_02010 ABC transporters [PATH:ko02010]_ganQ; arabinogalactan oligomer / maltooligosaccharide transport system permease protein
+
+K02340	Genetic Information Processing_Replication and repair_03030 DNA replication [PATH:ko03030]_DPO3D1, holA; DNA polymerase III subunit delta [EC:2.7.7.7]#Genetic Information Processing_Replication and repair_03430 Mismatch repair [PATH:ko03430]_DPO3D1, holA; DNA polymerase III subunit delta [EC:2.7.7.7]#Genetic Information Processing_Replication and repair_03440 Homologous recombination [PATH:ko03440]_DPO3D1, holA; DNA polymerase III subunit delta [EC:2.7.7.7]#Metabolism_Nucleotide metabolism_00230 Purine metabolism [PATH:ko00230]_DPO3D1, holA; DNA polymerase III subunit delta [EC:2.7.7.7]#Metabolism_Nucleotide metabolism_00240 Pyrimidine metabolism [PATH:ko00240]_DPO3D1, holA; DNA polymerase III subunit delta [EC:2.7.7.7]
+
+K02826	Metabolism_Energy metabolism_00190 Oxidative phosphorylation [PATH:ko00190]_qoxA; cytochrome aa3-600 menaquinol oxidase subunit II [EC:1.10.3.12]
+
+K16787	Environmental Information Processing_Membrane transport_02010 ABC transporters [PATH:ko02010]_ecfA2; energy-coupling factor transport system ATP-binding protein [EC:3.6.3.-]
+
+K15770	Environmental Information Processing_Membrane transport_02010 ABC transporters [PATH:ko02010]_cycB, ganO; arabinogalactan oligomer / maltooligosaccharide transport system substrate-binding protein
+
+K02992	Genetic Information Processing_Translation_03010 Ribosome [PATH:ko03010]_RP-S7, MRPS7, rpsG; small subunit ribosomal protein S7
+
+K02564	Metabolism_Carbohydrate metabolism_00520 Amino sugar and nucleotide sugar metabolism [PATH:ko00520]_nagB, GNPDA; glucosamine-6-phosphate deaminase [EC:3.5.99.6]
+
+K13767	Metabolism_Lipid metabolism_00071 Fatty acid degradation [PATH:ko00071]_ysiB, fadB; enoyl-CoA hydratase [EC:4.2.1.17]#Metabolism_Overview_01212 Fatty acid metabolism [PATH:ko01212]_ysiB, fadB; enoyl-CoA hydratase [EC:4.2.1.17]
+
+K03406	Cellular Processes_Cell motility_02030 Bacterial chemotaxis [PATH:ko02030]_mcp; methyl-accepting chemotaxis protein#Environmental Information Processing_Signal transduction_02020 Two-component system [PATH:ko02020]_mcp; methyl-accepting chemotaxis protein
+
+K08681	Metabolism_Metabolism of cofactors and vitamins_00750 Vitamin B6 metabolism [PATH:ko00750]_pdxT, pdx2; 5'-phosphate synthase pdxT subunit [EC:4.3.3.6]
+
+K00945	Metabolism_Nucleotide metabolism_00240 Pyrimidine metabolism [PATH:ko00240]_cmk; cytidylate kinase [EC:2.7.4.14]
+
+K01591	Metabolism_Nucleotide metabolism_00240 Pyrimidine metabolism [PATH:ko00240]_pyrF; orotidine-5'-phosphate decarboxylase [EC:4.1.1.23]
+
+K08964	Metabolism_Amino acid metabolism_00270 Cysteine and methionine metabolism [PATH:ko00270]_mtnB; methylthioribulose-1-phosphate dehydratase [EC:4.2.1.109]
+
+K07260	Environmental Information Processing_Signal transduction_02020 Two-component system [PATH:ko02020]_vanY; D-alanyl-D-alanine carboxypeptidase [EC:3.4.16.4]#Human Diseases_Drug resistance_01502 Vancomycin resistance [PATH:ko01502]_vanY; D-alanyl-D-alanine carboxypeptidase [EC:3.4.16.4]#Metabolism_Glycan biosynthesis and metabolism_00550 Peptidoglycan biosynthesis [PATH:ko00550]_vanY; D-alanyl-D-alanine carboxypeptidase [EC:3.4.16.4]
+
+K02013	Environmental Information Processing_Membrane transport_02010 ABC transporters [PATH:ko02010]_ABC.FEV.A; iron complex transport system ATP-binding protein [EC:3.6.3.34]
+
+K01996	Environmental Information Processing_Membrane transport_02010 ABC transporters [PATH:ko02010]_livF; branched-chain amino acid transport system ATP-binding protein
+
+K01695	Metabolism_Amino acid metabolism_00260 Glycine, serine and threonine metabolism [PATH:ko00260]_trpA; tryptophan synthase alpha chain [EC:4.2.1.20]#Metabolism_Amino acid metabolism_00400 Phenylalanine, tyrosine and tryptophan biosynthesis [PATH:ko00400]_trpA; tryptophan synthase alpha chain [EC:4.2.1.20]#Metabolism_Overview_01230 Biosynthesis of amino acids [PATH:ko01230]_trpA; tryptophan synthase alpha chain [EC:4.2.1.20]
+
+K08966	Metabolism_Amino acid metabolism_00270 Cysteine and methionine metabolism [PATH:ko00270]_mtnX; 2-hydroxy-3-keto-5-methylthiopentenyl-1-phosphate phosphatase [EC:3.1.3.87]
+
+K01719	Metabolism_Metabolism of cofactors and vitamins_00860 Porphyrin and chlorophyll metabolism [PATH:ko00860]_hemD, UROS; uroporphyrinogen-III synthase [EC:4.2.1.75]
+
+K00860	Metabolism_Energy metabolism_00920 Sulfur metabolism [PATH:ko00920]_cysC; adenylylsulfate kinase [EC:2.7.1.25]#Metabolism_Nucleotide metabolism_00230 Purine metabolism [PATH:ko00230]_cysC; adenylylsulfate kinase [EC:2.7.1.25]
+
+K07173	Human Diseases_Infectious diseases_05111 Vibrio cholerae pathogenic cycle [PATH:ko05111]_luxS; S-ribosylhomocysteine lyase [EC:4.4.1.21]#Metabolism_Amino acid metabolism_00270 Cysteine and methionine metabolism [PATH:ko00270]_luxS; S-ribosylhomocysteine lyase [EC:4.4.1.21]#Metabolism_Overview_01230 Biosynthesis of amino acids [PATH:ko01230]_luxS; S-ribosylhomocysteine lyase [EC:4.4.1.21]
+
+K00768	Metabolism_Metabolism of cofactors and vitamins_00860 Porphyrin and chlorophyll metabolism [PATH:ko00860]_E2.4.2.21, cobU, cobT; nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase [EC:2.4.2.21]
+
+K00798	Metabolism_Metabolism of cofactors and vitamins_00860 Porphyrin and chlorophyll metabolism [PATH:ko00860]_MMAB, pduO; cob(I)alamin adenosyltransferase [EC:2.5.1.17]
+
+K02825	Metabolism_Nucleotide metabolism_00240 Pyrimidine metabolism [PATH:ko00240]_pyrR; pyrimidine operon attenuation protein / uracil phosphoribosyltransferase [EC:2.4.2.9]
+
+K02619	Metabolism_Metabolism of cofactors and vitamins_00790 Folate biosynthesis [PATH:ko00790]_pabC; 4-amino-4-deoxychorismate lyase [EC:4.1.3.38]
+
+K02878	Genetic Information Processing_Translation_03010 Ribosome [PATH:ko03010]_RP-L16, MRPL16, rplP; large subunit ribosomal protein L16
+
+K01609	Metabolism_Amino acid metabolism_00400 Phenylalanine, tyrosine and tryptophan biosynthesis [PATH:ko00400]_trpC; indole-3-glycerol phosphate synthase [EC:4.1.1.48]#Metabolism_Overview_01230 Biosynthesis of amino acids [PATH:ko01230]_trpC; indole-3-glycerol phosphate synthase [EC:4.1.1.48]
+
+K00762	Metabolism_Nucleotide metabolism_00240 Pyrimidine metabolism [PATH:ko00240]_pyrE; orotate phosphoribosyltransferase [EC:2.4.2.10]
+
+K02421	Cellular Processes_Cell motility_02040 Flagellar assembly [PATH:ko02040]_fliR; flagellar biosynthetic protein FliR
+
+K01995	Environmental Information Processing_Membrane transport_02010 ABC transporters [PATH:ko02010]_livG; branched-chain amino acid transport system ATP-binding protein
+
+K02020	Environmental Information Processing_Membrane transport_02010 ABC transporters [PATH:ko02010]_modA; molybdate transport system substrate-binding protein
+
+K02867	Genetic Information Processing_Translation_03010 Ribosome [PATH:ko03010]_RP-L11, MRPL11, rplK; large subunit ribosomal protein L11
+
+K08591	Metabolism_Lipid metabolism_00561 Glycerolipid metabolism [PATH:ko00561]_plsY; glycerol-3-phosphate acyltransferase PlsY [EC:2.3.1.15]#Metabolism_Lipid metabolism_00564 Glycerophospholipid metabolism [PATH:ko00564]_plsY; glycerol-3-phosphate acyltransferase PlsY [EC:2.3.1.15]
+
+K02828	Metabolism_Energy metabolism_00190 Oxidative phosphorylation [PATH:ko00190]_qoxC; cytochrome aa3-600 menaquinol oxidase subunit III [EC:1.10.3.12]
+
+K08680	Metabolism_Metabolism of cofactors and vitamins_00130 Ubiquinone and other terpenoid-quinone biosynthesis [PATH:ko00130]_menH; 2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase [EC:4.2.99.20]
+
+K00286	Metabolism_Amino acid metabolism_00330 Arginine and proline metabolism [PATH:ko00330]_E1.5.1.2, proC; pyrroline-5-carboxylate reductase [EC:1.5.1.2]#Metabolism_Overview_01230 Biosynthesis of amino acids [PATH:ko01230]_E1.5.1.2, proC; pyrroline-5-carboxylate reductase [EC:1.5.1.2]
+
+K17462	Metabolism_Amino acid metabolism_00270 Cysteine and methionine metabolism [PATH:ko00270]_yrrT; putative AdoMet-dependent methyltransferase [EC:2.1.1.-]#Metabolism_Overview_01230 Biosynthesis of amino acids [PATH:ko01230]_yrrT; putative AdoMet-dependent methyltransferase [EC:2.1.1.-]
+
+K01770	Metabolism_Metabolism of terpenoids and polyketides_00900 Terpenoid backbone biosynthesis [PATH:ko00900]_ispF; 2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase [EC:4.6.1.12]
+
+K00793	Metabolism_Metabolism of cofactors and vitamins_00740 Riboflavin metabolism [PATH:ko00740]_ribE, RIB5; riboflavin synthase [EC:2.5.1.9]
+
+K02950	Genetic Information Processing_Translation_03010 Ribosome [PATH:ko03010]_RP-S12, MRPS12, rpsL; small subunit ribosomal protein S12
+
+K00991	Metabolism_Metabolism of terpenoids and polyketides_00900 Terpenoid backbone biosynthesis [PATH:ko00900]_ispD; 2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase [EC:2.7.7.60]
+
+K04486	Metabolism_Amino acid metabolism_00340 Histidine metabolism [PATH:ko00340]_E3.1.3.15B; histidinol-phosphatase (PHP family) [EC:3.1.3.15]#Metabolism_Overview_01230 Biosynthesis of amino acids [PATH:ko01230]_E3.1.3.15B; histidinol-phosphatase (PHP family) [EC:3.1.3.15]
+
+K16881	Metabolism_Carbohydrate metabolism_00051 Fructose and mannose metabolism [PATH:ko00051]_K16881; mannose-1-phosphate guanylyltransferase / phosphomannomutase [EC:2.7.7.13 5.4.2.8]#Metabolism_Carbohydrate metabolism_00520 Amino sugar and nucleotide sugar metabolism [PATH:ko00520]_K16881; mannose-1-phosphate guanylyltransferase / phosphomannomutase [EC:2.7.7.13 5.4.2.8]
+
+K02871	Genetic Information Processing_Translation_03010 Ribosome [PATH:ko03010]_RP-L13, MRPL13, rplM; large subunit ribosomal protein L13
+
+K02018	Environmental Information Processing_Membrane transport_02010 ABC transporters [PATH:ko02010]_modB; molybdate transport system permease protein
+
+K11692	Environmental Information Processing_Signal transduction_02020 Two-component system [PATH:ko02020]_K11692, dctR; two-component system, CitB family, response regulator DctR
+
+K00797	Metabolism_Amino acid metabolism_00270 Cysteine and methionine metabolism [PATH:ko00270]_speE, SRM; spermidine synthase [EC:2.5.1.16]#Metabolism_Amino acid metabolism_00330 Arginine and proline metabolism [PATH:ko00330]_speE, SRM; spermidine synthase [EC:2.5.1.16]#Metabolism_Metabolism of other amino acids_00410 beta-Alanine metabolism [PATH:ko00410]_speE, SRM; spermidine synthase [EC:2.5.1.16]#Metabolism_Metabolism of other amino acids_00480 Glutathione metabolism [PATH:ko00480]_speE, SRM; spermidine synthase [EC:2.5.1.16]
+
+K00954	Metabolism_Metabolism of cofactors and vitamins_00770 Pantothenate and CoA biosynthesis [PATH:ko00770]_E2.7.7.3A, coaD, kdtB; pantetheine-phosphate adenylyltransferase [EC:2.7.7.3]
+
+K02501	Metabolism_Amino acid metabolism_00340 Histidine metabolism [PATH:ko00340]_hisH; glutamine amidotransferase [EC:2.4.2.-]#Metabolism_Overview_01230 Biosynthesis of amino acids [PATH:ko01230]_hisH; glutamine amidotransferase [EC:2.4.2.-]
+
+K02397	Cellular Processes_Cell motility_02040 Flagellar assembly [PATH:ko02040]_flgL; flagellar hook-associated protein 3 FlgL
+
+K01588	Metabolism_Nucleotide metabolism_00230 Purine metabolism [PATH:ko00230]_purE; 5-(carboxyamino)imidazole ribonucleotide mutase [EC:5.4.99.18]
+
+K01704	Metabolism_Amino acid metabolism_00290 Valine, leucine and isoleucine biosynthesis [PATH:ko00290]_leuD; 3-isopropylmalate/(R)-2-methylmalate dehydratase small subunit [EC:4.2.1.33 4.2.1.35]#Metabolism_Carbohydrate metabolism_00660 C5-Branched dibasic acid metabolism [PATH:ko00660]_leuD; 3-isopropylmalate/(R)-2-methylmalate dehydratase small subunit [EC:4.2.1.33 4.2.1.35]#Metabolism_Overview_01210 2-Oxocarboxylic acid metabolism [PATH:ko01210]_leuD; 3-isopropylmalate/(R)-2-methylmalate dehydratase small subunit [EC:4.2.1.33 4.2.1.35]#Metabolism_Overview_01230 Biosynthesis of amino acids [PATH:ko01230]_leuD; 3-isopropylmalate/(R)-2-methylmalate dehydratase small subunit [EC:4.2.1.33 4.2.1.35]
+
+K01653	Metabolism_Amino acid metabolism_00290 Valine, leucine and isoleucine biosynthesis [PATH:ko00290]_E2.2.1.6S, ilvH, ilvN; acetolactate synthase I/III small subunit [EC:2.2.1.6]#Metabolism_Carbohydrate metabolism_00650 Butanoate metabolism [PATH:ko00650]_E2.2.1.6S, ilvH, ilvN; acetolactate synthase I/III small subunit [EC:2.2.1.6]#Metabolism_Carbohydrate metabolism_00660 C5-Branched dibasic acid metabolism [PATH:ko00660]_E2.2.1.6S, ilvH, ilvN; acetolactate synthase I/III small subunit [EC:2.2.1.6]#Metabolism_Metabolism of cofactors and vitamins_00770 Pantothenate and CoA biosynthesis [PATH:ko00770]_E2.2.1.6S, ilvH, ilvN; acetolactate synthase I/III small subunit [EC:2.2.1.6]#Metabolism_Overview_01210 2-Oxocarboxylic acid metabolism [PATH:ko01210]_E2.2.1.6S, ilvH, ilvN; acetolactate synthase I/III small subunit [EC:2.2.1.6]#Metabolism_Overview_01230 Biosynthesis of amino acids [PATH:ko01230]_E2.2.1.6S, ilvH, ilvN; acetolactate synthase I/III small subunit [EC:2.2.1.6]
+
+K01515	Metabolism_Nucleotide metabolism_00230 Purine metabolism [PATH:ko00230]_nudF; ADP-ribose pyrophosphatase [EC:3.6.1.13]
+
+K01493	Metabolism_Nucleotide metabolism_00240 Pyrimidine metabolism [PATH:ko00240]_comEB; dCMP deaminase [EC:3.5.4.12]
+
+K02392	Cellular Processes_Cell motility_02040 Flagellar assembly [PATH:ko02040]_flgG; flagellar basal-body rod protein FlgG
+
+K00943	Metabolism_Nucleotide metabolism_00240 Pyrimidine metabolism [PATH:ko00240]_tmk, DTYMK; dTMP kinase [EC:2.7.4.9]
+
+K00969	Metabolism_Metabolism of cofactors and vitamins_00760 Nicotinate and nicotinamide metabolism [PATH:ko00760]_nadD; nicotinate-nucleotide adenylyltransferase [EC:2.7.7.18]
+
+K01997	Environmental Information Processing_Membrane transport_02010 ABC transporters [PATH:ko02010]_livH; branched-chain amino acid transport system permease protein
+
+K02876	Genetic Information Processing_Translation_03010 Ribosome [PATH:ko03010]_RP-L15, MRPL15, rplO; large subunit ribosomal protein L15
+
+K02864	Genetic Information Processing_Translation_03010 Ribosome [PATH:ko03010]_RP-L10, MRPL10, rplJ; large subunit ribosomal protein L10
+
+K01613	Metabolism_Lipid metabolism_00564 Glycerophospholipid metabolism [PATH:ko00564]_psd, PISD; phosphatidylserine decarboxylase [EC:4.1.1.65]
+
+K00175	Metabolism_Carbohydrate metabolism_00020 Citrate cycle (TCA cycle) [PATH:ko00020]_korB, oorB; 2-oxoglutarate ferredoxin oxidoreductase subunit beta [EC:1.2.7.3]#Metabolism_Energy metabolism_00720 Carbon fixation pathways in prokaryotes [PATH:ko00720]_korB, oorB; 2-oxoglutarate ferredoxin oxidoreductase subunit beta [EC:1.2.7.3]#Metabolism_Overview_01200 Carbon metabolism [PATH:ko01200]_korB, oorB; 2-oxoglutarate ferredoxin oxidoreductase subunit beta [EC:1.2.7.3]
+
+K01808	Metabolism_Carbohydrate metabolism_00030 Pentose phosphate pathway [PATH:ko00030]_rpiB; ribose 5-phosphate isomerase B [EC:5.3.1.6]#Metabolism_Carbohydrate metabolism_00051 Fructose and mannose metabolism [PATH:ko00051]_rpiB; ribose 5-phosphate isomerase B [EC:5.3.1.6]#Metabolism_Energy metabolism_00710 Carbon fixation in photosynthetic organisms [PATH:ko00710]_rpiB; ribose 5-phosphate isomerase B [EC:5.3.1.6]#Metabolism_Overview_01200 Carbon metabolism [PATH:ko01200]_rpiB; ribose 5-phosphate isomerase B [EC:5.3.1.6]#Metabolism_Overview_01230 Biosynthesis of amino acids [PATH:ko01230]_rpiB; ribose 5-phosphate isomerase B [EC:5.3.1.6]
+
+K03470	Genetic Information Processing_Replication and repair_03030 DNA replication [PATH:ko03030]_rnhB; ribonuclease HII [EC:3.1.26.4]
+
+K02372	Metabolism_Lipid metabolism_00061 Fatty acid biosynthesis [PATH:ko00061]_fabZ; 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [EC:4.2.1.59]#Metabolism_Metabolism of cofactors and vitamins_00780 Biotin metabolism [PATH:ko00780]_fabZ; 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [EC:4.2.1.59]#Metabolism_Overview_01212 Fatty acid metabolism [PATH:ko01212]_fabZ; 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [EC:4.2.1.59]
+
+K11175	Metabolism_Metabolism of cofactors and vitamins_00670 One carbon pool by folate [PATH:ko00670]_purN; phosphoribosylglycinamide formyltransferase 1 [EC:2.1.2.2]#Metabolism_Nucleotide metabolism_00230 Purine metabolism [PATH:ko00230]_purN; phosphoribosylglycinamide formyltransferase 1 [EC:2.1.2.2]
+
+K03406	Cellular Processes_Cell motility_02030 Bacterial chemotaxis [PATH:ko02030]_mcp; methyl-accepting chemotaxis protein#Environmental Information Processing_Signal transduction_02020 Two-component system [PATH:ko02020]_mcp; methyl-accepting chemotaxis protein
+
+K02994	Genetic Information Processing_Translation_03010 Ribosome [PATH:ko03010]_RP-S8, rpsH; small subunit ribosomal protein S8
+
+K00940	Metabolism_Nucleotide metabolism_00230 Purine metabolism [PATH:ko00230]_ndk, NME; nucleoside-diphosphate kinase [EC:2.7.4.6]#Metabolism_Nucleotide metabolism_00240 Pyrimidine metabolism [PATH:ko00240]_ndk, NME; nucleoside-diphosphate kinase [EC:2.7.4.6]
+
+K03111	Genetic Information Processing_Replication and repair_03030 DNA replication [PATH:ko03030]_ssb; single-strand DNA-binding protein#Genetic Information Processing_Replication and repair_03430 Mismatch repair [PATH:ko03430]_ssb; single-strand DNA-binding protein#Genetic Information Processing_Replication and repair_03440 Homologous recombination [PATH:ko03440]_ssb; single-strand DNA-binding protein
+
+K02428	Metabolism_Nucleotide metabolism_00230 Purine metabolism [PATH:ko00230]_rdgB; XTP/dITP diphosphohydrolase [EC:3.6.1.66]
+
+K00949	Metabolism_Metabolism of cofactors and vitamins_00730 Thiamine metabolism [PATH:ko00730]_thiN, TPK1, THI80; thiamine pyrophosphokinase [EC:2.7.6.2]
+
+K02948	Genetic Information Processing_Translation_03010 Ribosome [PATH:ko03010]_RP-S11, MRPS11, rpsK; small subunit ribosomal protein S11
+
+K00087	Metabolism_Nucleotide metabolism_00230 Purine metabolism [PATH:ko00230]_ygeS, xdhA; xanthine dehydrogenase molybdenum-binding subunit [EC:1.17.1.4]
+
+K02227	Metabolism_Metabolism of cofactors and vitamins_00860 Porphyrin and chlorophyll metabolism [PATH:ko00860]_cbiB, cobD; adenosylcobinamide-phosphate synthase [EC:6.3.1.10]
+
+K00891	Metabolism_Amino acid metabolism_00400 Phenylalanine, tyrosine and tryptophan biosynthesis [PATH:ko00400]_E2.7.1.71, aroK, aroL; shikimate kinase [EC:2.7.1.71]#Metabolism_Overview_01230 Biosynthesis of amino acids [PATH:ko01230]_E2.7.1.71, aroK, aroL; shikimate kinase [EC:2.7.1.71]
+
+K01611	Metabolism_Amino acid metabolism_00270 Cysteine and methionine metabolism [PATH:ko00270]_speD, AMD1; S-adenosylmethionine decarboxylase [EC:4.1.1.50]#Metabolism_Amino acid metabolism_00330 Arginine and proline metabolism [PATH:ko00330]_speD, AMD1; S-adenosylmethionine decarboxylase [EC:4.1.1.50]
+
+K02996	Genetic Information Processing_Translation_03010 Ribosome [PATH:ko03010]_RP-S9, MRPS9, rpsI; small subunit ribosomal protein S9
+
+K07697	Environmental Information Processing_Signal transduction_02020 Two-component system [PATH:ko02020]_kinB; two-component system, sporulation sensor kinase B [EC:2.7.13.3]
+
+K03637	Genetic Information Processing_Folding, sorting and degradation_04122 Sulfur relay system [PATH:ko04122]_moaC; cyclic pyranopterin phosphate synthase [EC:4.1.99.18]#Metabolism_Metabolism of cofactors and vitamins_00790 Folate biosynthesis [PATH:ko00790]_moaC; cyclic pyranopterin phosphate synthase [EC:4.1.99.18]
+
+K03550	Genetic Information Processing_Replication and repair_03440 Homologous recombination [PATH:ko03440]_ruvA; holliday junction DNA helicase RuvA [EC:3.6.4.12]
+
+K02392	Cellular Processes_Cell motility_02040 Flagellar assembly [PATH:ko02040]_flgG; flagellar basal-body rod protein FlgG
+
+K02939	Genetic Information Processing_Translation_03010 Ribosome [PATH:ko03010]_RP-L9, MRPL9, rplI; large subunit ribosomal protein L9
+
+K00859	Metabolism_Metabolism of cofactors and vitamins_00770 Pantothenate and CoA biosynthesis [PATH:ko00770]_coaE; dephospho-CoA kinase [EC:2.7.1.24]
+
+K02952	Genetic Information Processing_Translation_03010 Ribosome [PATH:ko03010]_RP-S13, rpsM; small subunit ribosomal protein S13
+
+K05846	Environmental Information Processing_Membrane transport_02010 ABC transporters [PATH:ko02010]_opuBD; osmoprotectant transport system permease protein
+
+K01126	Metabolism_Lipid metabolism_00564 Glycerophospholipid metabolism [PATH:ko00564]_E3.1.4.46, glpQ, ugpQ; glycerophosphoryl diester phosphodiesterase [EC:3.1.4.46]
+
+K03794	Metabolism_Metabolism of cofactors and vitamins_00860 Porphyrin and chlorophyll metabolism [PATH:ko00860]_sirB; sirohydrochlorin ferrochelatase [EC:4.99.1.4]
+
+K03589	Cellular Processes_Cell growth and death_04112 Cell cycle - Caulobacter [PATH:ko04112]_ftsQ; cell division protein FtsQ
+
+K02879	Genetic Information Processing_Translation_03010 Ribosome [PATH:ko03010]_RP-L17, MRPL17, rplQ; large subunit ribosomal protein L17
+
+K01737	Metabolism_Metabolism of cofactors and vitamins_00790 Folate biosynthesis [PATH:ko00790]_queD, ptpS, PTS; 6-pyruvoyltetrahydropterin/6-carboxytetrahydropterin synthase [EC:4.2.3.12 4.1.2.50]
+
+K09815	Environmental Information Processing_Membrane transport_02010 ABC transporters [PATH:ko02010]_znuA; zinc transport system substrate-binding protein
+
+K02874	Genetic Information Processing_Translation_03010 Ribosome [PATH:ko03010]_RP-L14, MRPL14, rplN; large subunit ribosomal protein L14
+
+K07697	Environmental Information Processing_Signal transduction_02020 Two-component system [PATH:ko02020]_kinB; two-component system, sporulation sensor kinase B [EC:2.7.13.3]
+
+K02437	Metabolism_Amino acid metabolism_00260 Glycine, serine and threonine metabolism [PATH:ko00260]_gcvH, GCSH; glycine cleavage system H protein#Metabolism_Carbohydrate metabolism_00630 Glyoxylate and dicarboxylate metabolism [PATH:ko00630]_gcvH, GCSH; glycine cleavage system H protein
+
+K00950	Metabolism_Metabolism of cofactors and vitamins_00790 Folate biosynthesis [PATH:ko00790]_folK; 2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase [EC:2.7.6.3]
+
+K07658	Environmental Information Processing_Signal transduction_02020 Two-component system [PATH:ko02020]_phoB1, phoP; two-component system, OmpR family, alkaline phosphatase synthesis response regulator PhoP
+
+K03410	Cellular Processes_Cell motility_02030 Bacterial chemotaxis [PATH:ko02030]_cheC; chemotaxis protein CheC
+
+K02109	Metabolism_Energy metabolism_00190 Oxidative phosphorylation [PATH:ko00190]_ATPF0B, atpF; F-type H+-transporting ATPase subunit b#Metabolism_Energy metabolism_00195 Photosynthesis [PATH:ko00195]_ATPF0B, atpF; F-type H+-transporting ATPase subunit b
+
+K02884	Genetic Information Processing_Translation_03010 Ribosome [PATH:ko03010]_RP-L19, MRPL19, rplS; large subunit ribosomal protein L19
+
+K02887	Genetic Information Processing_Translation_03010 Ribosome [PATH:ko03010]_RP-L20, MRPL20, rplT; large subunit ribosomal protein L20
+
+K01734	Metabolism_Carbohydrate metabolism_00640 Propanoate metabolism [PATH:ko00640]_mgsA; methylglyoxal synthase [EC:4.2.3.3]
+
+K02388	Cellular Processes_Cell motility_02040 Flagellar assembly [PATH:ko02040]_flgC; flagellar basal-body rod protein FlgC
+
+K02777	Environmental Information Processing_Membrane transport_02060 Phosphotransferase system (PTS) [PATH:ko02060]_PTS-Glc-EIIA, crr; PTS system, glucose-specific IIA component [EC:2.7.1.69]#Metabolism_Carbohydrate metabolism_00010 Glycolysis / Gluconeogenesis [PATH:ko00010]_PTS-Glc-EIIA, crr; PTS system, glucose-specific IIA component [EC:2.7.1.69]#Metabolism_Carbohydrate metabolism_00500 Starch and sucrose metabolism [PATH:ko00500]_PTS-Glc-EIIA, crr; PTS system, glucose-specific IIA component [EC:2.7.1.69]#Metabolism_Carbohydrate metabolism_00520 Amino sugar and nucleotide sugar metabolism [PATH:ko00520]_PTS-Glc-EIIA, crr; PTS system, glucose-specific IIA component [EC:2.7.1.69]
+
+K06209	Metabolism_Amino acid metabolism_00400 Phenylalanine, tyrosine and tryptophan biosynthesis [PATH:ko00400]_pheB; chorismate mutase [EC:5.4.99.5]#Metabolism_Overview_01230 Biosynthesis of amino acids [PATH:ko01230]_pheB; chorismate mutase [EC:5.4.99.5]
+
+K08967	Metabolism_Amino acid metabolism_00270 Cysteine and methionine metabolism [PATH:ko00270]_mtnD, mtnZ, ADI1; 1,2-dihydroxy-3-keto-5-methylthiopentene dioxygenase [EC:1.13.11.53 1.13.11.54]
+
+K02890	Genetic Information Processing_Translation_03010 Ribosome [PATH:ko03010]_RP-L22, MRPL22, rplV; large subunit ribosomal protein L22
+
+K01126	Metabolism_Lipid metabolism_00564 Glycerophospholipid metabolism [PATH:ko00564]_E3.1.4.46, glpQ, ugpQ; glycerophosphoryl diester phosphodiesterase [EC:3.1.4.46]
+
+K03413	Cellular Processes_Cell motility_02030 Bacterial chemotaxis [PATH:ko02030]_cheY; two-component system, chemotaxis family, response regulator CheY#Environmental Information Processing_Signal transduction_02020 Two-component system [PATH:ko02020]_cheY; two-component system, chemotaxis family, response regulator CheY
+
+K01489	Metabolism_Nucleotide metabolism_00240 Pyrimidine metabolism [PATH:ko00240]_cdd, CDA; cytidine deaminase [EC:3.5.4.5]#Metabolism_Xenobiotics biodegradation and metabolism_00983 Drug metabolism - other enzymes [PATH:ko00983]_cdd, CDA; cytidine deaminase [EC:3.5.4.5]
+
+K09816	Environmental Information Processing_Membrane transport_02010 ABC transporters [PATH:ko02010]_znuB; zinc transport system permease protein
+
+K02897	Genetic Information Processing_Translation_03010 Ribosome [PATH:ko03010]_RP-L25, rplY; large subunit ribosomal protein L25
+
+K01676	Metabolism_Carbohydrate metabolism_00020 Citrate cycle (TCA cycle) [PATH:ko00020]_E4.2.1.2A, fumA, fumB; fumarate hydratase, class I [EC:4.2.1.2]#Metabolism_Carbohydrate metabolism_00620 Pyruvate metabolism [PATH:ko00620]_E4.2.1.2A, fumA, fumB; fumarate hydratase, class I [EC:4.2.1.2]#Metabolism_Energy metabolism_00720 Carbon fixation pathways in prokaryotes [PATH:ko00720]_E4.2.1.2A, fumA, fumB; fumarate hydratase, class I [EC:4.2.1.2]#Metabolism_Overview_01200 Carbon metabolism [PATH:ko01200]_E4.2.1.2A, fumA, fumB; fumarate hydratase, class I [EC:4.2.1.2]
+
+K02946	Genetic Information Processing_Translation_03010 Ribosome [PATH:ko03010]_RP-S10, MRPS10, rpsJ; small subunit ribosomal protein S10
+
+K02114	Metabolism_Energy metabolism_00190 Oxidative phosphorylation [PATH:ko00190]_ATPF1E, atpC; F-type H+-transporting ATPase subunit epsilon#Metabolism_Energy metabolism_00195 Photosynthesis [PATH:ko00195]_ATPF1E, atpC; F-type H+-transporting ATPase subunit epsilon
+
+K00287	Metabolism_Metabolism of cofactors and vitamins_00670 One carbon pool by folate [PATH:ko00670]_folA; dihydrofolate reductase [EC:1.5.1.3]#Metabolism_Metabolism of cofactors and vitamins_00790 Folate biosynthesis [PATH:ko00790]_folA; dihydrofolate reductase [EC:1.5.1.3]
+
+K03469	Genetic Information Processing_Replication and repair_03030 DNA replication [PATH:ko03030]_rnhA, RNASEH1; ribonuclease HI [EC:3.1.26.4]
+
+K07636	Environmental Information Processing_Signal transduction_02020 Two-component system [PATH:ko02020]_phoR; two-component system, OmpR family, phosphate regulon sensor histidine kinase PhoR [EC:2.7.13.3]
+
+K02490	Environmental Information Processing_Signal transduction_02020 Two-component system [PATH:ko02020]_spo0F; two-component system, response regulator, stage 0 sporulation protein F
+
+K03823	Metabolism_Metabolism of other amino acids_00440 Phosphonate and phosphinate metabolism [PATH:ko00440]_pat; phosphinothricin acetyltransferase [EC:2.3.1.183]
+
+K16921	Environmental Information Processing_Membrane transport_02010 ABC transporters [PATH:ko02010]_ytrB; acetoin utilization transport system ATP-binding protein
+
+K01579	Metabolism_Metabolism of cofactors and vitamins_00770 Pantothenate and CoA biosynthesis [PATH:ko00770]_panD; aspartate 1-decarboxylase [EC:4.1.1.11]#Metabolism_Metabolism of other amino acids_00410 beta-Alanine metabolism [PATH:ko00410]_panD; aspartate 1-decarboxylase [EC:4.1.1.11]
+
+K01424	Metabolism_Amino acid metabolism_00250 Alanine, aspartate and glutamate metabolism [PATH:ko00250]_E3.5.1.1, ansA, ansB; L-asparaginase [EC:3.5.1.1]#Metabolism_Metabolism of other amino acids_00460 Cyanoamino acid metabolism [PATH:ko00460]_E3.5.1.1, ansA, ansB; L-asparaginase [EC:3.5.1.1]
+
+K02935	Genetic Information Processing_Translation_03010 Ribosome [PATH:ko03010]_RP-L7, MRPL12, rplL; large subunit ribosomal protein L7/L12
+
+K01916	Metabolism_Metabolism of cofactors and vitamins_00760 Nicotinate and nicotinamide metabolism [PATH:ko00760]_nadE; NAD+ synthase [EC:6.3.1.5]
+
+K10440	Environmental Information Processing_Membrane transport_02010 ABC transporters [PATH:ko02010]_rbsC; ribose transport system permease protein
+
+K02113	Metabolism_Energy metabolism_00190 Oxidative phosphorylation [PATH:ko00190]_ATPF1D, atpH; F-type H+-transporting ATPase subunit delta#Metabolism_Energy metabolism_00195 Photosynthesis [PATH:ko00195]_ATPF1D, atpH; F-type H+-transporting ATPase subunit delta
+
+K13985	Organismal Systems_Nervous system_04723 Retrograde endocannabinoid signaling [PATH:ko04723]_NAPEPLD; N-acyl-phosphatidylethanolamine-hydrolysing phospholipase D [EC:3.1.4.54]
+
+K03523	Environmental Information Processing_Membrane transport_02010 ABC transporters [PATH:ko02010]_bioY; biotin transport system substrate-specific component
+
+K02881	Genetic Information Processing_Translation_03010 Ribosome [PATH:ko03010]_RP-L18, MRPL18, rplR; large subunit ribosomal protein L18
+
+K01507	Metabolism_Energy metabolism_00190 Oxidative phosphorylation [PATH:ko00190]_ppa; inorganic pyrophosphatase [EC:3.6.1.1]
+
+K00059	Metabolism_Lipid metabolism_00061 Fatty acid biosynthesis [PATH:ko00061]_fabG; 3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100]#Metabolism_Lipid metabolism_01040 Biosynthesis of unsaturated fatty acids [PATH:ko01040]_fabG; 3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100]#Metabolism_Metabolism of cofactors and vitamins_00780 Biotin metabolism [PATH:ko00780]_fabG; 3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100]#Metabolism_Overview_01212 Fatty acid metabolism [PATH:ko01212]_fabG; 3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100]
+
+K02895	Genetic Information Processing_Translation_03010 Ribosome [PATH:ko03010]_RP-L24, MRPL24, rplX; large subunit ribosomal protein L24
+
+K03406	Cellular Processes_Cell motility_02030 Bacterial chemotaxis [PATH:ko02030]_mcp; methyl-accepting chemotaxis protein#Environmental Information Processing_Signal transduction_02020 Two-component system [PATH:ko02020]_mcp; methyl-accepting chemotaxis protein
+
+K02160	Metabolism_Carbohydrate metabolism_00620 Pyruvate metabolism [PATH:ko00620]_accB, bccP; acetyl-CoA carboxylase biotin carboxyl carrier protein#Metabolism_Carbohydrate metabolism_00640 Propanoate metabolism [PATH:ko00640]_accB, bccP; acetyl-CoA carboxylase biotin carboxyl carrier protein#Metabolism_Energy metabolism_00720 Carbon fixation pathways in prokaryotes [PATH:ko00720]_accB, bccP; acetyl-CoA carboxylase biotin carboxyl carrier protein#Metabolism_Lipid metabolism_00061 Fatty acid biosynthesis [PATH:ko00061]_accB, bccP; acetyl-CoA carboxylase biotin carboxyl carrier protein#Metabolism_Metabolism of terpenoids and polyketides_00253 Tetracycline biosynthesis [PATH:ko00253]_accB, bccP; acetyl-CoA carboxylase biotin carboxyl carrier protein#Metabolism_Overview_01200 Carbon metabolism [PATH:ko01200]_accB, bccP; acetyl-CoA carboxylase biotin carboxyl carrier protein#Metabolism_Overview_01212 Fatty acid metabolism [PATH:ko01212]_accB, bccP; acetyl-CoA carboxylase biotin carboxyl carrier protein
+
+K01998	Environmental Information Processing_Membrane transport_02010 ABC transporters [PATH:ko02010]_livM; branched-chain amino acid transport system permease protein
+
+K02899	Genetic Information Processing_Translation_03010 Ribosome [PATH:ko03010]_RP-L27, MRPL27, rpmA; large subunit ribosomal protein L27
+
+K03411	Cellular Processes_Cell motility_02030 Bacterial chemotaxis [PATH:ko02030]_cheD; chemotaxis protein CheD [EC:3.5.1.44]
+
+K04565	Cellular Processes_Transport and catabolism_04146 Peroxisome [PATH:ko04146]_SOD1; superoxide dismutase, Cu-Zn family [EC:1.15.1.1]#Human Diseases_Neurodegenerative diseases_05014 Amyotrophic lateral sclerosis (ALS) [PATH:ko05014]_SOD1; superoxide dismutase, Cu-Zn family [EC:1.15.1.1]#Human Diseases_Neurodegenerative diseases_05016 Huntington's disease [PATH:ko05016]_SOD1; superoxide dismutase, Cu-Zn family [EC:1.15.1.1]#Human Diseases_Neurodegenerative diseases_05020 Prion diseases [PATH:ko05020]_SOD1; superoxide dismutase, Cu-Zn family [EC:1.15.1.1]
+
+K02965	Genetic Information Processing_Translation_03010 Ribosome [PATH:ko03010]_RP-S19, rpsS; small subunit ribosomal protein S19
+
+K00088	Metabolism_Nucleotide metabolism_00230 Purine metabolism [PATH:ko00230]_guaB; IMP dehydrogenase [EC:1.1.1.205]#Metabolism_Xenobiotics biodegradation and metabolism_00983 Drug metabolism - other enzymes [PATH:ko00983]_guaB; IMP dehydrogenase [EC:1.1.1.205]
+
+K03785	Metabolism_Amino acid metabolism_00400 Phenylalanine, tyrosine and tryptophan biosynthesis [PATH:ko00400]_aroD; 3-dehydroquinate dehydratase I [EC:4.2.1.10]#Metabolism_Overview_01230 Biosynthesis of amino acids [PATH:ko01230]_aroD; 3-dehydroquinate dehydratase I [EC:4.2.1.10]
+
+K02422	Cellular Processes_Cell motility_02040 Flagellar assembly [PATH:ko02040]_fliS; flagellar protein FliS
+
+K02888	Genetic Information Processing_Translation_03010 Ribosome [PATH:ko03010]_RP-L21, MRPL21, rplU; large subunit ribosomal protein L21
+
+K01934	Metabolism_Metabolism of cofactors and vitamins_00670 One carbon pool by folate [PATH:ko00670]_MTHFS; 5-formyltetrahydrofolate cyclo-ligase [EC:6.3.3.2]
+
+K07658	Environmental Information Processing_Signal transduction_02020 Two-component system [PATH:ko02020]_phoB1, phoP; two-component system, OmpR family, alkaline phosphatase synthesis response regulator PhoP
+
+K02959	Genetic Information Processing_Translation_03010 Ribosome [PATH:ko03010]_RP-S16, MRPS16, rpsP; small subunit ribosomal protein S16
+
+K02961	Genetic Information Processing_Translation_03010 Ribosome [PATH:ko03010]_RP-S17, MRPS17, rpsQ; small subunit ribosomal protein S17
+
+K03100	Genetic Information Processing_Folding, sorting and degradation_03060 Protein export [PATH:ko03060]_lepB; signal peptidase I [EC:3.4.21.89]
+
+K01999	Environmental Information Processing_Membrane transport_02010 ABC transporters [PATH:ko02010]_livK; branched-chain amino acid transport system substrate-binding protein
+
+K00805	Metabolism_Metabolism of terpenoids and polyketides_00900 Terpenoid backbone biosynthesis [PATH:ko00900]_hepST; heptaprenyl diphosphate synthase [EC:2.5.1.30]
+
+K02956	Genetic Information Processing_Translation_03010 Ribosome [PATH:ko03010]_RP-S15, MRPS15, rpsO; small subunit ribosomal protein S15
+
+K02892	Genetic Information Processing_Translation_03010 Ribosome [PATH:ko03010]_RP-L23, MRPL23, rplW; large subunit ribosomal protein L23
+
+K03100	Genetic Information Processing_Folding, sorting and degradation_03060 Protein export [PATH:ko03060]_lepB; signal peptidase I [EC:3.4.21.89]
+
+K03048	Genetic Information Processing_Transcription_03020 RNA polymerase [PATH:ko03020]_rpoE; DNA-directed RNA polymerase subunit delta#Metabolism_Nucleotide metabolism_00230 Purine metabolism [PATH:ko00230]_rpoE; DNA-directed RNA polymerase subunit delta#Metabolism_Nucleotide metabolism_00240 Pyrimidine metabolism [PATH:ko00240]_rpoE; DNA-directed RNA polymerase subunit delta
+
+K02990	Genetic Information Processing_Translation_03010 Ribosome [PATH:ko03010]_RP-S6, MRPS6, rpsF; small subunit ribosomal protein S6
+
+K02411	Cellular Processes_Cell motility_02040 Flagellar assembly [PATH:ko02040]_fliH; flagellar assembly protein FliH
+
+K01633	Metabolism_Metabolism of cofactors and vitamins_00790 Folate biosynthesis [PATH:ko00790]_folB; dihydroneopterin aldolase [EC:4.1.2.25]
+
+K04486	Metabolism_Amino acid metabolism_00340 Histidine metabolism [PATH:ko00340]_E3.1.3.15B; histidinol-phosphatase (PHP family) [EC:3.1.3.15]#Metabolism_Overview_01230 Biosynthesis of amino acids [PATH:ko01230]_E3.1.3.15B; histidinol-phosphatase (PHP family) [EC:3.1.3.15]
+
+K02963	Genetic Information Processing_Translation_03010 Ribosome [PATH:ko03010]_RP-S18, MRPS18, rpsR; small subunit ribosomal protein S18
+
+K06208	Metabolism_Amino acid metabolism_00400 Phenylalanine, tyrosine and tryptophan biosynthesis [PATH:ko00400]_aroH; chorismate mutase [EC:5.4.99.5]#Metabolism_Overview_01230 Biosynthesis of amino acids [PATH:ko01230]_aroH; chorismate mutase [EC:5.4.99.5]
+
+K12972	Metabolism_Amino acid metabolism_00260 Glycine, serine and threonine metabolism [PATH:ko00260]_ghrA; glyoxylate/hydroxypyruvate reductase A [EC:1.1.1.79 1.1.1.81]#Metabolism_Carbohydrate metabolism_00620 Pyruvate metabolism [PATH:ko00620]_ghrA; glyoxylate/hydroxypyruvate reductase A [EC:1.1.1.79 1.1.1.81]#Metabolism_Carbohydrate metabolism_00630 Glyoxylate and dicarboxylate metabolism [PATH:ko00630]_ghrA; glyoxylate/hydroxypyruvate reductase A [EC:1.1.1.79 1.1.1.81]
+
+K02435	Genetic Information Processing_Translation_00970 Aminoacyl-tRNA biosynthesis [PATH:ko00970]_gatC, GATC; aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit C [EC:6.3.5.6 6.3.5.7]
+
+K10810	Metabolism_Metabolism of cofactors and vitamins_00730 Thiamine metabolism [PATH:ko00730]_tenI; thiazole tautomerase (transcriptional regulator TenI) [EC:5.3.99.10]
+
+K10742	Genetic Information Processing_Replication and repair_03030 DNA replication [PATH:ko03030]_DNA2; DNA replication ATP-dependent helicase Dna2 [EC:3.6.4.12]
+
+K17103	Metabolism_Amino acid metabolism_00260 Glycine, serine and threonine metabolism [PATH:ko00260]_CHO1, pssA; CDP-diacylglycerol---serine O-phosphatidyltransferase [EC:2.7.8.8]#Metabolism_Lipid metabolism_00564 Glycerophospholipid metabolism [PATH:ko00564]_CHO1, pssA; CDP-diacylglycerol---serine O-phosphatidyltransferase [EC:2.7.8.8]
+
+K01952	Metabolism_Nucleotide metabolism_00230 Purine metabolism [PATH:ko00230]_purL, PFAS; phosphoribosylformylglycinamidine synthase [EC:6.3.5.3]
+
+K00997	Metabolism_Metabolism of cofactors and vitamins_00770 Pantothenate and CoA biosynthesis [PATH:ko00770]_acpS; holo-[acyl-carrier protein] synthase [EC:2.7.8.7]
+
+K16785	Environmental Information Processing_Membrane transport_02010 ABC transporters [PATH:ko02010]_ecfT; energy-coupling factor transport system permease protein
+
+K02387	Cellular Processes_Cell motility_02040 Flagellar assembly [PATH:ko02040]_flgB; flagellar basal-body rod protein FlgB
+
+K03408	Cellular Processes_Cell motility_02030 Bacterial chemotaxis [PATH:ko02030]_cheW; purine-binding chemotaxis protein CheW#Environmental Information Processing_Signal transduction_02020 Two-component system [PATH:ko02020]_cheW; purine-binding chemotaxis protein CheW
+
+K02277	Metabolism_Energy metabolism_00190 Oxidative phosphorylation [PATH:ko00190]_coxD, ctaF; cytochrome c oxidase subunit IV [EC:1.9.3.1]
+
+K19221	Metabolism_Metabolism of cofactors and vitamins_00860 Porphyrin and chlorophyll metabolism [PATH:ko00860]_cobA, btuR; cob(I)alamin adenosyltransferase [EC:2.5.1.17]
+
+K05847	Environmental Information Processing_Membrane transport_02010 ABC transporters [PATH:ko02010]_opuA; osmoprotectant transport system ATP-binding protein
+
+K02418	Cellular Processes_Cell motility_02040 Flagellar assembly [PATH:ko02040]_fliOZ, fliO; flagellar protein FliO/FliZ
+
+K02954	Genetic Information Processing_Translation_03010 Ribosome [PATH:ko03010]_RP-S14, MRPS14, rpsN; small subunit ribosomal protein S14
+
+K03210	Environmental Information Processing_Membrane transport_03070 Bacterial secretion system [PATH:ko03070]_yajC; preprotein translocase subunit YajC#Genetic Information Processing_Folding, sorting and degradation_03060 Protein export [PATH:ko03060]_yajC; preprotein translocase subunit YajC
+
+K03666	Genetic Information Processing_Folding, sorting and degradation_03018 RNA degradation [PATH:ko03018]_hfq; host factor-I protein
+
+K02420	Cellular Processes_Cell motility_02040 Flagellar assembly [PATH:ko02040]_fliQ; flagellar biosynthetic protein FliQ
+
+K06375	Environmental Information Processing_Signal transduction_02020 Two-component system [PATH:ko02020]_spo0B; stage 0 sporulation protein B (sporulation initiation phosphotransferase) [EC:2.7.-.-]
+
+K02909	Genetic Information Processing_Translation_03010 Ribosome [PATH:ko03010]_RP-L31, rpmE; large subunit ribosomal protein L31
+
+K02413	Cellular Processes_Cell motility_02040 Flagellar assembly [PATH:ko02040]_fliJ; flagellar FliJ protein
+
+K02904	Genetic Information Processing_Translation_03010 Ribosome [PATH:ko03010]_RP-L29, rpmC; large subunit ribosomal protein L29
+
+K15634	Metabolism_Amino acid metabolism_00260 Glycine, serine and threonine metabolism [PATH:ko00260]_gpmB; probable phosphoglycerate mutase [EC:5.4.2.12]#Metabolism_Carbohydrate metabolism_00010 Glycolysis / Gluconeogenesis [PATH:ko00010]_gpmB; probable phosphoglycerate mutase [EC:5.4.2.12]#Metabolism_Energy metabolism_00680 Methane metabolism [PATH:ko00680]_gpmB; probable phosphoglycerate mutase [EC:5.4.2.12]#Metabolism_Overview_01200 Carbon metabolism [PATH:ko01200]_gpmB; probable phosphoglycerate mutase [EC:5.4.2.12]#Metabolism_Overview_01230 Biosynthesis of amino acids [PATH:ko01230]_gpmB; probable phosphoglycerate mutase [EC:5.4.2.12]
+
+K02916	Genetic Information Processing_Translation_03010 Ribosome [PATH:ko03010]_RP-L35, MRPL35, rpmI; large subunit ribosomal protein L35
+
+K01692	Metabolism_Amino acid metabolism_00280 Valine, leucine and isoleucine degradation [PATH:ko00280]_paaF, echA; enoyl-CoA hydratase [EC:4.2.1.17]#Metabolism_Amino acid metabolism_00310 Lysine degradation [PATH:ko00310]_paaF, echA; enoyl-CoA hydratase [EC:4.2.1.17]#Metabolism_Amino acid metabolism_00360 Phenylalanine metabolism [PATH:ko00360]_paaF, echA; enoyl-CoA hydratase [EC:4.2.1.17]#Metabolism_Amino acid metabolism_00380 Tryptophan metabolism [PATH:ko00380]_paaF, echA; enoyl-CoA hydratase [EC:4.2.1.17]#Metabolism_Carbohydrate metabolism_00640 Propanoate metabolism [PATH:ko00640]_paaF, echA; enoyl-CoA hydratase [EC:4.2.1.17]#Metabolism_Carbohydrate metabolism_00650 Butanoate metabolism [PATH:ko00650]_paaF, echA; enoyl-CoA hydratase [EC:4.2.1.17]#Metabolism_Lipid metabolism_00071 Fatty acid degradation [PATH:ko00071]_paaF, echA; enoyl-CoA hydratase [EC:4.2.1.17]#Metabolism_Metabolism of other amino acids_00410 beta-Alanine metabolism [PATH:ko00410]_paaF, echA; enoyl-CoA hydratase [EC:4.2.1.17]#Metabolism_Metabolism of terpenoids and polyketides_00281 Geraniol degradation [PATH:ko00281]_paaF, echA; enoyl-CoA hydratase [EC:4.2.1.17]#Metabolism_Metabolism of terpenoids and polyketides_00903 Limonene and pinene degradation [PATH:ko00903]_paaF, echA; enoyl-CoA hydratase [EC:4.2.1.17]#Metabolism_Overview_01212 Fatty acid metabolism [PATH:ko01212]_paaF, echA; enoyl-CoA hydratase [EC:4.2.1.17]#Metabolism_Xenobiotics biodegradation and metabolism_00362 Benzoate degradation [PATH:ko00362]_paaF, echA; enoyl-CoA hydratase [EC:4.2.1.17]#Metabolism_Xenobiotics biodegradation and metabolism_00627 Aminobenzoate degradation [PATH:ko00627]_paaF, echA; enoyl-CoA hydratase [EC:4.2.1.17]#Metabolism_Xenobiotics biodegradation and metabolism_00930 Caprolactam degradation [PATH:ko00930]_paaF, echA; enoyl-CoA hydratase [EC:4.2.1.17]
+
+K03602	Genetic Information Processing_Replication and repair_03430 Mismatch repair [PATH:ko03430]_xseB; exodeoxyribonuclease VII small subunit [EC:3.1.11.6]
+
+K02389	Cellular Processes_Cell motility_02040 Flagellar assembly [PATH:ko02040]_flgD; flagellar basal-body rod modification protein FlgD
+
+K02829	Metabolism_Energy metabolism_00190 Oxidative phosphorylation [PATH:ko00190]_qoxD; cytochrome aa3-600 menaquinol oxidase subunit IV [EC:1.10.3.12]
+
+K02231	Metabolism_Metabolism of cofactors and vitamins_00860 Porphyrin and chlorophyll metabolism [PATH:ko00860]_cobP, cobU; adenosylcobinamide kinase / adenosylcobinamide-phosphate guanylyltransferase [EC:2.7.1.156 2.7.7.62]
+
+K11620	Environmental Information Processing_Signal transduction_02020 Two-component system [PATH:ko02020]_liaH; lia operon protein LiaH
+
+K02970	Genetic Information Processing_Translation_03010 Ribosome [PATH:ko03010]_RP-S21, MRPS21, rpsU; small subunit ribosomal protein S21
+
+K01821	Metabolism_Overview_01220 Degradation of aromatic compounds [PATH:ko01220]_praC, xylH; 4-oxalocrotonate tautomerase [EC:5.3.2.6]#Metabolism_Xenobiotics biodegradation and metabolism_00362 Benzoate degradation [PATH:ko00362]_praC, xylH; 4-oxalocrotonate tautomerase [EC:5.3.2.6]#Metabolism_Xenobiotics biodegradation and metabolism_00621 Dioxin degradation [PATH:ko00621]_praC, xylH; 4-oxalocrotonate tautomerase [EC:5.3.2.6]#Metabolism_Xenobiotics biodegradation and metabolism_00622 Xylene degradation [PATH:ko00622]_praC, xylH; 4-oxalocrotonate tautomerase [EC:5.3.2.6]
+
+K02902	Genetic Information Processing_Translation_03010 Ribosome [PATH:ko03010]_RP-L28, MRPL28, rpmB; large subunit ribosomal protein L28
+
+K02110	Metabolism_Energy metabolism_00190 Oxidative phosphorylation [PATH:ko00190]_ATPF0C, atpE; F-type H+-transporting ATPase subunit c#Metabolism_Energy metabolism_00195 Photosynthesis [PATH:ko00195]_ATPF0C, atpE; F-type H+-transporting ATPase subunit c
+
+K02275	Metabolism_Energy metabolism_00190 Oxidative phosphorylation [PATH:ko00190]_coxB; cytochrome c oxidase subunit II [EC:1.9.3.1]
+
+K02913	Genetic Information Processing_Translation_03010 Ribosome [PATH:ko03010]_RP-L33, MRPL33, rpmG; large subunit ribosomal protein L33
+
+K03563	Environmental Information Processing_Signal transduction_02020 Two-component system [PATH:ko02020]_csrA; carbon storage regulator
+
+K00901	Environmental Information Processing_Signal transduction_04070 Phosphatidylinositol signaling system [PATH:ko04070]_dgkA, DGK; diacylglycerol kinase (ATP) [EC:2.7.1.107]#Human Diseases_Cancers_05231 Choline metabolism in cancer [PATH:ko05231]_dgkA, DGK; diacylglycerol kinase (ATP) [EC:2.7.1.107]#Metabolism_Lipid metabolism_00561 Glycerolipid metabolism [PATH:ko00561]_dgkA, DGK; diacylglycerol kinase (ATP) [EC:2.7.1.107]#Metabolism_Lipid metabolism_00564 Glycerophospholipid metabolism [PATH:ko00564]_dgkA, DGK; diacylglycerol kinase (ATP) [EC:2.7.1.107]
+
+K07590	Genetic Information Processing_Translation_03010 Ribosome [PATH:ko03010]_RP-L7A, rplGB; large subunit ribosomal protein L7A
+
+K02907	Genetic Information Processing_Translation_03010 Ribosome [PATH:ko03010]_RP-L30, MRPL30, rpmD; large subunit ribosomal protein L30
+
+K01512	Metabolism_Carbohydrate metabolism_00620 Pyruvate metabolism [PATH:ko00620]_acyP; acylphosphatase [EC:3.6.1.7]#Metabolism_Xenobiotics biodegradation and metabolism_00627 Aminobenzoate degradation [PATH:ko00627]_acyP; acylphosphatase [EC:3.6.1.7]
+
+K13993	Genetic Information Processing_Folding, sorting and degradation_04141 Protein processing in endoplasmic reticulum [PATH:ko04141]_HSP20; HSP20 family protein
+
+K03408	Cellular Processes_Cell motility_02030 Bacterial chemotaxis [PATH:ko02030]_cheW; purine-binding chemotaxis protein CheW#Environmental Information Processing_Signal transduction_02020 Two-component system [PATH:ko02020]_cheW; purine-binding chemotaxis protein CheW
+
+K03763	Genetic Information Processing_Replication and repair_03030 DNA replication [PATH:ko03030]_DPO3A2, polC; DNA polymerase III subunit alpha, Gram-positive type [EC:2.7.7.7]#Genetic Information Processing_Replication and repair_03430 Mismatch repair [PATH:ko03430]_DPO3A2, polC; DNA polymerase III subunit alpha, Gram-positive type [EC:2.7.7.7]#Genetic Information Processing_Replication and repair_03440 Homologous recombination [PATH:ko03440]_DPO3A2, polC; DNA polymerase III subunit alpha, Gram-positive type [EC:2.7.7.7]#Metabolism_Nucleotide metabolism_00230 Purine metabolism [PATH:ko00230]_DPO3A2, polC; DNA polymerase III subunit alpha, Gram-positive type [EC:2.7.7.7]#Metabolism_Nucleotide metabolism_00240 Pyrimidine metabolism [PATH:ko00240]_DPO3A2, polC; DNA polymerase III subunit alpha, Gram-positive type [EC:2.7.7.7]
+
+K02919	Genetic Information Processing_Translation_03010 Ribosome [PATH:ko03010]_RP-L36, MRPL36, rpmJ; large subunit ribosomal protein L36
+
+K03073	Environmental Information Processing_Membrane transport_03070 Bacterial secretion system [PATH:ko03070]_secE; preprotein translocase subunit SecE#Genetic Information Processing_Folding, sorting and degradation_03060 Protein export [PATH:ko03060]_secE; preprotein translocase subunit SecE
+
+K03116	Environmental Information Processing_Membrane transport_03070 Bacterial secretion system [PATH:ko03070]_tatA; sec-independent protein translocase protein TatA#Genetic Information Processing_Folding, sorting and degradation_03060 Protein export [PATH:ko03060]_tatA; sec-independent protein translocase protein TatA
+
+K07213	Organismal Systems_Digestive system_04978 Mineral absorption [PATH:ko04978]_ATOX1, ATX1, copZ; copper chaperone
+
+K02408	Cellular Processes_Cell motility_02040 Flagellar assembly [PATH:ko02040]_fliE; flagellar hook-basal body complex protein FliE
+
+K03060	Genetic Information Processing_Transcription_03020 RNA polymerase [PATH:ko03020]_rpoZ; DNA-directed RNA polymerase subunit omega [EC:2.7.7.6]#Metabolism_Nucleotide metabolism_00230 Purine metabolism [PATH:ko00230]_rpoZ; DNA-directed RNA polymerase subunit omega [EC:2.7.7.6]#Metabolism_Nucleotide metabolism_00240 Pyrimidine metabolism [PATH:ko00240]_rpoZ; DNA-directed RNA polymerase subunit omega [EC:2.7.7.6]
+
+K03636	Genetic Information Processing_Folding, sorting and degradation_04122 Sulfur relay system [PATH:ko04122]_moaD; molybdopterin synthase sulfur carrier subunit#Metabolism_Metabolism of cofactors and vitamins_00790 Folate biosynthesis [PATH:ko00790]_moaD; molybdopterin synthase sulfur carrier subunit
+
+K03154	Genetic Information Processing_Folding, sorting and degradation_04122 Sulfur relay system [PATH:ko04122]_thiS; sulfur carrier protein
+
+K03116	Environmental Information Processing_Membrane transport_03070 Bacterial secretion system [PATH:ko03070]_tatA; sec-independent protein translocase protein TatA#Genetic Information Processing_Folding, sorting and degradation_03060 Protein export [PATH:ko03060]_tatA; sec-independent protein translocase protein TatA
+

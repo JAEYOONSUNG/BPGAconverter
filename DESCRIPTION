@@ -1,0 +1,45 @@
+Package: BPGAconverter
+Title: BPGAconverter
+Version: 1.0.0
+Authors@R: 
+    person("Jae-Yoon", "Sung", , "o3wodbs@gmail.com", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0002-2475-8743"))
+Description: What the package does (one paragraph).
+License: MIT
+Encoding: UTF-8
+Imports:
+    Biostrings,
+    ComplexHeatmap,
+    Peptides,
+    gtools,
+    ggplot2,
+    ggseqlogo,
+    grid,
+    gridExtra,
+    openxlsx,
+    plyr,
+    dplyr,
+    tidyr,
+    readr,
+    reshape2,
+    seqinr,
+    stringr,
+    data.table,
+    tibble,
+    qdap,
+    openxlsx,
+    splitstackshape, 
+    magrittr, 
+    sjmisc, 
+    ape, 
+    rentrez, 
+    reutils, 
+    ggnewscale, 
+    GGally, 
+    ggtree, 
+    functional
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.1
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
