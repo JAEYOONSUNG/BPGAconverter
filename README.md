@@ -59,7 +59,7 @@ devtools::install_github("JAEYOONSUNG/BPGAconverter")
 ```r
 setwd([Analysis directory]) # Set the working directory to the directory containing folders named GenBank, BPGA Supporting_files, and Results. The GenBank folder must include files with extensions such as .gbff, .gb, or .gbk.
 library(BPGAconverter)
-run_BPGAconverter() # for generating reconstructed table
+run_BPGAconvert() # for generating reconstructed table
 run_BPGAplot() # for generating figure
 ```
 
