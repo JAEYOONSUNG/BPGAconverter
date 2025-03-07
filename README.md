@@ -1,4 +1,4 @@
-# Welcome to the BPGAconverter, a combined scripts-based pipeline for comparative genomics analysis.
+# BPGAconverter, a combined scripts-based pipeline for comparative genomics analysis.
 Downstream processing of BPGA output files to generate user-friendly XLSX files and publication-ready figures.
 
 <img width="1356" alt="table" src="https://github.com/user-attachments/assets/c69f0733-dcbf-46be-867c-6fd7502ef9c7">
