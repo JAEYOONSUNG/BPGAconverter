@@ -470,7 +470,7 @@ Genbank_organizer <- function(gb_dir = NULL, save_output = FALSE) {
     contig_final$nt_seq_rev_comp <- sapply(contig_final$nt_seq, function(x) as.character(Biostrings::reverseComplement(Biostrings::DNAString(x))))
 
     contig_final <- contig_final %>% mutate(contig_final, "rearranged_nt_seq"=
-                                              case_when(grepl("\\-", `contig_final`$direction) ~ sapply(`contig_final`$nt_seq, function(x) as.character(Biostrings::reverseComplement(Biostrings::DNAString(x)))),
+                                              dplyr::case_when(grepl("\\-", `contig_final`$direction) ~ sapply(`contig_final`$nt_seq, function(x) as.character(Biostrings::reverseComplement(Biostrings::DNAString(x)))),
                                                         grepl("\\+", `contig_final`$direction) ~ sapply(`contig_final`$nt_seq, function(x) as.character(Biostrings::DNAString(x))))
     )
 
