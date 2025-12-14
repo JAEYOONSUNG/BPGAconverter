@@ -190,7 +190,7 @@ phylogeny_plot <- function(directory = NULL, save_plot = TRUE, save_palette = TR
     # Add formatted title as a grob
     plot_with_title <- gridExtra::arrangeGrob(
       grobs = list(ggplotGrob(plot)),
-      top = textGrob(
+      top = grid::textGrob(
         label = format_title(tree_files[i]),
         gp = gpar(fontsize = 12, fontface = "bold"),
         just = "left",  # Left-align the title
