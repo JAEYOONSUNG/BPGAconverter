@@ -106,8 +106,13 @@ pan_core_plot <- function(directory = NULL, save_plot = TRUE, plot_filename = NU
     dplyr::mutate(`Number of genomes` = as.numeric(`Number of genomes`))
 
   # Step 8: Compute Pan-Genome and Core-Genome
+  a <- get("a", envir = .GlobalEnv)
+  b <- get("b", envir = .GlobalEnv)
+  c_param <- get("c", envir = .GlobalEnv)  # c는 이름 변경
+  d_param <- get("d", envir = .GlobalEnv) 
+  
   pan_genome <- a * x^b
-  core_genome <- c * exp(d * x)
+  core_genome <- c_param * exp(d_param * x)
 
   # Generate data frame for visualization
   curve_data <- data.frame(
