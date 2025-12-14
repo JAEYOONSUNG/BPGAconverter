@@ -192,7 +192,7 @@ phylogeny_plot <- function(directory = NULL, save_plot = TRUE, save_palette = TR
       grobs = list(ggplotGrob(plot)),
       top = grid::textGrob(
         label = format_title(tree_files[i]),
-        gp = gpar(fontsize = 12, fontface = "bold"),
+        gp = grid::gpar(fontsize = 12, fontface = "bold"),
         just = "left",  # Left-align the title
         x = 0.05           # Align at the far left
       )
