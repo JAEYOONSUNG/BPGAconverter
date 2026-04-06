@@ -8,9 +8,6 @@ Downstream processing of BPGA output files to generate user-friendly XLSX files 
 ## Project Introduction
 
 Welcome to our GitHub repository, where we're excited to share a series of workflows designed to streamline processes in systems biology. This repository is composed of various scripts, each tailored to specific tasks within our broader research framework. Additionally, we're providing access to a curated database to enhance your research capabilities.
-- Project lead: Jae-Yoon Sung
-- Maintainers: Jae-Yoon Sung
-- Contributors: Jae-Yoon Sung
 
 ## Key Features
 - The BPGA pipeline encounters challenges when retrieving coding sequences (CDS) using protein_id, making it difficult to map back to the original sequence.
@@ -90,9 +87,9 @@ We hope our resources will prove invaluable to your research in systems biology.
 ## Citation
 If you use this piepline, please cite:
 ```
-[DNMB] DNMB: Accelerating the Domestication of Non-model Thermophilic Microorganisms Geobacillus stearothermohpilus as a Thermophilic Platform Cell.
-             Jae-Yoon Sung, Hyungbin Kim, Seong Do Kim, Sang Jae Lee, Seong Bo Kim, and Dong-Woo Lee. 2024.
-             XXX, XXX, https://doi.org/XXX
+[DNMB] DNMB: Programmable domestication of thermophilic bacteria through removal of non-canonical defense systems.
+			 Sung, J.Y., Lee, M.H., Park, J.S., Kim, H.B., Ganbat, D., Kim, D.G., Cho, H.W., Suh, M.K., Lee, J.S., Lee, S.J., Kim, S.B.*, and Lee, D.W.*.
+			 *bioRxiv* 2026.03.21.173436. (2026)  
 ```
 Please, cite also the underlying algorithm if it was used for the search step of DNMB:
 ```
